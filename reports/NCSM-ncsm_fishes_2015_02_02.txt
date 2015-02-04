@@ -1,0 +1,137 @@
+Report for Institution Code NCSM, Resource ncsm_fishes
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 64
+Number of records retrieved in searches: 1188
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Colombia ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: United States ; Times: 50
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-05 ; Times: 7
+	Date: 2015-01-06 ; Times: 3
+	Date: 2015-01-08 ; Times: 1
+	Date: 2015-01-09 ; Times: 5
+	Date: 2015-01-12 ; Times: 1
+	Date: 2015-01-13 ; Times: 2
+	Date: 2015-01-15 ; Times: 2
+	Date: 2015-01-16 ; Times: 4
+	Date: 2015-01-17 ; Times: 2
+	Date: 2015-01-19 ; Times: 6
+	Date: 2015-01-21 ; Times: 3
+	Date: 2015-01-22 ; Times: 5
+	Date: 2015-01-23 ; Times: 1
+	Date: 2015-01-24 ; Times: 2
+	Date: 2015-01-25 ; Times: 2
+	Date: 2015-01-26 ; Times: 1
+	Date: 2015-01-28 ; Times: 13
+	Date: 2015-01-29 ; Times: 2
+	Date: 2015-01-30 ; Times: 1
+	Date: 2015-01-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Wilson Creek type:specimen county:"Caldwell" stateprovince:"North Carolina" year <= 2014" ; Times: 2
+	Query: "mykiss" ; Times: 2
+	Query: "county:"Alleghany" stateprovince:"North Carolina" specificepithet:rupestris genus:Ambloplites year >= 1888 year <= 2014" ; Times: 1
+	Query: "Acipenser fulvescens" ; Times: 1
+	Query: "georgia southern" ; Times: 1
+	Query: "tryon" ; Times: 1
+	Query: "south fork catawba river nc" ; Times: 1
+	Query: "squid" ; Times: 1
+	Query: "genus:ictalurus mappable:1" ; Times: 1
+	Query: "lewis fork county:"Wilkes" stateprovince:"North Carolina" country:"United states"" ; Times: 1
+	Query: "UNLV" ; Times: 1
+	Query: "ant" ; Times: 1
+	Query: "distance(location,geopoint(14.987239525774257,101.2939453125))<100000" ; Times: 1
+	Query: "specificepithet:clarkii genus:Oncorhynchus" ; Times: 2
+	Query: "county:"cherokee" stateprovince:"oklahoma"" ; Times: 1
+	Query: "species numbers" ; Times: 1
+	Query: "county:"Leeds and Grenville" stateprovince:"Ontario" country:"Canada"" ; Times: 1
+	Query: "wilson creek caldwell county" ; Times: 1
+	Query: "9831" ; Times: 1
+	Query: "Oncorhynchus clarkii" ; Times: 2
+	Query: "ANSP" ; Times: 1
+	Query: "cardinal" ; Times: 1
+	Query: "avis" ; Times: 1
+	Query: "county:"Watauga" stateprovince:"North Carolina" specificepithet:rupestris genus:Ambloplites year >= 1888 year <= 2014" ; Times: 1
+	Query: "Wilson Caldwell County" ; Times: 1
+	Query: "county:"Wilkes" stateprovince:"North carolina"" ; Times: 1
+	Query: "year >= 2000 year <= 2015 distance(location,geopoint(8.971897294083027,98.96484375))<100000" ; Times: 1
+	Query: "cricket" ; Times: 2
+	Query: "Craig creek nc" ; Times: 1
+	Query: "distance(location,geopoint(-2.67968661580376,-88.79150390625))<100000" ; Times: 1
+	Query: "specificepithet:alosoides genus:Hiodon mappable:1" ; Times: 3
+	Query: "Seahorse" ; Times: 1
+	Query: "redside dace" ; Times: 1
+	Query: "beavers" ; Times: 1
+	Query: "nine banded" ; Times: 2
+	Query: "salvelinus fontinalis" ; Times: 3
+	Query: "w-nigrum" ; Times: 1
+	Query: "wilson caldwell county" ; Times: 2
+	Query: "specificepithet:macropogon genus:Ventrifossa" ; Times: 1
+	Query: "JAM 75" ; Times: 1
+	Query: "county:"Caldwell" stateprovince:"North Carolina"" ; Times: 1
+	Query: "seahorse" ; Times: 2
+	Query: "Hiodon alosoides" ; Times: 1
+	Query: "ophidion marginatum" ; Times: 1
+	Query: "county:"Ashe" stateprovince:"North Carolina" specificepithet:rupestris genus:Ambloplites year >= 1888 year <= 2014" ; Times: 1
+	Query: "lilliput" ; Times: 1
+	Query: "county:"Grayson" stateprovince:"Virginia" specificepithet:rupestris genus:Ambloplites year >= 1888 year <= 2014" ; Times: 1
+	Query: "chondrichthyes" ; Times: 1
+	Query: "nocomis biguttatus" ; Times: 2
+	Query: "monachus monachus" ; Times: 1
+	Query: "boa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 445 download events in this period)
+Total number of records downloaded: 123 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 123
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-06 ; Times: 1
+	Date: 2015-01-19 ; Times: 1
+	Date: 2015-01-21 ; Times: 1
+	Date: 2015-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "American badger" ; Times: 1
+	Query: "w-nigrum" ; Times: 1
+	Query: "Acipenser fulvescens" ; Times: 1
+	Query: "Sciurus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 314
+Total number of records retrieved from searches: 6947
+Number of download events that retrieved data from the resource: 4
+Total number of records downloaded: 123
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 378
+Total number of records retrieved from searches: 8135
+Number of download events that retrieved data from the resource: 40
+Total number of records downloaded: 778
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
