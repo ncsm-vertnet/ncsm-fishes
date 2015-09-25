@@ -1,0 +1,247 @@
+Report for Institution Code NCSM, Resource NCSM-Fishes
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 169
+Number of records retrieved in searches: 2258
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Benin ; Times: 7
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 4
+	Country: France ; Times: 9
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Puerto Rico ; Times: 1
+	Country: Russia ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 117
+	Country: Unknown ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 3
+	Date: 2015-08-02 ; Times: 2
+	Date: 2015-08-03 ; Times: 1
+	Date: 2015-08-04 ; Times: 5
+	Date: 2015-08-06 ; Times: 5
+	Date: 2015-08-07 ; Times: 12
+	Date: 2015-08-08 ; Times: 2
+	Date: 2015-08-09 ; Times: 10
+	Date: 2015-08-10 ; Times: 13
+	Date: 2015-08-11 ; Times: 8
+	Date: 2015-08-12 ; Times: 14
+	Date: 2015-08-14 ; Times: 4
+	Date: 2015-08-15 ; Times: 1
+	Date: 2015-08-17 ; Times: 7
+	Date: 2015-08-18 ; Times: 3
+	Date: 2015-08-19 ; Times: 6
+	Date: 2015-08-20 ; Times: 3
+	Date: 2015-08-21 ; Times: 6
+	Date: 2015-08-22 ; Times: 5
+	Date: 2015-08-23 ; Times: 2
+	Date: 2015-08-24 ; Times: 9
+	Date: 2015-08-25 ; Times: 9
+	Date: 2015-08-26 ; Times: 6
+	Date: 2015-08-27 ; Times: 12
+	Date: 2015-08-28 ; Times: 16
+	Date: 2015-08-29 ; Times: 2
+	Date: 2015-08-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "NCSM 74903" ; Times: 1
+	Query: "58227" ; Times: 1
+	Query: "Hybognathus nuchalis" ; Times: 1
+	Query: "catalognumber:8479" ; Times: 3
+	Query: "5073" ; Times: 2
+	Query: "48524" ; Times: 1
+	Query: "distance(location,geopoint(31.929861807802478,-81.93383775651455))<29447.56388712784" ; Times: 1
+	Query: "smallmouth bass" ; Times: 1
+	Query: "Ablennes hians" ; Times: 3
+	Query: "4380" ; Times: 4
+	Query: "27167" ; Times: 1
+	Query: "5907" ; Times: 1
+	Query: "7754" ; Times: 1
+	Query: "isurus oxyrinchus in atlantic" ; Times: 1
+	Query: "catalognumber:31491" ; Times: 1
+	Query: "19463" ; Times: 1
+	Query: "SR 1002" ; Times: 1
+	Query: "Pea Ridge" ; Times: 1
+	Query: "NCSM 49547" ; Times: 1
+	Query: "catalognumber:8568" ; Times: 1
+	Query: "Phoxinus tennesseensis" ; Times: 1
+	Query: "isurus oxyrinchus" ; Times: 6
+	Query: "stateprovince:"Virginia" specificepithet:atherinoides genus:Notropis" ; Times: 1
+	Query: "webb year >= 2000 year <= 2007" ; Times: 1
+	Query: "Notropis atherinoides stateprovince:"Virginia"" ; Times: 1
+	Query: "catalognumber:49060" ; Times: 1
+	Query: "Percina smithvanizi Alabama" ; Times: 1
+	Query: "Chrosomus tennesseensis" ; Times: 1
+	Query: "noturus placidus" ; Times: 15
+	Query: "Lythrurus lirus Alabama" ; Times: 3
+	Query: "stateprovince:"Virginia" specificepithet:gilberti genus:Noturus" ; Times: 2
+	Query: "Antietam stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "year >= 2010 year <= 2015 distance(location,geopoint(40.6306300839918,-76.080322265625))<100000" ; Times: 1
+	Query: "Flamingo Bay" ; Times: 1
+	Query: "Pitman" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"united states" specificepithet:bdellium genus:ichthyomyzon" ; Times: 2
+	Query: "catalognumber: 4725" ; Times: 1
+	Query: "alligator (skel OR skeleton)" ; Times: 1
+	Query: "Acanthostracion" ; Times: 1
+	Query: "aplochiton" ; Times: 1
+	Query: "13148" ; Times: 1
+	Query: "(photos)" ; Times: 1
+	Query: "gymnotiformes" ; Times: 1
+	Query: "Lavinia exilicauda" ; Times: 1
+	Query: "Lepomis" ; Times: 1
+	Query: "46549" ; Times: 1
+	Query: "54895" ; Times: 1
+	Query: "county:"Henderson" stateprovince:"North Carolina"" ; Times: 1
+	Query: "Notropis volucellus" ; Times: 4
+	Query: "county:"Patrick" stateprovince:"Virginia" specificepithet:gilberti genus:Noturus" ; Times: 1
+	Query: "etheostoma swaini" ; Times: 1
+	Query: "pristigenys niphonia" ; Times: 1
+	Query: "hellbender" ; Times: 1
+	Query: "encrasicholina punctifer" ; Times: 1
+	Query: "melanistic" ; Times: 1
+	Query: "white stork" ; Times: 1
+	Query: "Virginia stateprovince:"Maryland" year >= 1960 year <= 2015" ; Times: 1
+	Query: "graves" ; Times: 1
+	Query: "Etheostoma tallapoosae Alabama" ; Times: 1
+	Query: "CM 2824" ; Times: 1
+	Query: "genus:cottus" ; Times: 2
+	Query: "Hemitremia flammea alabama" ; Times: 2
+	Query: "JS 1150" ; Times: 1
+	Query: "SIUC 01-9" ; Times: 1
+	Query: "27999" ; Times: 1
+	Query: "NCSM 57184" ; Times: 1
+	Query: "stateprovince:"Virginia" specificepithet:variatum genus:Etheostoma" ; Times: 1
+	Query: "stateprovince:"Virginia" specificepithet:bdellium genus:Ichthyomyzon" ; Times: 1
+	Query: "NCSM 48988" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:carolinae genus:cottus" ; Times: 1
+	Query: "Pungitius" ; Times: 1
+	Query: "wetzel county west virginia" ; Times: 1
+	Query: "Ginglymostoma cirratum" ; Times: 1
+	Query: "NCSM 49098" ; Times: 1
+	Query: "56147" ; Times: 1
+	Query: "60313" ; Times: 1
+	Query: "cornutus" ; Times: 1
+	Query: "31955" ; Times: 1
+	Query: "Notropis alborus stateprovince:"Virginia"" ; Times: 1
+	Query: "country:"senegal"" ; Times: 1
+	Query: "catalognumber:43286" ; Times: 1
+	Query: "6294" ; Times: 1
+	Query: "58508" ; Times: 1
+	Query: "6213" ; Times: 1
+	Query: "county:"onslow" stateprovince:"North Carolina" country:"United States" year >= 1990 year <= 2015" ; Times: 5
+	Query: "NCSM 72688" ; Times: 1
+	Query: "catalognumber:52495" ; Times: 1
+	Query: "etheostoma swaini alabama" ; Times: 1
+	Query: "newfoundland" ; Times: 1
+	Query: "10270" ; Times: 1
+	Query: "county:"Scott" stateprovince:"Virginia"" ; Times: 1
+	Query: "kingsport" ; Times: 1
+	Query: "NCSM 32642" ; Times: 1
+	Query: "25393" ; Times: 1
+	Query: "Astyanax aeneus" ; Times: 1
+	Query: "Antietam country:"United States"" ; Times: 1
+	Query: "Gasterosteus" ; Times: 2
+	Query: "34677" ; Times: 1
+	Query: "Ichthyomyzon bdellium" ; Times: 1
+	Query: "pristigenys" ; Times: 2
+	Query: "stateprovince:"north carolina" country:"united states" specificepithet:carolinae genus:cottus" ; Times: 1
+	Query: "institutioncode:NCSM" ; Times: 2
+	Query: "catfish" ; Times: 1
+	Query: "Lythrurus lirus" ; Times: 10
+	Query: "catalognumber:21324" ; Times: 1
+	Query: "ansp" ; Times: 1
+	Query: "county:"Mercer" stateprovince:"New Jersey"" ; Times: 1
+	Query: "46610" ; Times: 1
+	Query: "Lepomis macrochirus" ; Times: 1
+	Query: "fishes" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+	Query: "6547" ; Times: 1
+	Query: "29475" ; Times: 1
+	Query: "Virginia stateprovince:"Maryland"" ; Times: 1
+	Query: "genus:Percina" ; Times: 1
+	Query: "Notropis volucellus NCSM" ; Times: 1
+	Query: "NCSM 49724" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1138 download events in this period)
+Total number of records downloaded: 6842 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3401
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 3
+	Country: France ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 16
+	Country: Unknown ; Times: 1
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-04 ; Times: 1
+	Date: 2015-08-06 ; Times: 1
+	Date: 2015-08-16 ; Times: 2
+	Date: 2015-08-17 ; Times: 10
+	Date: 2015-08-18 ; Times: 1
+	Date: 2015-08-21 ; Times: 1
+	Date: 2015-08-22 ; Times: 2
+	Date: 2015-08-24 ; Times: 1
+	Date: 2015-08-25 ; Times: 2
+	Date: 2015-08-27 ; Times: 1
+	Date: 2015-08-28 ; Times: 1
+	Date: 2015-08-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "mykiss" ; Times: 1
+	Query: "type:specimen stateprovince:"Delaware" country:"United States"" ; Times: 1
+	Query: "type:specimen stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "stateprovince:"Delaware" country:"United States"" ; Times: 1
+	Query: "country:"panama"" ; Times: 1
+	Query: "canis" ; Times: 1
+	Query: "riverside county" ; Times: 1
+	Query: "type:specimen stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "country:"Mexico" class:Actinopterygii" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: "stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "Etheostoma tallapoosae Alabama" ; Times: 1
+	Query: "stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "type:specimen stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "distance(location,geopoint(-3.5426625084420342,-59.47265803813934))<1104168" ; Times: 1
+	Query: "stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "type:specimen stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "country:Brazil" ; Times: 2
+	Query: "country:"peru"" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+	Query: "venezuela" ; Times: 2
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "Percina smithvanizi Alabama" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 169
+Total number of records retrieved from searches: 2258
+Number of download events that retrieved data from the resource: 27
+Total number of records downloaded: 6842
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 169
+Total number of records retrieved from searches: 2258
+Number of download events that retrieved data from the resource: 27
+Total number of records downloaded: 6842
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
