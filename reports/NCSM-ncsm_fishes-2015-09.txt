@@ -1,0 +1,209 @@
+Report for Institution Code NCSM, Resource ncsm_fishes
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 190
+Number of records retrieved in searches: 2584
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Costa Rica ; Times: 6
+	Country: Papua New Guinea ; Times: 1
+	Country: United States ; Times: 149
+	Country: Malaysia ; Times: 1
+	Country: French Guiana ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Russia ; Times: 9
+	Country: Singapore ; Times: 1
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-03 ; Times: 4
+	Date: 2015-09-23 ; Times: 2
+	Date: 2015-09-22 ; Times: 1
+	Date: 2015-09-10 ; Times: 2
+	Date: 2015-09-11 ; Times: 4
+	Date: 2015-09-13 ; Times: 1
+	Date: 2015-09-14 ; Times: 4
+	Date: 2015-09-15 ; Times: 2
+	Date: 2015-09-16 ; Times: 2
+	Date: 2015-09-17 ; Times: 4
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-19 ; Times: 3
+	Date: 2015-09-30 ; Times: 29
+	Date: 2015-09-28 ; Times: 3
+	Date: 2015-09-07 ; Times: 3
+	Date: 2015-09-06 ; Times: 4
+	Date: 2015-09-05 ; Times: 5
+	Date: 2015-09-04 ; Times: 7
+	Date: 2015-09-29 ; Times: 5
+	Date: 2015-09-02 ; Times: 56
+	Date: 2015-09-01 ; Times: 15
+	Date: 2015-09-25 ; Times: 3
+	Date: 2015-09-24 ; Times: 11
+	Date: 2015-09-26 ; Times: 9
+	Date: 2015-09-21 ; Times: 3
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-09 ; Times: 3
+	Date: 2015-09-08 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Castor" ; Times: 6
+	Query: "Crystallaria asprella" ; Times: 1
+	Query: "catalognumber:12073" ; Times: 1
+	Query: "catalognumber:48099" ; Times: 1
+	Query: "catalognumber:8171 institutioncode:NCSM" ; Times: 4
+	Query: "distance(location,geopoint(24.0802369569,-109.949505705))&lt;15000" ; Times: 1
+	Query: "P niger" ; Times: 1
+	Query: "distance(location,geopoint(24.4802369569,-110.649505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.8802369569,-111.049505705))&lt;10000" ; Times: 1
+	Query: "bryx" ; Times: 2
+	Query: "panther mappable:1" ; Times: 1
+	Query: "Field cricket" ; Times: 2
+	Query: "distance(location,geopoint(23.6802369569,-109.449505705))&lt;15000" ; Times: 1
+	Query: "Rainbow Bridge" ; Times: 2
+	Query: "type location" ; Times: 1
+	Query: "squamata (south carolina)" ; Times: 1
+	Query: "distance(location,geopoint(27.7802369569,-110.949505705))&lt;10000" ; Times: 1
+	Query: "aphredoderus sayanus" ; Times: 3
+	Query: "FLYINGFISH" ; Times: 1
+	Query: "cyprinella" ; Times: 1
+	Query: "catalognumber:6141" ; Times: 1
+	Query: "jefferson county west virginia" ; Times: 1
+	Query: "distance(location,geopoint(24.3802369569,-110.149505705))&lt;15000" ; Times: 1
+	Query: "17255" ; Times: 1
+	Query: "27176" ; Times: 1
+	Query: "Gasterosteus wheatlandi" ; Times: 23
+	Query: "noturus placidus" ; Times: 4
+	Query: "SR 1524" ; Times: 2
+	Query: "ambloplites rupestris" ; Times: 3
+	Query: "unicorn" ; Times: 5
+	Query: "specificepithet:micropogon genus:Nocomis" ; Times: 1
+	Query: "distance(location,geopoint(23.6802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "brooklyn museum" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-110.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.9802369569,-110.849505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(27.8802369569,-111.049505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.3802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "witch" ; Times: 4
+	Query: "distance(location,geopoint(21.2802369569,-105.349505705))&lt;15000" ; Times: 1
+	Query: "Oxbow" ; Times: 1
+	Query: "catalognumber:5861" ; Times: 1
+	Query: "Angola" ; Times: 1
+	Query: "distance(location,geopoint(27.7802369569,-111.049505705))&lt;15000" ; Times: 1
+	Query: "type:specimen catalognumber:19612" ; Times: 1
+	Query: "SR 1509 institutioncode:NCSM" ; Times: 3
+	Query: "Percina maculata" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "distance(location,geopoint(27.8802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.7802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "Scyliorhinus" ; Times: 1
+	Query: "etheostoma" ; Times: 1
+	Query: "distance(location,geopoint(21.4802369569,-105.249505705))&lt;10000" ; Times: 1
+	Query: "county:&#34;osage&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "SR 1002 institutioncode:NCSM" ; Times: 1
+	Query: "Minnesota Bell Museum of Natural History" ; Times: 1
+	Query: "distance(location,geopoint(27.8802369569,-110.849505705))&lt;10000" ; Times: 1
+	Query: "58779" ; Times: 1
+	Query: "distance(location,geopoint(24.5802369569,-110.249505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.0802369569,-109.849505705))&lt;15000" ; Times: 1
+	Query: "Salvelinus fontinalis" ; Times: 2
+	Query: "cosmocampus" ; Times: 1
+	Query: "distance(location,geopoint(27.7802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "cricket" ; Times: 1
+	Query: "distance(location,geopoint(23.8802369569,-109.649505705))&lt;15000" ; Times: 1
+	Query: "AUM" ; Times: 1
+	Query: "river darter" ; Times: 1
+	Query: "lauderdale" ; Times: 1
+	Query: "catalognumber:49294" ; Times: 1
+	Query: "distance(location,geopoint(27.8802369569,-110.649505705))&lt;15000" ; Times: 1
+	Query: "specificepithet:brevirostrum genus:acipenser" ; Times: 3
+	Query: "plants" ; Times: 2
+	Query: "distance(location,geopoint(24.0802369569,-109.849505705))&lt;10000" ; Times: 1
+	Query: "turtles" ; Times: 2
+	Query: "distance(location,geopoint(24.0802369569,-109.649505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.8802369569,-110.749505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.0802369569,-109.749505705))&lt;10000" ; Times: 1
+	Query: "catalognumber:30513" ; Times: 2
+	Query: "specificepithet:stigmaeum genus:Etheostoma mappable:1" ; Times: 1
+	Query: "catalognumber:8172 institutioncode:NCSM" ; Times: 1
+	Query: "SR 1505 institutioncode:NCSM" ; Times: 4
+	Query: "distance(location,geopoint(24.3802369569,-110.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.4802369569,-110.249505705))&lt;15000" ; Times: 1
+	Query: "geminatus" ; Times: 1
+	Query: "64800" ; Times: 1
+	Query: "institutioncode:NCSM" ; Times: 1
+	Query: "distance(location,geopoint(24.1802369569,-110.349505705))&lt;10000" ; Times: 1
+	Query: "R.30826" ; Times: 1
+	Query: "catalognumber:62042" ; Times: 1
+	Query: "pristis zijsron" ; Times: 1
+	Query: "butterfly" ; Times: 1
+	Query: "parachromis managuensis" ; Times: 6
+	Query: "Apeltes quadracus" ; Times: 17
+	Query: "distance(location,geopoint(23.8802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "21878" ; Times: 2
+	Query: "Macedonia" ; Times: 1
+	Query: "SR 1524 institutioncode:NCSM" ; Times: 2
+	Query: "distance(location,geopoint(23.7802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "catalognumber:8427 institutioncode:NCSM" ; Times: 1
+	Query: "distance(location,geopoint(21.3802369569,-105.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.0802369569,-109.749505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.3802369569,-110.349505705))&lt;10000" ; Times: 1
+	Query: "hexanchus griseus" ; Times: 2
+	Query: "distance(location,geopoint(27.9802369569,-111.349505705))&lt;15000" ; Times: 1
+	Query: "catalognumber:13183 collectioncode:NCSM" ; Times: 1
+	Query: "7749" ; Times: 2
+	Query: "catalognumber:37878 collectioncode:NCSM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1045 download events in this period)
+Total number of records downloaded: 2406
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 5
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-10 ; Times: 4
+	Date: 2015-09-05 ; Times: 1
+	Date: 2015-09-02 ; Times: 2
+	Date: 2015-09-01 ; Times: 3
+	Date: 2015-09-24 ; Times: 1
+	Date: 2015-09-08 ; Times: 1
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-23 ; Times: 2
+	Date: 2015-09-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:cichlasoma" ; Times: 1
+	Query: "family:cichlidae" ; Times: 1
+	Query: "Morehead" ; Times: 1
+	Query: "Etheostoma tallapoosae" ; Times: 1
+	Query: "genus:Percina" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "parachromis managuensis" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "Bison bison" ; Times: 2
+	Query: "Vulpes vulpes" ; Times: 2
+	Query: "New Guinea" ; Times: 2
+
+
+End of report.
