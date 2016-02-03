@@ -1,0 +1,124 @@
+Report for Institution Code NCSM, Resource ncsm_fishes
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 96
+Number of records retrieved in searches: 1728
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 59
+	Country: Unknown ; Times: 5
+	Country: Russia ; Times: 26
+	Country: Portugal ; Times: 5
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 2
+	Date: 2015-12-08 ; Times: 2
+	Date: 2015-12-03 ; Times: 2
+	Date: 2015-12-02 ; Times: 4
+	Date: 2015-12-01 ; Times: 4
+	Date: 2015-12-07 ; Times: 6
+	Date: 2015-12-05 ; Times: 3
+	Date: 2015-12-04 ; Times: 2
+	Date: 2015-12-21 ; Times: 1
+	Date: 2015-12-20 ; Times: 2
+	Date: 2015-12-22 ; Times: 4
+	Date: 2015-12-24 ; Times: 2
+	Date: 2015-12-27 ; Times: 3
+	Date: 2015-12-26 ; Times: 1
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-28 ; Times: 2
+	Date: 2015-12-31 ; Times: 3
+	Date: 2015-12-14 ; Times: 8
+	Date: 2015-12-15 ; Times: 4
+	Date: 2015-12-17 ; Times: 13
+	Date: 2015-12-10 ; Times: 3
+	Date: 2015-12-11 ; Times: 10
+	Date: 2015-12-12 ; Times: 2
+	Date: 2015-12-18 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 2
+	Query: "common raccoon" ; Times: 1
+	Query: "pristis pectinata" ; Times: 2
+	Query: "Etheostoma denoncourti" ; Times: 1
+	Query: "Cyprinella whipplei" ; Times: 3
+	Query: "county:&#34;sullivan&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "collectioncode:NCSM (Lockwood)" ; Times: 2
+	Query: "lampetra" ; Times: 1
+	Query: "B761" ; Times: 1
+	Query: "apodus" ; Times: 1
+	Query: "Cyprinella whipplei (Virginia)" ; Times: 1
+	Query: "catalognumber:46477" ; Times: 1
+	Query: "pterois miles" ; Times: 1
+	Query: "catalognumber:73504" ; Times: 1
+	Query: "SR 1318 collectioncode:NCSM" ; Times: 2
+	Query: "Percina rex (Virginia)" ; Times: 2
+	Query: "cardinal" ; Times: 1
+	Query: "Etheostoma percnurum (Virginia)" ; Times: 1
+	Query: "torpedo" ; Times: 5
+	Query: "blacknose dace" ; Times: 1
+	Query: "Percina rex" ; Times: 1
+	Query: "Etheostoma collis (Virginia)" ; Times: 1
+	Query: "Enneacanthus chaetodon" ; Times: 1
+	Query: "Etheostoma denoncourti (Virginia)" ; Times: 1
+	Query: "Erimonax monachus" ; Times: 1
+	Query: "catalognumber:51891" ; Times: 1
+	Query: "Etheostoma chlorobranchium" ; Times: 1
+	Query: "garret county maryland" ; Times: 1
+	Query: "Etheostoma collis" ; Times: 1
+	Query: "family:Anguillidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Amiidae country:&#34;United States&#34;" ; Times: 1
+	Query: "pittsburg oklahoma" ; Times: 1
+	Query: "hellbender" ; Times: 1
+	Query: "Ammocrypta clara" ; Times: 4
+	Query: "unicorn" ; Times: 12
+	Query: "percina rex" ; Times: 1
+	Query: "Notropis atherinoides (Virginia)" ; Times: 1
+	Query: "family:loricariidae" ; Times: 1
+	Query: "accomac virginia" ; Times: 1
+	Query: "rhinichthys atratulus" ; Times: 1
+	Query: "Erimystax cahni" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 4
+	Query: "12522" ; Times: 2
+	Query: "Mycteroperca venenosa" ; Times: 1
+	Query: "Etheostoma variatum (&#34;Virginia&#34;)" ; Times: 1
+	Query: "Chrosomus tennesseensis" ; Times: 2
+	Query: "witch" ; Times: 16
+	Query: "acuminatus" ; Times: 1
+	Query: "73952" ; Times: 1
+	Query: "Notropis atherinoides" ; Times: 1
+	Query: "class:Actinopterygii collectioncode:NCSM (Beane)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 889 download events in this period)
+Total number of records downloaded: 6414
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Uruguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-01 ; Times: 1
+	Date: 2015-12-14 ; Times: 1
+	Date: 2015-12-17 ; Times: 1
+	Date: 2015-12-11 ; Times: 1
+	Date: 2015-12-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "common raccoon" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "family:Anguillidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Amiidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Lepomis" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 1
+
+
+End of report.
