@@ -1,0 +1,140 @@
+Report for Institution Code NCSM, Resource ncsm_fishes
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 89
+Number of records retrieved in searches: 1350
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 2
+	Country: United States ; Times: 51
+	Country: Germany ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Russia ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 2
+	Date: 2015-10-17 ; Times: 1
+	Date: 2015-10-14 ; Times: 3
+	Date: 2015-10-15 ; Times: 3
+	Date: 2015-10-12 ; Times: 2
+	Date: 2015-10-13 ; Times: 6
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-19 ; Times: 5
+	Date: 2015-10-28 ; Times: 2
+	Date: 2015-10-27 ; Times: 4
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-23 ; Times: 5
+	Date: 2015-10-22 ; Times: 5
+	Date: 2015-10-21 ; Times: 4
+	Date: 2015-10-20 ; Times: 5
+	Date: 2015-10-05 ; Times: 3
+	Date: 2015-10-04 ; Times: 2
+	Date: 2015-10-07 ; Times: 3
+	Date: 2015-10-06 ; Times: 8
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 3
+	Date: 2015-10-08 ; Times: 12
+	Date: 2015-10-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 5
+	Query: "32700" ; Times: 1
+	Query: "61430" ; Times: 1
+	Query: "10164" ; Times: 1
+	Query: "Wetzel" ; Times: 1
+	Query: "12739" ; Times: 1
+	Query: "Ledbetter county:&#34;Richmond&#34;" ; Times: 2
+	Query: "coldwater county:&#34;calhoun&#34; stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "Stegastes" ; Times: 1
+	Query: "suffolk county north country road" ; Times: 1
+	Query: "CM 2728" ; Times: 1
+	Query: "Jaguar" ; Times: 1
+	Query: "heptranchias" ; Times: 1
+	Query: "Monmouth New Jersey" ; Times: 1
+	Query: "21258" ; Times: 1
+	Query: "Pimephales notatus" ; Times: 1
+	Query: "15205" ; Times: 1
+	Query: "Pimephales promelas" ; Times: 1
+	Query: "lamnidae heart" ; Times: 2
+	Query: "catalognumber:50000" ; Times: 1
+	Query: "Bifax" ; Times: 1
+	Query: "cardinal" ; Times: 1
+	Query: "gambusia affinis stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "nocomis micropogon" ; Times: 1
+	Query: "county:&#34;Craig&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "snook" ; Times: 1
+	Query: "west virginia sleepy creek" ; Times: 1
+	Query: "SR 1340 collectioncode:NCSM" ; Times: 1
+	Query: "oligolepis" ; Times: 1
+	Query: "catalognumber:30246" ; Times: 1
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "Derby county:&#34;Richmond&#34;" ; Times: 2
+	Query: "catalognumber:27542" ; Times: 1
+	Query: "leopard" ; Times: 1
+	Query: "catalognumber:29329" ; Times: 1
+	Query: "23218" ; Times: 1
+	Query: "22250" ; Times: 1
+	Query: "etheostoma spectabile" ; Times: 1
+	Query: "27542" ; Times: 1
+	Query: "unicorn" ; Times: 14
+	Query: "catalognumber:30039" ; Times: 1
+	Query: "catalognumber:67850" ; Times: 1
+	Query: "gambusia affinis" ; Times: 1
+	Query: "hellbender" ; Times: 1
+	Query: "26998" ; Times: 1
+	Query: "Clinostomus" ; Times: 6
+	Query: "fluid preservation" ; Times: 1
+	Query: "genus:hypomesus county:&#34;contra costa&#34;" ; Times: 1
+	Query: "43288" ; Times: 1
+	Query: "catalognumber:33095" ; Times: 1
+	Query: "nipissing" ; Times: 2
+	Query: "western pond turtle" ; Times: 1
+	Query: "witch" ; Times: 9
+	Query: "type:specimen catalognumber:29329" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 823 download events in this period)
+Total number of records downloaded: 1497
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: India ; Times: 1
+	Country: Uganda ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 1
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-19 ; Times: 2
+	Date: 2015-10-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "uganda" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "Clinostomus" ; Times: 1
+	Query: "marmorata" ; Times: 1
+	Query: "gambusia affinis stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "Amboy" ; Times: 1
+	Query: "Monmouth New Jersey" ; Times: 1
+	Query: "stateprovince:&#34;Karnataka&#34; country:&#34;India&#34;" ; Times: 1
+
+
+End of report.
