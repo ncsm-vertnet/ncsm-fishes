@@ -1,0 +1,137 @@
+Report for Institution Code NCSM, Resource ncsm_fishes
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 104
+Number of records retrieved in searches: 1815
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Czech Republic ; Times: 8
+	Country: Mexico ; Times: 36
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 48
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-08 ; Times: 6
+	Date: 2016-02-19 ; Times: 3
+	Date: 2016-02-12 ; Times: 1
+	Date: 2016-02-13 ; Times: 3
+	Date: 2016-02-10 ; Times: 1
+	Date: 2016-02-11 ; Times: 2
+	Date: 2016-02-16 ; Times: 17
+	Date: 2016-02-17 ; Times: 5
+	Date: 2016-02-15 ; Times: 12
+	Date: 2016-02-29 ; Times: 3
+	Date: 2016-02-02 ; Times: 3
+	Date: 2016-02-23 ; Times: 3
+	Date: 2016-02-22 ; Times: 6
+	Date: 2016-02-21 ; Times: 1
+	Date: 2016-02-26 ; Times: 5
+	Date: 2016-02-25 ; Times: 4
+	Date: 2016-02-24 ; Times: 8
+	Date: 2016-02-03 ; Times: 4
+	Date: 2016-02-28 ; Times: 3
+	Date: 2016-02-05 ; Times: 6
+	Date: 2016-02-04 ; Times: 5
+	Date: 2016-02-07 ; Times: 1
+	Date: 2016-02-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Etheostoma obeyense" ; Times: 3
+	Query: "30149" ; Times: 1
+	Query: "Istiophoridae" ; Times: 3
+	Query: "Carcharhinidae" ; Times: 1
+	Query: "Chlorurus sordidus" ; Times: 1
+	Query: "Istiophoridae type:specimen" ; Times: 5
+	Query: "dolphin" ; Times: 1
+	Query: "presence absence" ; Times: 1
+	Query: "Lepisosteus oculatus" ; Times: 4
+	Query: "vertebrae" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "GALEOCERDO CUVIER" ; Times: 1
+	Query: "amia calva" ; Times: 11
+	Query: "Rhinobatos lentiginosus" ; Times: 3
+	Query: "raccoon" ; Times: 1
+	Query: "Cymatogaster aggregata" ; Times: 1
+	Query: "38377" ; Times: 1
+	Query: "1900 jackson" ; Times: 1
+	Query: "Bergen Swamp" ; Times: 4
+	Query: "Caulolatilus princeps" ; Times: 1
+	Query: "cardinal" ; Times: 1
+	Query: "CARCHARHINUS ACRONOTUS" ; Times: 1
+	Query: "Sphyrna tiburo" ; Times: 1
+	Query: "catalognumber:67850" ; Times: 1
+	Query: "darter" ; Times: 1
+	Query: "amblyopsis" ; Times: 1
+	Query: "3991" ; Times: 1
+	Query: "Finescale Triggerfish" ; Times: 1
+	Query: "Armbruster" ; Times: 1
+	Query: "46719" ; Times: 1
+	Query: "55253" ; Times: 1
+	Query: "sphyrna" ; Times: 1
+	Query: "cetorhinus maximus" ; Times: 1
+	Query: "Cryptotomus roseus" ; Times: 1
+	Query: "Poecilia butleri" ; Times: 1
+	Query: "tom white" ; Times: 1
+	Query: "hellbender" ; Times: 1
+	Query: "witch" ; Times: 6
+	Query: "sphyrna tiburo" ; Times: 3
+	Query: "unicorn" ; Times: 3
+	Query: "fishes" ; Times: 2
+	Query: "33903" ; Times: 1
+	Query: "Triakis semifasciata" ; Times: 1
+	Query: "Paralabrax maculatofasciatus" ; Times: 1
+	Query: "Acipenseridae" ; Times: 2
+	Query: "Squalus acanthias" ; Times: 1
+	Query: "darter fish" ; Times: 1
+	Query: "cranberry creek ashe north carolina" ; Times: 2
+	Query: "Hellbenders" ; Times: 1
+	Query: "Rhinichthys" ; Times: 1
+	Query: "72101" ; Times: 1
+	Query: "Rhinobatos" ; Times: 1
+	Query: "zonata" ; Times: 1
+	Query: "Heptranchias perlo" ; Times: 1
+	Query: "Porichthys notatus" ; Times: 1
+	Query: "Rhizoprionodon terraenovae" ; Times: 4
+	Query: "viper fish" ; Times: 3
+	Query: "33755" ; Times: 1
+	Query: "oarfish" ; Times: 1
+	Query: "Pacific Mackerel" ; Times: 1
+	Query: "Mola mola" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 512 download events in this period)
+Total number of records downloaded: 823
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-18 ; Times: 1
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:actinopterygii mappable:1 stateprovince:Wyoming" ; Times: 1
+	Query: "class:actinopterygii mappable:1 stateprovince:Washington" ; Times: 2
+	Query: "county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "sculpin" ; Times: 1
+	Query: "amia calva" ; Times: 1
+
+
+End of report.
