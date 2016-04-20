@@ -1,0 +1,91 @@
+Report for Institution Code NCSM, Resource ncsm_fishes
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 241
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Unknown ; Times: 3
+	Country: Netherlands ; Times: 2
+	Country: Russia ; Times: 7
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 2
+	Date: 2016-03-14 ; Times: 2
+	Date: 2016-03-10 ; Times: 9
+	Date: 2016-03-01 ; Times: 3
+	Date: 2016-03-08 ; Times: 1
+	Date: 2016-03-09 ; Times: 5
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-04 ; Times: 2
+	Date: 2016-03-05 ; Times: 4
+	Date: 2016-03-11 ; Times: 2
+	Date: 2016-03-03 ; Times: 2
+	Date: 2016-03-13 ; Times: 1
+	Date: 2016-03-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 4
+	Query: "Percina williamsi" ; Times: 1
+	Query: "Noturus flavipinnis (Virginia)" ; Times: 1
+	Query: "type:specimen distance(location,geopoint(45.304772583725104,-62.7099609375))&lt;100000" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "starry flounder" ; Times: 1
+	Query: "Parachromis" ; Times: 1
+	Query: "Urobatis halleri" ; Times: 1
+	Query: "MFC 201" ; Times: 1
+	Query: "2229" ; Times: 1
+	Query: "monongahela" ; Times: 1
+	Query: "Etheostoma percnurum (Virginia)" ; Times: 2
+	Query: "parachromis" ; Times: 1
+	Query: "Antimora" ; Times: 1
+	Query: "Etheostoma percnurum" ; Times: 1
+	Query: "etheostoma olmstedi" ; Times: 1
+	Query: "persons" ; Times: 1
+	Query: "osborne" ; Times: 1
+	Query: "witch" ; Times: 3
+	Query: "Nocomis biguttatus" ; Times: 3
+	Query: "unicorn" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "tv online" ; Times: 1
+	Query: "Noturus gilberti (Virginia)" ; Times: 1
+	Query: "hippoglossoides elassodon" ; Times: 1
+	Query: "Effingham" ; Times: 1
+	Query: "golden trout" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 230 download events in this period)
+Total number of records downloaded: 9279
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 40
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-11 ; Times: 4
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-09 ; Times: 11
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-14 ; Times: 7
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-10 ; Times: 7
+	Date: 2016-03-13 ; Times: 6
+	Date: 2016-03-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "tissue" ; Times: 39
+	Query: "class:Actinopterygii country:&#34;Guyana&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "Indian Cove" ; Times: 1
+
+
+End of report.
