@@ -1,0 +1,247 @@
+Report for Institution Code NCSM, Resource ncsm_fishes
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 733
+Number of records retrieved in searches: 27987
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: United States ; Times: 645
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 56
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 8
+	Country: Brazil ; Times: 3
+	Country: Russia ; Times: 6
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 531
+	Date: 2016-06-24 ; Times: 2
+	Date: 2016-06-23 ; Times: 9
+	Date: 2016-06-22 ; Times: 12
+	Date: 2016-06-21 ; Times: 7
+	Date: 2016-06-20 ; Times: 2
+	Date: 2016-06-05 ; Times: 3
+	Date: 2016-06-04 ; Times: 1
+	Date: 2016-06-07 ; Times: 23
+	Date: 2016-06-01 ; Times: 20
+	Date: 2016-06-03 ; Times: 5
+	Date: 2016-06-02 ; Times: 30
+	Date: 2016-06-09 ; Times: 4
+	Date: 2016-06-08 ; Times: 7
+	Date: 2016-06-18 ; Times: 4
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-16 ; Times: 17
+	Date: 2016-06-17 ; Times: 2
+	Date: 2016-06-14 ; Times: 20
+	Date: 2016-06-15 ; Times: 10
+	Date: 2016-06-13 ; Times: 19
+	Date: 2016-06-10 ; Times: 2
+	Date: 2016-06-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "14852" ; Times: 1
+	Query: "57529" ; Times: 1
+	Query: "49731" ; Times: 1
+	Query: "Oncorhynchus clarkii virginalis stateprovince:&#34;New Mexico&#34; mappable:1" ; Times: 1
+	Query: "White marlin" ; Times: 4
+	Query: "46539" ; Times: 1
+	Query: "bison bison   " ; Times: 6
+	Query: "london" ; Times: 1
+	Query: "61180" ; Times: 1
+	Query: "catalognumber:54126" ; Times: 1
+	Query: "53562" ; Times: 1
+	Query: "34808" ; Times: 1
+	Query: "59026" ; Times: 1
+	Query: "30753" ; Times: 1
+	Query: "specificepithet:cruentatus genus:Heteropriacanthus" ; Times: 1
+	Query: "12522" ; Times: 1
+	Query: "specificepithet:cataractae genus:Micropterus" ; Times: 1
+	Query: "aum" ; Times: 1
+	Query: "specificepithet:annulatus genus:Sphoeroides" ; Times: 2
+	Query: "specificepithet:venenosa genus:Mycteroperca" ; Times: 9
+	Query: "bubalus" ; Times: 1
+	Query: "35018" ; Times: 1
+	Query: "Andalusia" ; Times: 1
+	Query: "13164" ; Times: 1
+	Query: "specificepithet:affinis genus:Caulolatilus" ; Times: 1
+	Query: "73821" ; Times: 1
+	Query: "14352" ; Times: 1
+	Query: "Hellbender" ; Times: 1
+	Query: "specificepithet:princeps genus:Caulolatilus" ; Times: 1
+	Query: "Beaty specimens" ; Times: 5
+	Query: "18771" ; Times: 1
+	Query: "specificepithet:furcifer genus:Paranthias" ; Times: 6
+	Query: "specificepithet:fimbriata genus:Cyclopsetta" ; Times: 1
+	Query: "38682" ; Times: 1
+	Query: "mallard" ; Times: 2
+	Query: "specificepithet:lineatus genus:Achirus" ; Times: 2
+	Query: "specificepithet:gibbosus genus:Dentex" ; Times: 2
+	Query: "noturus placidus" ; Times: 6
+	Query: "49990" ; Times: 1
+	Query: "73277" ; Times: 1
+	Query: "specificepithet:alalunga genus:Thunnus" ; Times: 27
+	Query: "specificepithet:variegatus genus:Cyprinodon" ; Times: 5
+	Query: "26378" ; Times: 1
+	Query: "sturgeon" ; Times: 1
+	Query: "8442" ; Times: 2
+	Query: "53440" ; Times: 1
+	Query: "specificepithet:maculatofasciatus genus:Paralabrax" ; Times: 1
+	Query: "11139" ; Times: 4
+	Query: "specificepithet:cephalus genus:Mugil continent:North America year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 3
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 29
+	Query: "county:&#34;Chilton&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "genus:Mola institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:scriptus genus:Aluterus" ; Times: 1
+	Query: "specificepithet:americanus genus:Menticirrhus" ; Times: 2
+	Query: "56134" ; Times: 1
+	Query: "genus:Mola" ; Times: 2
+	Query: "14299" ; Times: 1
+	Query: "fundulus grandis" ; Times: 2
+	Query: "46494" ; Times: 1
+	Query: "Gila pandora stateprovince:&#34;New Mexico&#34; mappable:1" ; Times: 1
+	Query: "54714" ; Times: 1
+	Query: "8516" ; Times: 1
+	Query: "34780" ; Times: 1
+	Query: "3262" ; Times: 1
+	Query: "witch" ; Times: 6
+	Query: "11899" ; Times: 3
+	Query: "rhinichthys" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 4
+	Query: "hellbender" ; Times: 4
+	Query: "specificepithet:bahianus genus:Acanthurus" ; Times: 7
+	Query: "specificepithet:bubalus genus:Ictiobus" ; Times: 4
+	Query: "specificepithet:spilopterus genus:Citharichthys" ; Times: 2
+	Query: "27097" ; Times: 1
+	Query: "Springs AND Island NOT Mexico" ; Times: 1
+	Query: "35723" ; Times: 1
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 130
+	Query: "catalognumber:35344" ; Times: 2
+	Query: "salmonidae" ; Times: 1
+	Query: "Telescopus" ; Times: 2
+	Query: "specificepithet:lewini genus:Sphyrna" ; Times: 2
+	Query: "Makaira nigricans" ; Times: 1
+	Query: "7777" ; Times: 1
+	Query: "4107" ; Times: 1
+	Query: "7017" ; Times: 1
+	Query: "specificepithet:nobilis genus:Hypophthalmichthys" ; Times: 2
+	Query: "59041" ; Times: 2
+	Query: "34844" ; Times: 1
+	Query: "type:specimen catalognumber:1062" ; Times: 1
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 17
+	Query: "county:&#34;Garfield&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "catalognumber:7690" ; Times: 1
+	Query: "53 county:&#34;Bladen&#34;" ; Times: 5
+	Query: "specificepithet:rostrata genus:Anguilla" ; Times: 90
+	Query: "specificepithet:soporator genus:Bathygobius" ; Times: 4
+	Query: "38590" ; Times: 1
+	Query: "specificepithet:crocodilus genus:Tylosurus" ; Times: 22
+	Query: "nebulosus" ; Times: 1
+	Query: "specificepithet:albacares genus:Thunnus" ; Times: 91
+	Query: "61247" ; Times: 1
+	Query: "64135" ; Times: 1
+	Query: "specificepithet:labriformis genus:Epinephelus" ; Times: 1
+	Query: "61092" ; Times: 1
+	Query: "4774" ; Times: 1
+	Query: "Acipenser" ; Times: 1
+	Query: "Isla Margarita AND Mexico NOT Lamb" ; Times: 1
+	Query: "county:&#34;Hampton&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:itajara genus:Epinephelus" ; Times: 1
+	Query: "rhinichthys osculus" ; Times: 1
+	Query: "72923" ; Times: 1
+	Query: "catalognumber:8894" ; Times: 1
+	Query: "specificepithet:thazard genus:Auxis" ; Times: 1
+	Query: "specificepithet:tiburo genus:Sphyrna" ; Times: 1
+	Query: "4689" ; Times: 1
+	Query: "210 county:&#34;Bladen&#34;" ; Times: 3
+	Query: "Isla Margarita AND Mexico NOT Lamb NOT Fish" ; Times: 1
+	Query: "specificepithet:argalus genus:Platybelone" ; Times: 1
+	Query: "Amia calva" ; Times: 2
+	Query: "PRISTIS PRISTIS" ; Times: 1
+	Query: "catalognumber:72923" ; Times: 1
+	Query: "29961" ; Times: 2
+	Query: "catalognumber:45180" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 18
+	Query: "7173" ; Times: 1
+	Query: "catalognumber:59500" ; Times: 1
+	Query: "county:&#34;Hampton&#34;" ; Times: 1
+	Query: "lepisosteidae" ; Times: 18
+	Query: "amia calva" ; Times: 3
+	Query: "59028" ; Times: 1
+	Query: "Aplochiton 1" ; Times: 5
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "14557" ; Times: 1
+	Query: "specificepithet:rosacea genus:Mycteroperca" ; Times: 1
+	Query: "34876" ; Times: 1
+	Query: "Isla Margarita AND Mexico" ; Times: 1
+	Query: "specificepithet:balao genus:Hemiramphus" ; Times: 6
+	Query: "50388" ; Times: 1
+	Query: "41594" ; Times: 1
+	Query: "specificepithet:marinus genus:Bagre" ; Times: 2
+	Query: "specificepithet:monoceros genus:Aluterus" ; Times: 1
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 12
+	Query: "specificepithet:microlepis genus:Mycteroperca" ; Times: 3
+	Query: "Jaguar" ; Times: 1
+	Query: "16754" ; Times: 1
+	Query: "Oncorhynchus clarkii stateprovince:&#34;New Mexico&#34; mappable:1" ; Times: 1
+	Query: "leopard" ; Times: 1
+	Query: "67447" ; Times: 1
+	Query: "Xiphias gladius" ; Times: 2
+	Query: "29872" ; Times: 1
+	Query: "specificepithet:pelamis genus:Katsuwonus" ; Times: 15
+	Query: "34959" ; Times: 2
+	Query: "county:&#34;King George&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "9197" ; Times: 1
+	Query: "8555" ; Times: 2
+	Query: "45816" ; Times: 1
+	Query: "Percina" ; Times: 1
+	Query: "specificepithet:mokarran genus:Sphyrna" ; Times: 1
+	Query: "catalognumber:54126 year &gt;= 1950 year &lt;= 2000" ; Times: 1
+	Query: "POLYDACTYLUS VIRGINICUS" ; Times: 2
+	Query: "2083" ; Times: 1
+	Query: "25087" ; Times: 1
+	Query: "75167" ; Times: 1
+	Query: "specificepithet:canis genus:Mustelus" ; Times: 2
+	Query: "11714" ; Times: 2
+	Query: "specificepithet:rochei genus:Auxis" ; Times: 2
+	Query: "Aplochiton zebra 1" ; Times: 3
+	Query: "39534" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1052 download events in this period)
+Total number of records downloaded: 116
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-22 ; Times: 1
+	Date: 2016-06-01 ; Times: 1
+	Date: 2016-06-14 ; Times: 2
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "rhinichthys osculus" ; Times: 1
+	Query: "PRISTIS PRISTIS" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 1
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+
+
+End of report.
