@@ -1,0 +1,257 @@
+Report for Institution Code NCSM, Resource ncsm_fishes
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 259
+Number of records retrieved in searches: 8029
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: United States ; Times: 233
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 6
+	Country: India ; Times: 2
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 6
+	Date: 2016-07-10 ; Times: 5
+	Date: 2016-07-13 ; Times: 1
+	Date: 2016-07-12 ; Times: 2
+	Date: 2016-07-15 ; Times: 2
+	Date: 2016-07-14 ; Times: 2
+	Date: 2016-07-17 ; Times: 1
+	Date: 2016-07-16 ; Times: 5
+	Date: 2016-07-19 ; Times: 11
+	Date: 2016-07-18 ; Times: 6
+	Date: 2016-07-20 ; Times: 3
+	Date: 2016-07-07 ; Times: 7
+	Date: 2016-07-05 ; Times: 1
+	Date: 2016-07-24 ; Times: 1
+	Date: 2016-07-25 ; Times: 2
+	Date: 2016-07-26 ; Times: 2
+	Date: 2016-07-27 ; Times: 4
+	Date: 2016-07-06 ; Times: 9
+	Date: 2016-07-21 ; Times: 15
+	Date: 2016-07-22 ; Times: 6
+	Date: 2016-07-23 ; Times: 1
+	Date: 2016-07-08 ; Times: 8
+	Date: 2016-07-28 ; Times: 7
+	Date: 2016-07-29 ; Times: 152
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:rhomboides genus:Lagodon" ; Times: 1
+	Query: "Etheostoma exile" ; Times: 1
+	Query: "Erimyzon sucetta" ; Times: 4
+	Query: "29865" ; Times: 1
+	Query: "river otter type:specimen country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:zonata genus:Seriola" ; Times: 1
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 3
+	Query: "specificepithet:olivaris genus:Pylodictis" ; Times: 1
+	Query: "specificepithet:americanus genus:Menticirrhus" ; Times: 2
+	Query: "specificepithet:synagris genus:Lutjanus" ; Times: 1
+	Query: "specificepithet:cataractae genus:Micropterus" ; Times: 1
+	Query: "specificepithet:venenosa genus:Mycteroperca" ; Times: 1
+	Query: "pigeon lake" ; Times: 1
+	Query: "R-66881" ; Times: 1
+	Query: "specificepithet:affinis genus:Caulolatilus" ; Times: 1
+	Query: "gila robusta little colorado" ; Times: 1
+	Query: "specificepithet:saurus genus:Oligoplites" ; Times: 1
+	Query: "specificepithet:microlepis genus:Mycteroperca" ; Times: 1
+	Query: "scrofa" ; Times: 1
+	Query: "specificepithet:macrochirus genus:Lepomis" ; Times: 4
+	Query: "gila robusta year &gt;= 1990 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:fimbriata genus:Cyclopsetta" ; Times: 1
+	Query: "R-69104" ; Times: 1
+	Query: "specificepithet:macarellus genus:Decapterus" ; Times: 1
+	Query: "year &gt;= 2005 year &lt;= 2015 mappable:1 distance(location,geopoint(33.284619968887704,-81.650390625))&lt;394335" ; Times: 1
+	Query: "JAGUAR" ; Times: 1
+	Query: "Walleye" ; Times: 1
+	Query: "mariae" ; Times: 1
+	Query: "specificepithet:melanopterus genus:Eucinostomus" ; Times: 1
+	Query: "specificepithet:crumenophthalmus genus:Selar" ; Times: 1
+	Query: "specificepithet:japonicus genus:Scomber" ; Times: 1
+	Query: "specificepithet:nigromaculatus genus:Pomoxis" ; Times: 2
+	Query: "specificepithet:cinereus genus:Gerres" ; Times: 1
+	Query: "specificepithet:argentiventris genus:Lutjanus" ; Times: 1
+	Query: "specificepithet:gibbosus genus:Dentex" ; Times: 1
+	Query: "36294" ; Times: 1
+	Query: "noturus placidus" ; Times: 9
+	Query: "karnataka" ; Times: 2
+	Query: "specificepithet:usta genus:Nicholsina" ; Times: 1
+	Query: "specificepithet:alalunga genus:Thunnus" ; Times: 1
+	Query: "specificepithet:variegatus genus:Cyprinodon" ; Times: 1
+	Query: "Black lab" ; Times: 2
+	Query: "Etheostoma artesiae" ; Times: 2
+	Query: "specificepithet:argenteus genus:Eucinostomus" ; Times: 1
+	Query: "22406" ; Times: 1
+	Query: "59664" ; Times: 1
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 8
+	Query: "specificepithet:lineatus genus:Achirus" ; Times: 1
+	Query: "specificepithet:lagocephalus genus:Lagocephalus" ; Times: 1
+	Query: "specificepithet:cruentatus genus:Heteropriacanthus" ; Times: 1
+	Query: "18611" ; Times: 1
+	Query: "12159" ; Times: 1
+	Query: "specificepithet:terraenovae genus:Rhizoprionodon" ; Times: 1
+	Query: "Northern studfish" ; Times: 2
+	Query: "specificepithet:pectinatus genus:Centropomus" ; Times: 1
+	Query: "69104" ; Times: 1
+	Query: "class:actinopterygii stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "gbifdatasetid:2a79f202-3f3a-4d54-88fa-09aa8de1ac73" ; Times: 2
+	Query: "33274" ; Times: 1
+	Query: "Erimyzon" ; Times: 1
+	Query: "specificepithet:niveatus genus:Epinephelus" ; Times: 1
+	Query: "specificepithet:oxyrinchus genus:Isurus" ; Times: 1
+	Query: "witch" ; Times: 4
+	Query: "specificepithet:ciliaris genus:Alectis" ; Times: 1
+	Query: "41533" ; Times: 1
+	Query: "specificepithet:testudineus genus:Sphoeroides" ; Times: 1
+	Query: "specificepithet:gladius genus:Xiphias" ; Times: 1
+	Query: "specificepithet:dactylopterus genus:Helicolenus" ; Times: 1
+	Query: "royal ontario museum" ; Times: 1
+	Query: "specificepithet:limbatus genus:Carcharhinus" ; Times: 1
+	Query: "specificepithet:argalus genus:Platybelone" ; Times: 1
+	Query: "specificepithet:bubalus genus:Ictiobus" ; Times: 2
+	Query: "catalognumber:1215" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "Yellow perch" ; Times: 1
+	Query: "catalognumber:13734" ; Times: 1
+	Query: "specificepithet:guatemalensis genus:Rhamdia" ; Times: 1
+	Query: "2a79f202-3f3a-4d54-88fa-09aa8de1ac73" ; Times: 1
+	Query: "specificepithet:molitrix genus:Hypophthalmichthys" ; Times: 1
+	Query: "specificepithet:mykiss genus:Oncorhynchus" ; Times: 2
+	Query: "specificepithet:crossotus genus:Etropus" ; Times: 1
+	Query: "catalognumber:18873" ; Times: 1
+	Query: "river otter type:specimen" ; Times: 1
+	Query: "specificepithet:rivoliana genus:Seriola" ; Times: 1
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 2
+	Query: "specificepithet:spilopterus genus:Citharichthys" ; Times: 2
+	Query: "specificepithet:acanthias genus:Squalus" ; Times: 1
+	Query: "specificepithet:davidsonii genus:Anisotremus" ; Times: 1
+	Query: "specificepithet:holocanthus genus:Diodon" ; Times: 1
+	Query: "specificepithet:nobilis genus:Hypophthalmichthys" ; Times: 1
+	Query: "specificepithet:reidi genus:Hippocampus" ; Times: 1
+	Query: "gila robusta (little colorado) year &gt;= 1990 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:vulpinus genus:Alopias" ; Times: 1
+	Query: "specificepithet:xanthurus genus:Leiostomus" ; Times: 3
+	Query: "Gambusia nobilis" ; Times: 2
+	Query: "Lambert" ; Times: 1
+	Query: "specificepithet:melampygus genus:Caranx" ; Times: 1
+	Query: "type:specimen catalognumber:3956" ; Times: 1
+	Query: "26335" ; Times: 1
+	Query: "ANSP" ; Times: 1
+	Query: "specificepithet:oxycephalus genus:Cirrhitichthys" ; Times: 1
+	Query: "specificepithet:vulgaris genus:Diplodus" ; Times: 1
+	Query: "specificepithet:polylepis genus:Balistes" ; Times: 1
+	Query: "specificepithet:ruber genus:Caranx" ; Times: 1
+	Query: "specificepithet:rostrata genus:Anguilla" ; Times: 5
+	Query: "R.65002" ; Times: 1
+	Query: "pimephales promelas" ; Times: 1
+	Query: "specificepithet:cromis genus:Pogonias" ; Times: 1
+	Query: "specificepithet:maculatus genus:Dormitator" ; Times: 1
+	Query: "specificepithet:cephalus genus:Mugil" ; Times: 3
+	Query: "specificepithet:nebulosus genus:Cynoscion" ; Times: 1
+	Query: "specificepithet:crocodilus genus:Tylosurus" ; Times: 1
+	Query: "specificepithet:labriformis genus:Epinephelus" ; Times: 1
+	Query: "specificepithet:rufus genus:Bodianus" ; Times: 1
+	Query: "24340" ; Times: 1
+	Query: "Lambert M year &gt;= 2012 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:hippurus genus:Coryphaena" ; Times: 1
+	Query: "specificepithet:nigricans genus:Acanthurus" ; Times: 1
+	Query: "pigeon lake ON" ; Times: 2
+	Query: "specificepithet:osseus genus:Lepisosteus" ; Times: 2
+	Query: "36259" ; Times: 1
+	Query: "specificepithet:narinari genus:Aetobatus" ; Times: 1
+	Query: "Pigeon lake" ; Times: 1
+	Query: "Etheostoma" ; Times: 1
+	Query: "specificepithet:albacares genus:Thunnus" ; Times: 1
+	Query: "specificepithet:apodus genus:Lutjanus" ; Times: 1
+	Query: "36394" ; Times: 1
+	Query: "specificepithet:faber genus:Chaetodipterus" ; Times: 1
+	Query: "Pigeon Lake On" ; Times: 1
+	Query: "specificepithet:vetula genus:Balistes" ; Times: 1
+	Query: "30033" ; Times: 1
+	Query: "specificepithet:cepedianum genus:Dorosoma" ; Times: 5
+	Query: "specificepithet:flavolineatum genus:Haemulon" ; Times: 1
+	Query: "2635" ; Times: 1
+	Query: "upper peninsula michigan" ; Times: 1
+	Query: "furcifer" ; Times: 1
+	Query: "Lake Superior" ; Times: 1
+	Query: "specificepithet:soporator genus:Bathygobius" ; Times: 1
+	Query: "gila robusta" ; Times: 1
+	Query: "scientificname:Ameiurus brunneus country:United States mappable:1" ; Times: 2
+	Query: "specificepithet:rostrata genus:Antimora" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 6
+	Query: "specificepithet:lepturus genus:Trichiurus" ; Times: 1
+	Query: "longnose sucker" ; Times: 1
+	Query: "specificepithet:analis genus:Lutjanus" ; Times: 1
+	Query: "specificepithet:salar genus:Salmo" ; Times: 1
+	Query: "specificepithet:parvus genus:Sphoeroides" ; Times: 1
+	Query: "specificepithet:thynnus genus:Thunnus" ; Times: 1
+	Query: "specificepithet:undulatus genus:Micropogonias" ; Times: 1
+	Query: "74206" ; Times: 3
+	Query: "specificepithet:salmoides genus:Micropterus" ; Times: 10
+	Query: "specificepithet:teres genus:Etrumeus" ; Times: 1
+	Query: "zonata CA" ; Times: 2
+	Query: "specificepithet:rhodopus genus:Trachinotus" ; Times: 1
+	Query: "specificepithet:balao genus:Hemiramphus" ; Times: 1
+	Query: "52755" ; Times: 1
+	Query: "specificepithet:monoceros genus:Aluterus" ; Times: 1
+	Query: "specificepithet:annularis genus:Pomoxis" ; Times: 1
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 1
+	Query: "Lambert M" ; Times: 1
+	Query: "specificepithet:pelamis genus:Katsuwonus" ; Times: 1
+	Query: "specificepithet:bahianus genus:Acanthurus" ; Times: 1
+	Query: "Zonata" ; Times: 1
+	Query: "specificepithet:micropterus genus:Oxyporhamphus" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "specificepithet:lefroyi genus:Eucinostomus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Albula" ; Times: 1
+	Query: "specificepithet:mokarran genus:Sphyrna" ; Times: 1
+	Query: "specificepithet:curema genus:Mugil" ; Times: 2
+	Query: "catalognumber:49041" ; Times: 1
+	Query: "specificepithet:furcifer genus:Paranthias" ; Times: 1
+	Query: "specificepithet:virginicus genus:Anisotremus" ; Times: 1
+	Query: "scientificname:Dorosoma petenense country:United States mappable:1" ; Times: 10
+	Query: "specificepithet:rochei genus:Auxis" ; Times: 1
+	Query: "specificepithet:canis genus:Mustelus" ; Times: 1
+	Query: "specificepithet:chrysoptera genus:Orthopristis" ; Times: 1
+	Query: "skunk" ; Times: 1
+	Query: "specificepithet:diplotaenia genus:Bodianus" ; Times: 1
+	Query: "county:&#34;Fairfield&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1219 download events in this period)
+Total number of records downloaded: 253
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-19 ; Times: 1
+	Date: 2016-07-18 ; Times: 1
+	Date: 2016-07-27 ; Times: 1
+	Date: 2016-07-14 ; Times: 1
+	Date: 2016-07-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "pimephales promelas" ; Times: 1
+	Query: "Etheostoma exile" ; Times: 1
+	Query: "karnataka" ; Times: 1
+	Query: "Erimyzon sucetta" ; Times: 1
+	Query: "Gambusia nobilis" ; Times: 1
+	Query: "Etheostoma artesiae" ; Times: 1
+
+
+End of report.
