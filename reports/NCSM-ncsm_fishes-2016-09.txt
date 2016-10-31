@@ -1,0 +1,130 @@
+Report for Institution Code NCSM, Resource ncsm_fishes
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 95
+Number of records retrieved in searches: 1471
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 71
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-02 ; Times: 3
+	Date: 2016-09-03 ; Times: 7
+	Date: 2016-09-01 ; Times: 2
+	Date: 2016-09-13 ; Times: 3
+	Date: 2016-09-12 ; Times: 4
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-10 ; Times: 1
+	Date: 2016-09-08 ; Times: 9
+	Date: 2016-09-09 ; Times: 5
+	Date: 2016-09-14 ; Times: 8
+	Date: 2016-09-22 ; Times: 1
+	Date: 2016-09-23 ; Times: 1
+	Date: 2016-09-05 ; Times: 31
+	Date: 2016-09-07 ; Times: 7
+	Date: 2016-09-04 ; Times: 2
+	Date: 2016-09-06 ; Times: 4
+	Date: 2016-09-24 ; Times: 5
+	Date: 2016-09-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "21963" ; Times: 1
+	Query: "14798" ; Times: 1
+	Query: "mykiss" ; Times: 1
+	Query: "specificepithet:declivifrons genus:Abudefduf" ; Times: 1
+	Query: "seriola" ; Times: 1
+	Query: "25239" ; Times: 1
+	Query: "E31" ; Times: 1
+	Query: "noturus placidus" ; Times: 3
+	Query: "georgia southern" ; Times: 1
+	Query: "Carcharias" ; Times: 1
+	Query: "milkfish" ; Times: 1
+	Query: "specificepithet:petenense genus:Dorosoma" ; Times: 1
+	Query: "distance(location,geopoint(37.5,-81.5))&lt;20000" ; Times: 1
+	Query: "specificepithet:lewini genus:Sphyrna" ; Times: 1
+	Query: "Western Pond Turtle" ; Times: 1
+	Query: "catalognumber:12498" ; Times: 1
+	Query: "hammerhead shark mappable:1" ; Times: 1
+	Query: "specificepithet:rondeletii genus:Hirundichthys" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;New Hampshire&#34; continent:North America mappable:1" ; Times: 1
+	Query: "specificepithet:colliei genus:Hydrolagus" ; Times: 1
+	Query: "specificepithet:maculatofasciatus genus:Paralabrax" ; Times: 1
+	Query: "ictalurus" ; Times: 8
+	Query: "specificepithet:bipinnulata genus:Elagatis" ; Times: 1
+	Query: "genus:Pteronotropis" ; Times: 3
+	Query: "specificepithet:leucas genus:Carcharhinus" ; Times: 1
+	Query: "specificepithet:melampygus genus:Caranx" ; Times: 1
+	Query: "latidae" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "specificepithet:macdonaldi genus:Sebastes" ; Times: 1
+	Query: "ansp" ; Times: 1
+	Query: "dolphin mappable:1" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 3
+	Query: "specificepithet:papillifer genus:Gobiesox" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 3
+	Query: "13921" ; Times: 1
+	Query: "72673" ; Times: 1
+	Query: "Amatitlania nigrofasciata" ; Times: 1
+	Query: "scartomyzon congestus" ; Times: 1
+	Query: "type:specimen (Portsmouth)" ; Times: 1
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 2
+	Query: "specificepithet:princeps genus:Caulolatilus" ; Times: 1
+	Query: "manatee mappable:1" ; Times: 1
+	Query: "Tilapia zillii" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "Remora remora" ; Times: 7
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "witch" ; Times: 1
+	Query: "specificepithet:obscurus genus:Carcharhinus" ; Times: 2
+	Query: "specificepithet:hippurus genus:Coryphaena" ; Times: 1
+	Query: "specificepithet:nigricans genus:Acanthurus" ; Times: 1
+	Query: "27582" ; Times: 1
+	Query: "(moxostoma)" ; Times: 1
+	Query: "70064" ; Times: 1
+	Query: "walleye" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 1
+	Query: "Carcharodon" ; Times: 1
+	Query: "44736" ; Times: 1
+	Query: "specificepithet:lugubris genus:Caranx" ; Times: 1
+	Query: "12359" ; Times: 1
+	Query: "69273" ; Times: 1
+	Query: "specificepithet:albacares genus:Thunnus" ; Times: 1
+	Query: "specificepithet:griseus genus:Hexanchus" ; Times: 1
+	Query: "specificepithet:rectifraenum genus:Stegastes" ; Times: 1
+	Query: "anguilla rostrata" ; Times: 2
+	Query: "Pylodictis" ; Times: 1
+	Query: "hybognathus amarus" ; Times: 2
+	Query: "specificepithet:affinis genus:Caulolatilus" ; Times: 1
+	Query: "Cardinalis cardinalis 1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 811 download events in this period)
+Total number of records downloaded: 729
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-12 ; Times: 1
+	Date: 2016-09-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "thailand" ; Times: 2
+	Query: "tadpole" ; Times: 1
+
+
+End of report.
