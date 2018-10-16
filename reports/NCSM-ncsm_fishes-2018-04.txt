@@ -1,0 +1,269 @@
+Report for Institution Code NCSM, Resource ncsm_fishes
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 224
+Number of records retrieved in searches: 2914
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 161
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: Mexico ; Times: 6
+	Country: United Kingdom ; Times: 4
+	Country: Sweden ; Times: 2
+	Country: China ; Times: 7
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Argentina ; Times: 7
+	Country: Russia ; Times: 5
+	Country: Brazil ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 1
+	Date: 2018-04-28 ; Times: 3
+	Date: 2018-04-23 ; Times: 8
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-27 ; Times: 2
+	Date: 2018-04-26 ; Times: 3
+	Date: 2018-04-25 ; Times: 9
+	Date: 2018-04-24 ; Times: 27
+	Date: 2018-04-01 ; Times: 1
+	Date: 2018-04-03 ; Times: 19
+	Date: 2018-04-02 ; Times: 4
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-04 ; Times: 4
+	Date: 2018-04-07 ; Times: 1
+	Date: 2018-04-06 ; Times: 18
+	Date: 2018-04-09 ; Times: 2
+	Date: 2018-04-08 ; Times: 5
+	Date: 2018-04-16 ; Times: 16
+	Date: 2018-04-12 ; Times: 39
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-10 ; Times: 11
+	Date: 2018-04-11 ; Times: 6
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-17 ; Times: 20
+	Date: 2018-04-14 ; Times: 11
+	Date: 2018-04-15 ; Times: 3
+	Date: 2018-04-18 ; Times: 3
+	Date: 2018-04-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "26781" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "chitala ornata" ; Times: 3
+	Query: "class:Actinopterygii county:&#34;Laurens&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "75314" ; Times: 1
+	Query: "salmo trutta" ; Times: 1
+	Query: "Florida bass" ; Times: 2
+	Query: "34929" ; Times: 2
+	Query: "notropis buchanani" ; Times: 1
+	Query: "scientificname:(Esox lucius) country:United States mappable:1" ; Times: 1
+	Query: "29110" ; Times: 1
+	Query: "scientificname:(Moxostoma valenciennesi) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Cottus aleuticus) country:United States mappable:1" ; Times: 1
+	Query: "Brook trout" ; Times: 2
+	Query: "stateprovince:&#34;tanintharyi&#34; country:&#34;myanmar&#34;" ; Times: 1
+	Query: "Anguilla rostrata stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "drexel" ; Times: 1
+	Query: "75309" ; Times: 1
+	Query: "36218" ; Times: 1
+	Query: "NCSM 77924" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 3
+	Query: "Oncorhynchus clarkii mappable:1" ; Times: 14
+	Query: "catalognumber:15317 collectioncode:NCSM institutioncode:NCSM" ; Times: 1
+	Query: "29688" ; Times: 1
+	Query: "genus:Catostomus year &gt;= 1976 year &lt;= 1976" ; Times: 2
+	Query: "Pylodictis olivaris" ; Times: 3
+	Query: "Clarias batrachus" ; Times: 1
+	Query: "scientificname:(Etheostoma camurum) country:United States mappable:1" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "agosia chrysogaster chrysogaster stateprovince:Arizona mappable:1" ; Times: 4
+	Query: "water snakes" ; Times: 1
+	Query: "noturus placidus" ; Times: 9
+	Query: "91909" ; Times: 1
+	Query: "genus:Margariscus year &gt;= 1976 year &lt;= 1976" ; Times: 1
+	Query: "scientificname:(Oncorhynchus kisutch) country:United States mappable:1" ; Times: 1
+	Query: "genus:Ameiurus class:Actinopterygii locality:Turkey Creek county:&#34;Edgefield&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "&#34;turnpike&#34; (&#34;scotland&#34; OR &#34;richmond&#34; OR &#34;hoke&#34; OR &#34;moore&#34; OR &#34;robeson&#34;) mappable:1" ; Times: 1
+	Query: "catalognumber:2150 collectioncode:NCSM institutioncode:NCSM" ; Times: 1
+	Query: "79965" ; Times: 1
+	Query: "class:Actinopterygii county:&#34;McCormick&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "87143" ; Times: 1
+	Query: "asian swamp eel" ; Times: 2
+	Query: "genus:Catostomus year &gt;= 1956 year &lt;= 1956" ; Times: 1
+	Query: "class:Actinopterygii county:&#34;Saluda&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "catalognumber:15318 collectioncode:NCSM institutioncode:NCSM" ; Times: 1
+	Query: "class:Actinopterygii county:&#34;Edgefield&#34; stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "catalognumber:63501 collectioncode:NCSM institutioncode:NCSM" ; Times: 1
+	Query: "89909" ; Times: 1
+	Query: "Hybrid striped bass" ; Times: 2
+	Query: "witch" ; Times: 7
+	Query: "class:Actinopterygii county:&#34;Newberry&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "scientificname:(Catostomus occidentalis) country:United States mappable:1" ; Times: 2
+	Query: "hellbender" ; Times: 1
+	Query: "13989" ; Times: 1
+	Query: "catalognumber:15338 collectioncode:NCSM institutioncode:NCSM" ; Times: 1
+	Query: "brook trout" ; Times: 4
+	Query: "scientificname:(Umbra limi) country:United States mappable:1" ; Times: 1
+	Query: "Pterygoplichthys pardalis" ; Times: 2
+	Query: "72648" ; Times: 1
+	Query: "class:Actinopterygii county:&#34;Abbeville&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "scientificname:(Prosopium williamsoni) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:15359 collectioncode:NCSM institutioncode:NCSM" ; Times: 1
+	Query: "scientificname:(Polyodon spathula) country:United States mappable:1" ; Times: 1
+	Query: "genus:squatina" ; Times: 1
+	Query: "16232" ; Times: 1
+	Query: "class:Actinopterygii county:&#34;Edgefield&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 6
+	Query: "class:Actinopterygii county:&#34;Greenwood&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "catalognumber:15536 collectioncode:NCSM institutioncode:NCSM" ; Times: 2
+	Query: "scientificname:(Catostomus insignis) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:77683 institutioncode:NCSM" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "gila robusta stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Salvelinus fontinalis" ; Times: 2
+	Query: "Gadus morhua mappable:1" ; Times: 1
+	Query: "35872" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "specificepithet:salmoides genus:micropterus hasmass:1" ; Times: 1
+	Query: "Blue catfish" ; Times: 1
+	Query: "catalognumber:15656 collectioncode:NCSM institutioncode:NCSM" ; Times: 1
+	Query: "scientificname:(Etheostoma cragini) country:United States mappable:1" ; Times: 1
+	Query: "Notropis topeka mappable:1" ; Times: 12
+	Query: "Black Swift" ; Times: 2
+	Query: "(salvelinus fontinalis)" ; Times: 3
+	Query: "genus:Margariscus" ; Times: 1
+	Query: "genus:Moxostoma class:Actinopterygii locality:Turkey Creek county:&#34;Edgefield&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "catalognumber:42339" ; Times: 1
+	Query: "catalognumber:15340 collectioncode:NCSM institutioncode:NCSM" ; Times: 1
+	Query: "type family:gobiidae" ; Times: 2
+	Query: "white shark" ; Times: 1
+	Query: "catalognumber:89907" ; Times: 1
+	Query: "Parablennius marmoreus" ; Times: 1
+	Query: "genus:Xyrauchen" ; Times: 1
+	Query: "county:&#34;mcnairy&#34;" ; Times: 1
+	Query: "scientificname:(Notropis girardi) country:United States mappable:1" ; Times: 1
+	Query: "58831" ; Times: 1
+	Query: "46441" ; Times: 1
+	Query: "catalognumber:77682 institutioncode:NCSM" ; Times: 2
+	Query: "catalognumber:77684 institutioncode:NCSM" ; Times: 2
+	Query: "catalognumber:15350 collectioncode:NCSM institutioncode:NCSM" ; Times: 1
+	Query: "oncorhynchus apache stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Xyrauchen texanus" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "scientificname:(Atractosteus spatula OR Lepisosteus spatula) country:United States mappable:1" ; Times: 1
+	Query: "salmo salar" ; Times: 3
+	Query: "genus:Oncorhynchus specificepithet:mykiss" ; Times: 1
+	Query: "Parupeneus" ; Times: 1
+	Query: "Xiphophorus hellerii" ; Times: 3
+	Query: "scientificname:(Moxostoma macrolepidotum OR Moxostoma macrolepidotum macrolepidotum) country:United States mappable:1" ; Times: 2
+	Query: "specificepithet:dumeril genus:squatina" ; Times: 1
+	Query: "catalognumber:15654 collectioncode:NCSM institutioncode:NCSM" ; Times: 1
+	Query: "class:Actinopterygii locality:Turkey Creek county:&#34;Edgefield&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "10760" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "catalognumber:15352 collectioncode:NCSM institutioncode:NCSM" ; Times: 1
+	Query: "catalognumber:15345 collectioncode:NCSM institutioncode:NCSM" ; Times: 1
+	Query: "NCSM 78957" ; Times: 1
+	Query: "agosia chrysogaster stateprovince:Arizona mappable:1" ; Times: 4
+	Query: "Monopterus albus" ; Times: 2
+	Query: "genus:Noturus class:Actinopterygii locality:Turkey Creek county:&#34;Edgefield&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "75025" ; Times: 1
+	Query: "68904" ; Times: 1
+	Query: "catalognumber:15315 collectioncode:NCSM institutioncode:NCSM" ; Times: 1
+	Query: "scientificname:(Noturus flavus) country:United States mappable:1" ; Times: 2
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "scientificname:(Gila pandora) country:United States mappable:1" ; Times: 2
+	Query: "unicorn" ; Times: 1
+	Query: "Gobionellus" ; Times: 1
+	Query: "scientificname:(Petromyzon marinus) country:United States mappable:1" ; Times: 1
+	Query: "rastrelliger brachysoma" ; Times: 1
+	Query: "genus:Catostomus year &gt;= 1967 year &lt;= 1967" ; Times: 2
+	Query: "stingray" ; Times: 1
+	Query: "19122" ; Times: 1
+	Query: "&#34;Black carp&#34;" ; Times: 1
+	Query: "scientificname:(Fundulus diaphanus) country:United States mappable:1" ; Times: 2
+	Query: "Channa argus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 1359 download events in this period)
+Total number of records downloaded: 5470
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Brazil ; Times: 33
+	Country: Argentina ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-06 ; Times: 2
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-15 ; Times: 7
+	Date: 2018-04-03 ; Times: 8
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 3
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-24 ; Times: 28
+
+List of queries that retrieved data from the resource: 
+	Query: "Gambusia holbrooki" ; Times: 2
+	Query: "Parablennius marmoreus" ; Times: 1
+	Query: "distance(location,geopoint(63.87569,-149.21334))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(18.02125,-67.0769))&lt;50000" ; Times: 1
+	Query: "Esox lucius" ; Times: 1
+	Query: "Cyprinella lutrensis" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Heptapteridae" ; Times: 1
+	Query: "salmo trutta" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "salmo salar" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "salvelinus namaycush" ; Times: 1
+	Query: "Xyrauchen texanus" ; Times: 1
+	Query: "Misgurnus anguillicaudatus" ; Times: 1
+	Query: "Salvelinus namaycush" ; Times: 2
+	Query: "Cichla ocellaris" ; Times: 1
+	Query: "Clarias batrachus" ; Times: 1
+	Query: "distance(location,geopoint(65.15306,-147.50246))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(38.89332,-78.14678))&lt;50000" ; Times: 1
+	Query: "Salvelinus fontinalis" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 2
+	Query: "oncorhynchus nerka" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+	Query: "Ameiurus nebulosus" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "distance(location,geopoint(18.11352,-66.98676))&lt;50000" ; Times: 1
+	Query: "oncorhynchus tshawytscha" ; Times: 1
+	Query: "Micropterus salmoides" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "oncorhynchus mykiss" ; Times: 1
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "distance(location,geopoint(65.15401,-147.50258))&lt;50000" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 2
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Xiphophorus hellerii" ; Times: 1
+	Query: "hasmass:1" ; Times: 1
+	Query: "Pylodictis olivaris" ; Times: 2
+	Query: "(salvelinus fontinalis)" ; Times: 1
+	Query: "distance(location,geopoint(29.67647,-82.00909))&lt;50000" ; Times: 1
+	Query: "Pterygoplichthys pardalis" ; Times: 1
+	Query: "Monopterus albus" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "Channa argus" ; Times: 1
+
+
+End of report.
