@@ -1,0 +1,415 @@
+Report for Institution Code NCSM, Resource ncsm_fishes
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 547
+Number of records retrieved in searches: 8106
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 14
+	Country: United States ; Times: 347
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Mexico ; Times: 150
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: France ; Times: 7
+	Country: United Kingdom ; Times: 12
+	Country: Germany ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 2
+	Date: 2018-01-18 ; Times: 9
+	Date: 2018-01-31 ; Times: 12
+	Date: 2018-01-30 ; Times: 15
+	Date: 2018-01-11 ; Times: 34
+	Date: 2018-01-10 ; Times: 9
+	Date: 2018-01-13 ; Times: 1
+	Date: 2018-01-12 ; Times: 27
+	Date: 2018-01-15 ; Times: 3
+	Date: 2018-01-17 ; Times: 135
+	Date: 2018-01-16 ; Times: 8
+	Date: 2018-01-24 ; Times: 7
+	Date: 2018-01-25 ; Times: 5
+	Date: 2018-01-08 ; Times: 15
+	Date: 2018-01-09 ; Times: 22
+	Date: 2018-01-28 ; Times: 2
+	Date: 2018-01-29 ; Times: 9
+	Date: 2018-01-02 ; Times: 62
+	Date: 2018-01-03 ; Times: 98
+	Date: 2018-01-26 ; Times: 9
+	Date: 2018-01-01 ; Times: 2
+	Date: 2018-01-06 ; Times: 2
+	Date: 2018-01-07 ; Times: 2
+	Date: 2018-01-22 ; Times: 12
+	Date: 2018-01-05 ; Times: 19
+	Date: 2018-01-04 ; Times: 12
+	Date: 2018-01-23 ; Times: 5
+	Date: 2018-01-27 ; Times: 4
+	Date: 2018-01-20 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Eustomias obscurus mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(39.9847956976,-80.7616277378601))&lt;18440" ; Times: 5
+	Query: "Chaetodon curacao mappable:1" ; Times: 1
+	Query: "Raja texana" ; Times: 1
+	Query: "Citharichthys spilopterus" ; Times: 2
+	Query: "distance(location,geopoint(39.0779691205001,-79.388352509))&lt;12951" ; Times: 2
+	Query: "Chrysiptera unimaculata" ; Times: 1
+	Query: "hybopsis harryi" ; Times: 1
+	Query: "distance(location,geopoint(39.7419522787855,-74.2642932223335))&lt;7439" ; Times: 4
+	Query: "Abudefduf sexfasciatus" ; Times: 2
+	Query: "county:&#34;Hancock&#34; stateprovince:&#34;Ohio&#34;" ; Times: 8
+	Query: "distance(location,geopoint(44.9631889075001,-67.255953717))&lt;23438" ; Times: 2
+	Query: "distance(location,geopoint(41.433974414,-71.480081389))&lt;5770" ; Times: 2
+	Query: "dasyatis americana" ; Times: 1
+	Query: "10299" ; Times: 1
+	Query: "48520" ; Times: 1
+	Query: "distance(location,geopoint(39.243143278643,-74.7172094745))&lt;4516" ; Times: 3
+	Query: "distance(location,geopoint(40.011223703,-74.0983581835))&lt;6222" ; Times: 4
+	Query: "Trichiurus lepturus" ; Times: 2
+	Query: "92095" ; Times: 1
+	Query: "Stegastes leucostictus" ; Times: 1
+	Query: "county:&#34;Pittsylvania&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "distance(location,geopoint(39.3046985515001,-81.4958979025))&lt;23581" ; Times: 3
+	Query: "notropis bifrenatus" ; Times: 1
+	Query: "fundulus seminolis" ; Times: 2
+	Query: "scientificname:(Esox lucius) country:United States mappable:1" ; Times: 1
+	Query: "poecilia velifera" ; Times: 1
+	Query: "scientificname:(Notropis topeka) country:United States mappable:1" ; Times: 1
+	Query: "Chromis sp. mappable:1" ; Times: 6
+	Query: "Centropomus parallelus" ; Times: 2
+	Query: "Eupomacentrus leucostictus mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(39.1308698074285,-74.8664850829066))&lt;1839" ; Times: 2
+	Query: "NCSM 47145" ; Times: 1
+	Query: "Dorosoma petenense" ; Times: 2
+	Query: "distance(location,geopoint(36.414670399,-81.5655909585))&lt;387" ; Times: 1
+	Query: "distance(location,geopoint(39.1035176845,-74.8762676863648))&lt;3687" ; Times: 2
+	Query: "distance(location,geopoint(39.1966014139285,-74.7902138655))&lt;3667" ; Times: 4
+	Query: "scientificname:(Cottus aleuticus) country:United States mappable:1" ; Times: 1
+	Query: "Conodon nobilis" ; Times: 2
+	Query: "&#34;Striped bass&#34;" ; Times: 1
+	Query: "89962" ; Times: 1
+	Query: "Diaphus holti mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(39.4838018115592,-74.3067625259008))&lt;5333" ; Times: 3
+	Query: "manatee" ; Times: 1
+	Query: "Diapterus auratus" ; Times: 2
+	Query: "Eucinostomus gula" ; Times: 2
+	Query: "distance(location,geopoint(33.6893460873575,-79.0549114535))&lt;3262" ; Times: 3
+	Query: "Oligoplites saurus" ; Times: 2
+	Query: "Chromis sp. 1 mappable:1" ; Times: 1
+	Query: "Chromis sp. B" ; Times: 1
+	Query: "distance(location,geopoint(41.6073861305001,-70.5313918259999))&lt;11201" ; Times: 1
+	Query: "Chaetodipterus faber" ; Times: 2
+	Query: "distance(location,geopoint(33.6446223895,-79.1615529835))&lt;3507" ; Times: 3
+	Query: "Oreochromis aureus" ; Times: 2
+	Query: "distance(location,geopoint(33.4988060165,-104.408602877))&lt;15213" ; Times: 3
+	Query: "Abudefduf annulatus" ; Times: 1
+	Query: "catalognumber:18745 institutioncode:NCSM" ; Times: 2
+	Query: "distance(location,geopoint(39.5657882225,-76.0867909075))&lt;799" ; Times: 2
+	Query: "distance(location,geopoint(39.1719858647855,-74.7485334855))&lt;1011" ; Times: 2
+	Query: "Abudefduf sexfasciatus mappable:1" ; Times: 2
+	Query: "Chromis insolata mappable:1" ; Times: 1
+	Query: "Pomacentrus cuneatus mappable:1" ; Times: 1
+	Query: "Dascyllus aruanus" ; Times: 1
+	Query: "Chondrichthyes country:&#34;mexico&#34;" ; Times: 1
+	Query: "Chromis insolata" ; Times: 1
+	Query: "Megalops atlanticus" ; Times: 2
+	Query: "distance(location,geopoint(39.5676101492855,-74.2803369225))&lt;7020" ; Times: 4
+	Query: "Stegastes nigricans" ; Times: 2
+	Query: "Eleotris amblyopsis" ; Times: 2
+	Query: "Anchoa mitchilli" ; Times: 2
+	Query: "distance(location,geopoint(38.770934581,-82.181686241))&lt;20875" ; Times: 4
+	Query: "scientificname:(Cottus hypselurus) country:United States mappable:1" ; Times: 1
+	Query: "noturus placidus" ; Times: 3
+	Query: "Eupomacentrus leucostictus" ; Times: 1
+	Query: "Chromis sp. 2 mappable:1" ; Times: 2
+	Query: "Eugerres plumieri" ; Times: 2
+	Query: "snakes" ; Times: 1
+	Query: "distance(location,geopoint(41.615272972,-70.515893404))&lt;7939" ; Times: 2
+	Query: "Mud puppy" ; Times: 1
+	Query: "distance(location,geopoint(39.242347413643,-74.768122782))&lt;2590" ; Times: 3
+	Query: "Stegastes diencaeus mappable:1" ; Times: 1
+	Query: "sturgeon" ; Times: 1
+	Query: "catalognumber:1290" ; Times: 2
+	Query: "distance(location,geopoint(39.1062219739285,-74.8354284))&lt;2456" ; Times: 2
+	Query: "Stegastes dorsopunicans" ; Times: 1
+	Query: "Stegastes partitus" ; Times: 1
+	Query: "Microdesmus longipinnis" ; Times: 2
+	Query: "Stegastes fuscus mappable:1" ; Times: 1
+	Query: "Abudefduf saxatilis mappable:1" ; Times: 2
+	Query: "Chaetodon curacao" ; Times: 1
+	Query: "distance(location,geopoint(37.9136356015001,-75.9697491285))&lt;15661" ; Times: 4
+	Query: "Chromis chromis" ; Times: 2
+	Query: "Evorthodus lyricus" ; Times: 2
+	Query: "Scopelarchus analis mappable:1" ; Times: 1
+	Query: "Chromis sp. 3" ; Times: 1
+	Query: "Microphis lineatus" ; Times: 2
+	Query: "Astyanax fasciatus" ; Times: 2
+	Query: "&#34;Least Darter&#34; and &#34;Oklahoma&#34; mappable:1" ; Times: 1
+	Query: "Aulostomus chinensis" ; Times: 1
+	Query: "distance(location,geopoint(39.5597220419285,-74.4298766745))&lt;6235" ; Times: 4
+	Query: "Chromis sp." ; Times: 6
+	Query: "76908" ; Times: 1
+	Query: "Microspathodon chrysurus mappable:1" ; Times: 2
+	Query: "fundulus pulvereus" ; Times: 1
+	Query: "Abudefduf saxatilis" ; Times: 3
+	Query: "36607" ; Times: 3
+	Query: "Fenestraja plutonia" ; Times: 2
+	Query: "Eupomacentrus planifrons" ; Times: 1
+	Query: "tidepool sculpin" ; Times: 1
+	Query: "distance(location,geopoint(33.6792726262145,-79.1651771657868))&lt;2830" ; Times: 3
+	Query: "catalognumber:19839 institutioncode:NCSM" ; Times: 2
+	Query: "Red Drum" ; Times: 1
+	Query: "NCSM 30857" ; Times: 1
+	Query: "Chromis limbata mappable:1" ; Times: 3
+	Query: "Abudefduf sordidus" ; Times: 1
+	Query: "Xiphophorus maculatus" ; Times: 2
+	Query: "77136" ; Times: 1
+	Query: "Acipenser transmontanus" ; Times: 1
+	Query: "r-87617" ; Times: 1
+	Query: "Abudefduf sp." ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 2
+	Query: "distance(location,geopoint(26.219201413,-98.5266965236825))&lt;20217" ; Times: 3
+	Query: "Oreochromis mossambicus" ; Times: 2
+	Query: "distance(location,geopoint(39.150059549214,-74.8029851795))&lt;4520" ; Times: 2
+	Query: "distance(location,geopoint(41.2162770490001,-74.6272351235))&lt;13017" ; Times: 1
+	Query: "24880" ; Times: 1
+	Query: "witch" ; Times: 1
+	Query: "Stegastes sp." ; Times: 1
+	Query: "erimystax harryi" ; Times: 7
+	Query: "Abudefduf troschelii mappable:1" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 2
+	Query: "Chromis cyanea" ; Times: 1
+	Query: "distance(location,geopoint(41.4396964680001,-71.663528582))&lt;23842" ; Times: 2
+	Query: "scientificname:(Catostomus occidentalis) country:United States mappable:1" ; Times: 2
+	Query: "Dormitator maculatus" ; Times: 2
+	Query: "Least Darter" ; Times: 2
+	Query: "scientificname:(Catostomus latipinnis) country:United States mappable:1" ; Times: 1
+	Query: "Abudefduf taurus mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(39.4792069164285,-74.4145070556665))&lt;7952" ; Times: 4
+	Query: "Eucinostomus argenteus" ; Times: 2
+	Query: "catalognumber:3430 institutioncode:NCSM" ; Times: 1
+	Query: "Etmopterus hillianus" ; Times: 1
+	Query: "Microspathodon chrysurus" ; Times: 2
+	Query: "Strongylura marina" ; Times: 2
+	Query: "Chromis limbata" ; Times: 1
+	Query: "scientificname:(Umbra limi) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Gila robusta) country:United States mappable:1" ; Times: 1
+	Query: "91908" ; Times: 1
+	Query: "distance(location,geopoint(38.6376794455001,-77.1774129189999))&lt;3657" ; Times: 2
+	Query: "Dascyllus aruanus mappable:1" ; Times: 1
+	Query: "Belonesox belizanus" ; Times: 2
+	Query: "distance(location,geopoint(37.2712787720001,-77.1331611575))&lt;4244" ; Times: 2
+	Query: "Hippocampus reidi" ; Times: 1
+	Query: "Ensis ensis mappable:1" ; Times: 1
+	Query: "Stegastes diencaeus" ; Times: 1
+	Query: "Eupomacentrus planifrons mappable:1" ; Times: 1
+	Query: "catalognumber:35341" ; Times: 1
+	Query: "Chromis sp. C" ; Times: 1
+	Query: "Scatophagus argus" ; Times: 2
+	Query: "Chromis cyanea mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(43.0529880055,-72.52838754025))&lt;24385" ; Times: 2
+	Query: "Parachromis managuensis" ; Times: 2
+	Query: "Stegastes dorsopunicans mappable:1" ; Times: 1
+	Query: "Gobiomorus dormitor" ; Times: 2
+	Query: "catalognumber:18939 institutioncode:NCSM" ; Times: 2
+	Query: "Chromis sp. B mappable:1" ; Times: 1
+	Query: "Rhamdia guatemalensis" ; Times: 2
+	Query: "Chromis viridis mappable:1" ; Times: 1
+	Query: "Ictalurus furcatus" ; Times: 2
+	Query: "bears" ; Times: 1
+	Query: "bloom" ; Times: 1
+	Query: "scientificname:(Ptychocheilus oregonensis) country:United States mappable:1" ; Times: 1
+	Query: "Stegastes partitus mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(39.0272388067145,-74.882795438463))&lt;1377" ; Times: 2
+	Query: "distance(location,geopoint(39.1966014139285,-74.738006069))&lt;3213" ; Times: 2
+	Query: "84111" ; Times: 1
+	Query: "Cyclothone braueri mappable:1" ; Times: 1
+	Query: "Chromis sp. 3 mappable:1" ; Times: 1
+	Query: "catalognumber:22994 institutioncode:NCSM" ; Times: 3
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "Diaphus rafinesquii mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(38.5784355498,-75.7607904678489))&lt;5643" ; Times: 2
+	Query: "calcarifer" ; Times: 3
+	Query: "catalognumber:18746 institutioncode:NCSM" ; Times: 1
+	Query: "Abudefduf abdominalis mappable:1" ; Times: 1
+	Query: "24291" ; Times: 1
+	Query: "Ariopsis felis" ; Times: 2
+	Query: "21220" ; Times: 1
+	Query: "distance(location,geopoint(39.839311967643,-74.1634654098335))&lt;5050" ; Times: 4
+	Query: "Trachinotus carolinus" ; Times: 2
+	Query: "distance(location,geopoint(26.110795247,-98.2710711635))&lt;13014" ; Times: 3
+	Query: "Prairie dog" ; Times: 3
+	Query: "aplodinotus grunniens" ; Times: 1
+	Query: "Stegastes albifasciatus" ; Times: 1
+	Query: "Eucinostomus melanopterus" ; Times: 2
+	Query: "Abudefduf sp. mappable:1" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 2
+	Query: "scientificname:(Notropis girardi) country:United States mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(38.4858672545,-75.784180469))&lt;10875" ; Times: 2
+	Query: "Under rock country:&#34;United States&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Fenestraja sinusmexicanus" ; Times: 1
+	Query: "Abudefduf annulatus mappable:1" ; Times: 1
+	Query: "catalognumber:4458" ; Times: 2
+	Query: "Stegastes nigricans mappable:1" ; Times: 2
+	Query: "cichlid" ; Times: 1
+	Query: "scientificname:(Hybognathus placitus) country:United States mappable:1" ; Times: 1
+	Query: "51835" ; Times: 1
+	Query: "couesius plumbeus" ; Times: 2
+	Query: "distance(location,geopoint(38.3998108427,-75.801578291))&lt;4415" ; Times: 2
+	Query: "Diapterus rhombeus" ; Times: 2
+	Query: "Strongylura notata" ; Times: 2
+	Query: "Ceratoscopelus maderensis mappable:1" ; Times: 1
+	Query: "26413" ; Times: 1
+	Query: "Abudefduf taurus" ; Times: 1
+	Query: "Brycon guatemalensis" ; Times: 2
+	Query: "Mugil curema" ; Times: 2
+	Query: "Kuhlia sandvicensis" ; Times: 1
+	Query: "Poecilia velifera" ; Times: 2
+	Query: "Rhinobatos lentiginosus" ; Times: 7
+	Query: "Northern leatherside chub" ; Times: 1
+	Query: "vntype:specimen fieldnumber:1195" ; Times: 1
+	Query: "Gobionellus oceanicus" ; Times: 2
+	Query: "Bairdiella ronchus" ; Times: 2
+	Query: "Dasyatis americana" ; Times: 1
+	Query: "Stegastes rectifraenum" ; Times: 1
+	Query: "Chromis sp. 4" ; Times: 1
+	Query: "county:&#34;Stokes&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Stegastes adustus mappable:1" ; Times: 1
+	Query: "Chromis sp. 1" ; Times: 1
+	Query: "Stegastes planifrons" ; Times: 1
+	Query: "61419" ; Times: 1
+	Query: "Chromis sp. 2" ; Times: 2
+	Query: "17892" ; Times: 1
+	Query: "Elops saurus" ; Times: 2
+	Query: "Stegastes sp. mappable:1" ; Times: 1
+	Query: "42679" ; Times: 1
+	Query: "Gymnura micrura" ; Times: 2
+	Query: "Porichthys porosissimus" ; Times: 2
+	Query: "14014" ; Times: 1
+	Query: "Brevoortia gunteri" ; Times: 2
+	Query: "Etropus crossotus" ; Times: 2
+	Query: "distance(location,geopoint(39.6560133821425,-74.2617629808335))&lt;7454" ; Times: 4
+	Query: "Chromis sp. C mappable:1" ; Times: 1
+	Query: "Raja eglanteria" ; Times: 1
+	Query: "18139" ; Times: 1
+	Query: "Stegastes adustus" ; Times: 1
+	Query: "Calcarifer" ; Times: 2
+	Query: "Poecilia mexicana" ; Times: 2
+	Query: "Abudefduf abdominalis" ; Times: 1
+	Query: "Heterandria formosa" ; Times: 1
+	Query: "vntype:specimen fieldnumber:1195 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:4208" ; Times: 1
+	Query: "20821" ; Times: 1
+	Query: "Chromis viridis" ; Times: 1
+	Query: "distance(location,geopoint(39.917526642143,-74.1392156043335))&lt;6646" ; Times: 4
+	Query: "86159" ; Times: 1
+	Query: "Anchoa hepsetus" ; Times: 2
+	Query: "Xiphophorus hellerii" ; Times: 2
+	Query: "scientificname:(Moxostoma macrolepidotum OR Moxostoma macrolepidotum macrolepidotum) country:United States mappable:1" ; Times: 2
+	Query: "29233" ; Times: 3
+	Query: "Micropogonias undulatus" ; Times: 2
+	Query: "Chromis sp. 4 mappable:1" ; Times: 1
+	Query: "Poecilia sphenops" ; Times: 2
+	Query: "Harengula jaguana" ; Times: 2
+	Query: "lepidopus" ; Times: 1
+	Query: "county:&#34;wetzel&#34; stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "Trinectes maculatus" ; Times: 2
+	Query: "Microphis brachyurus" ; Times: 2
+	Query: "Oreochromis niloticus" ; Times: 2
+	Query: "Least darter mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(39.7432845352855,-74.1582116278335))&lt;5797" ; Times: 4
+	Query: "&#34;cichlasoma bimaculatum&#34;" ; Times: 3
+	Query: "catalognumber:10738" ; Times: 3
+	Query: "Pterygoplichthys pardalis" ; Times: 2
+	Query: "butterfly" ; Times: 1
+	Query: "Abudefduf declivifrons mappable:1" ; Times: 1
+	Query: "(coweeta)" ; Times: 2
+	Query: "shark mexico" ; Times: 3
+	Query: "distance(location,geopoint(33.5104512959285,-79.1545063125))&lt;3081" ; Times: 3
+	Query: "county:&#34;Stokes&#34;" ; Times: 1
+	Query: "Acipenser vntype:specimen" ; Times: 2
+	Query: "Stegastes leucostictus mappable:1" ; Times: 1
+	Query: "scientificname:(Atractosteus spatula OR Lepisosteus spatula) country:United States mappable:1" ; Times: 1
+	Query: "Stegastes rectifraenum mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(39.056975819786,-74.8898695498373))&lt;4445" ; Times: 2
+	Query: "cichlasoma bimaculatum" ; Times: 1
+	Query: "Abudefduf sordidus mappable:1" ; Times: 1
+	Query: "Bagre marinus" ; Times: 2
+	Query: "Myrophis punctatus" ; Times: 2
+	Query: "unicorn" ; Times: 1
+	Query: "Gobiesox strumosus" ; Times: 2
+	Query: "catalognumber:23179 institutioncode:NCSM" ; Times: 2
+	Query: "Abudefduf troschelii" ; Times: 1
+	Query: "Rhinoptera bonasus" ; Times: 1
+	Query: "specificepithet:aestivalis stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Dasyatis say" ; Times: 1
+	Query: "Astyanax aeneus" ; Times: 2
+	Query: "Stegastes planifrons mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(38.4600230857,-76.144085943))&lt;12886" ; Times: 2
+	Query: "Mallard" ; Times: 1
+	Query: "distance(location,geopoint(36.6915912240001,-75.9568339719999))&lt;10755" ; Times: 2
+	Query: "Pomacentrus cuneatus" ; Times: 1
+	Query: "Achirus lineatus" ; Times: 2
+	Query: "distance(location,geopoint(39.844175286643,-74.2119885988335))&lt;3883" ; Times: 4
+	Query: "acanthogobius" ; Times: 1
+	Query: "scientificname:(Fundulus diaphanus) country:United States mappable:1" ; Times: 2
+	Query: "Agonostomus monticola" ; Times: 2
+	Query: "Chrysiptera unimaculata mappable:1" ; Times: 1
+	Query: "Opsanus beta" ; Times: 2
+	Query: "Gerres cinereus" ; Times: 2
+	Query: "Stegastes albifasciatus mappable:1" ; Times: 1
+	Query: "Abudefduf declivifrons" ; Times: 1
+	Query: "Carcharhinus leucas" ; Times: 2
+	Query: "Stegastes fuscus" ; Times: 1
+	Query: "Aplodinotus grunniens" ; Times: 1
+	Query: "eelpout" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1398 download events in this period)
+Total number of records downloaded: 809
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: India ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-18 ; Times: 1
+	Date: 2018-01-31 ; Times: 2
+	Date: 2018-01-30 ; Times: 2
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-03 ; Times: 2
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-22 ; Times: 7
+	Date: 2018-01-05 ; Times: 1
+	Date: 2018-01-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Raja texana" ; Times: 1
+	Query: "Gymnura micrura" ; Times: 1
+	Query: "Acipenser vntype:specimen" ; Times: 1
+	Query: "aplodinotus grunniens" ; Times: 1
+	Query: "Hippocampus reidi" ; Times: 1
+	Query: "Rhinobatos lentiginosus" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "county:&#34;Hancock&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "eelpout" ; Times: 1
+	Query: "colombia" ; Times: 1
+	Query: "Raja eglanteria" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "erimystax harryi" ; Times: 1
+	Query: "anchoa mitchilli" ; Times: 1
+	Query: "Rhinoptera bonasus" ; Times: 4
+
+
+End of report.
