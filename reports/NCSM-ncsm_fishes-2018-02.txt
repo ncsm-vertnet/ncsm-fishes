@@ -1,0 +1,313 @@
+Report for Institution Code NCSM, Resource ncsm_fishes
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 419
+Number of records retrieved in searches: 3449
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 44
+	Country: United States ; Times: 268
+	Country: Israel ; Times: 5
+	Country: Mexico ; Times: 66
+	Country: Unknown ; Times: 3
+	Country: Czechia ; Times: 4
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 10
+	Country: China ; Times: 8
+	Country: Japan ; Times: 2
+	Country: Dominican Republic ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Russia ; Times: 2
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 10
+	Date: 2018-02-08 ; Times: 20
+	Date: 2018-02-03 ; Times: 1
+	Date: 2018-02-02 ; Times: 9
+	Date: 2018-02-01 ; Times: 11
+	Date: 2018-02-07 ; Times: 6
+	Date: 2018-02-06 ; Times: 97
+	Date: 2018-02-05 ; Times: 44
+	Date: 2018-02-04 ; Times: 1
+	Date: 2018-02-21 ; Times: 23
+	Date: 2018-02-20 ; Times: 43
+	Date: 2018-02-23 ; Times: 10
+	Date: 2018-02-22 ; Times: 15
+	Date: 2018-02-25 ; Times: 1
+	Date: 2018-02-24 ; Times: 1
+	Date: 2018-02-27 ; Times: 34
+	Date: 2018-02-26 ; Times: 12
+	Date: 2018-02-28 ; Times: 8
+	Date: 2018-02-14 ; Times: 4
+	Date: 2018-02-15 ; Times: 20
+	Date: 2018-02-16 ; Times: 3
+	Date: 2018-02-17 ; Times: 5
+	Date: 2018-02-10 ; Times: 3
+	Date: 2018-02-11 ; Times: 5
+	Date: 2018-02-12 ; Times: 5
+	Date: 2018-02-13 ; Times: 5
+	Date: 2018-02-18 ; Times: 7
+	Date: 2018-02-19 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:5917" ; Times: 1
+	Query: "NCSM 15327" ; Times: 4
+	Query: "10066" ; Times: 1
+	Query: "county:&#34;forsyth&#34; stateprovince:&#34;north carolina&#34;" ; Times: 2
+	Query: "Rivulidae" ; Times: 1
+	Query: "Stiphodon elegans mappable:1" ; Times: 1
+	Query: "catalognumber:1639" ; Times: 1
+	Query: "distance(location,geopoint(44.371166546,-93.6820334855))&lt;19398" ; Times: 4
+	Query: "Paracanthurus hepatus" ; Times: 1
+	Query: "distance(location,geopoint(43.8214476702145,-91.3120372855))&lt;21629" ; Times: 4
+	Query: "fieldnumber:464" ; Times: 1
+	Query: "Acanthurus sp. mappable:1" ; Times: 1
+	Query: "duck river" ; Times: 1
+	Query: "catalognumber:1322" ; Times: 1
+	Query: "scorpion" ; Times: 1
+	Query: "NCSM 15348" ; Times: 6
+	Query: "amiiformes" ; Times: 1
+	Query: "parachromis managuensis" ; Times: 1
+	Query: "distance(location,geopoint(44.6973286135,-93.6564851374999))&lt;7735" ; Times: 4
+	Query: "35931" ; Times: 1
+	Query: "Acanthurus lineatus" ; Times: 1
+	Query: "distance(location,geopoint(45.2821609080001,-95.686562195))&lt;36869" ; Times: 4
+	Query: "Acipenseriformes" ; Times: 1
+	Query: "sand eels" ; Times: 2
+	Query: "manatee" ; Times: 1
+	Query: "Hepatus hepatus" ; Times: 2
+	Query: "county:&#34;rockingham&#34; stateprovince:&#34;north carolina&#34;" ; Times: 2
+	Query: "catalognumber:29771" ; Times: 1
+	Query: "distance(location,geopoint(38.005845063,-89.9754001465))&lt;46441" ; Times: 2
+	Query: "distance(location,geopoint(45.50675844225,-95.9057693345))&lt;68126" ; Times: 4
+	Query: "Chesapeake Bay" ; Times: 5
+	Query: "NCSM 15355" ; Times: 2
+	Query: "pylodictis olivaris" ; Times: 2
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "scientificname:&#34;cottus asperrimus&#34;" ; Times: 1
+	Query: "chesapeake" ; Times: 1
+	Query: "CH 6650" ; Times: 1
+	Query: "psammogobius biocellatus" ; Times: 1
+	Query: "Pontinus" ; Times: 3
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 2
+	Query: "Acanthurus nigrofuscus" ; Times: 1
+	Query: "atlantic sturgeon" ; Times: 3
+	Query: "noturus placidus" ; Times: 4
+	Query: "catalognumber:77146" ; Times: 1
+	Query: "15928" ; Times: 1
+	Query: "snakes" ; Times: 3
+	Query: "distance(location,geopoint(44.89221551525,-95.84415616))&lt;61793" ; Times: 4
+	Query: "scientificname:&#34;canthigaster coronata&#34;" ; Times: 1
+	Query: "Sicydium plumieri mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(45.0386038400001,-96.221293923))&lt;30445" ; Times: 4
+	Query: "(19137)" ; Times: 1
+	Query: "huso huso" ; Times: 2
+	Query: "54553" ; Times: 1
+	Query: "catalognumber:79570 collectioncode:ncsm" ; Times: 2
+	Query: "Acanthurus achilles" ; Times: 1
+	Query: "distance(location,geopoint(38.65875276895,-91.2511227055))&lt;55931" ; Times: 7
+	Query: "Naso lituratus" ; Times: 2
+	Query: "Astyanax fasciatus" ; Times: 1
+	Query: "lamprey vntype:specimen" ; Times: 1
+	Query: "&#34;Black carp&#34;" ; Times: 1
+	Query: "specificepithet:leucas genus:Carcharhinus" ; Times: 1
+	Query: "distance(location,geopoint(37.2278846305001,-89.1481192859999))&lt;20185" ; Times: 2
+	Query: "Acanthurus bahianus mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(26.219201413,-98.5266965236825))&lt;20217" ; Times: 2
+	Query: "scientificname:&#34;chrosomus  saylori&#34;" ; Times: 1
+	Query: "Acanthurus nigricans mappable:1" ; Times: 5
+	Query: "scientificname:&#34;triglops pingelii&#34;" ; Times: 1
+	Query: "rainbow darter" ; Times: 1
+	Query: "Zebrasoma flavescens" ; Times: 2
+	Query: "Narcine bancroftii" ; Times: 1
+	Query: "Zebrasoma flavescens mappable:1" ; Times: 2
+	Query: "Oreochromis mossambicus" ; Times: 4
+	Query: "19848" ; Times: 1
+	Query: "catalognumber:14911" ; Times: 1
+	Query: "witch" ; Times: 5
+	Query: "Mylopharyngodon piceus" ; Times: 3
+	Query: "64210" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 5
+	Query: "Naso lituratus mappable:1" ; Times: 2
+	Query: "Amblygobius phalaena" ; Times: 4
+	Query: "&#34;Pterygoplichthys pardalis&#34;" ; Times: 2
+	Query: "catalognumber:6604" ; Times: 2
+	Query: "hellbender" ; Times: 2
+	Query: "Sicydium gilberti mappable:1" ; Times: 1
+	Query: "specificepithet:limbatus genus:Carcharhinus" ; Times: 1
+	Query: "catalognumber:4152" ; Times: 1
+	Query: "distance(location,geopoint(39.881129919,-90.5451142735))&lt;6477" ; Times: 4
+	Query: "scientificname:&#34;notropis scabriceps&#34;" ; Times: 1
+	Query: "80294" ; Times: 1
+	Query: "Pterygoplichthys pardalis" ; Times: 4
+	Query: "distance(location,geopoint(38.91491613655,-92.5239536137407))&lt;5501" ; Times: 4
+	Query: "Rhizoprionodon terraenovae" ; Times: 18
+	Query: "distance(location,geopoint(40.3259350065001,-90.098832204))&lt;4130" ; Times: 4
+	Query: "distance(location,geopoint(42.0647316641425,-83.1883640004999))&lt;5490" ; Times: 4
+	Query: "sand eel" ; Times: 1
+	Query: "lamprey" ; Times: 1
+	Query: "catalognumber:447" ; Times: 1
+	Query: "Ctenochaetus binotatus" ; Times: 2
+	Query: "Sicydium punctatum mappable:1" ; Times: 1
+	Query: "catalognumber:76373 collectioncode:ncsm" ; Times: 2
+	Query: "catalognumber:80639 collectioncode:ncsm" ; Times: 1
+	Query: "specificepithet:bancroftii genus:Narcine" ; Times: 1
+	Query: "distance(location,geopoint(40.3761206225001,-89.9958485345))&lt;5309" ; Times: 4
+	Query: "Acanthurus triostegus" ; Times: 1
+	Query: "63298" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "scientificname:&#34;cyprinella  zanema&#34;" ; Times: 1
+	Query: "Cetorhinus maximus" ; Times: 9
+	Query: "distance(location,geopoint(45.586172872,-95.9919551615))&lt;27154" ; Times: 4
+	Query: "belonesox belizanus" ; Times: 1
+	Query: "scientificname:&#34;cyprinella monacha&#34;" ; Times: 1
+	Query: "(Actinopterygii and Tennessee)" ; Times: 1
+	Query: "Acanthurus sp." ; Times: 1
+	Query: "13778" ; Times: 1
+	Query: "79588" ; Times: 1
+	Query: "50129" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "catalognumber:15136" ; Times: 1
+	Query: "calcarifer" ; Times: 2
+	Query: "distance(location,geopoint(37.0321005105,-94.028136968))&lt;35289" ; Times: 2
+	Query: "scientificname:&#34;campostoma pauciradii&#34;" ; Times: 1
+	Query: "Acanthurus nigrofuscus mappable:1" ; Times: 1
+	Query: "catalognumber:76273 collectioncode:ncsm" ; Times: 1
+	Query: "Stenogobius genivittatus mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(26.110795247,-98.2710711635))&lt;13014" ; Times: 2
+	Query: "vntype:specimen country:&#34;United States&#34; (pan)" ; Times: 1
+	Query: "Acanthurus olivaceus" ; Times: 2
+	Query: "rhinobatos lentiginosus" ; Times: 2
+	Query: "river otters" ; Times: 4
+	Query: "distance(location,geopoint(39.8529967495001,-91.180029912))&lt;61801" ; Times: 4
+	Query: "mosquitoes" ; Times: 1
+	Query: "scientificname:&#34;notropis atrocaudalis&#34;" ; Times: 1
+	Query: "scientificname:&#34;pteronotropis metallicus&#34;" ; Times: 1
+	Query: "&#34;Oreochromis mossambicus&#34;" ; Times: 1
+	Query: "catalognumber:6020" ; Times: 1
+	Query: "Ginglymostoma cirratum" ; Times: 6
+	Query: "catalognumber:7902" ; Times: 1
+	Query: "torpedinidae" ; Times: 2
+	Query: "distance(location,geopoint(44.824335823,-93.2719965115))&lt;6844" ; Times: 4
+	Query: "holtbyrnia" ; Times: 2
+	Query: "Sicydium altum mappable:1" ; Times: 1
+	Query: "85180" ; Times: 1
+	Query: "&#34;northern pike&#34;" ; Times: 2
+	Query: "Acanthurus triostegus triostegus mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(42.212541833,-83.139158085))&lt;3263" ; Times: 4
+	Query: "mottled sculpin" ; Times: 1
+	Query: "scientificname:&#34;labidesthes vanhyningi&#34;" ; Times: 1
+	Query: "&#34;Mylopharyngodon piceus&#34;" ; Times: 24
+	Query: "specificepithet:cirratum genus:Ginglymostoma" ; Times: 2
+	Query: "Etrumeus teres" ; Times: 3
+	Query: "catalognumber:76374 collectioncode:ncsm" ; Times: 2
+	Query: "cichlid" ; Times: 1
+	Query: "92661" ; Times: 1
+	Query: "stylephorus chordatus" ; Times: 1
+	Query: "catalognumber:74868" ; Times: 1
+	Query: "UNCW" ; Times: 1
+	Query: "NCSM 15329" ; Times: 2
+	Query: "scientificname:&#34;cyprinella  callisema&#34;" ; Times: 1
+	Query: "catalognumber:16045" ; Times: 1
+	Query: "NCSM 15324" ; Times: 2
+	Query: "Acanthurus nigricans" ; Times: 5
+	Query: "NCSM 15326" ; Times: 2
+	Query: "catalognumber:2201" ; Times: 1
+	Query: "catalognumber:79394 collectioncode:ncsm" ; Times: 3
+	Query: "catenatus" ; Times: 2
+	Query: "catalognumber:13829" ; Times: 1
+	Query: "scientificname:&#34;heteroconger longissimus&#34;" ; Times: 1
+	Query: "county:&#34;calhoun&#34; stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "catalognumber:79393 collectioncode:ncsm" ; Times: 2
+	Query: "Awaous banana mappable:1" ; Times: 2
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "scientificname:&#34;lythrurus fasciolaris&#34;" ; Times: 1
+	Query: "46181" ; Times: 1
+	Query: "Macrognathus siamensis" ; Times: 2
+	Query: "catalognumber:35240" ; Times: 1
+	Query: "Glossogobius aureus mappable:1" ; Times: 1
+	Query: "American shad" ; Times: 1
+	Query: "catalognumber:31071" ; Times: 1
+	Query: "astronotus ocellatus" ; Times: 1
+	Query: "northern pike" ; Times: 1
+	Query: "unicorn" ; Times: 2
+	Query: "Acanthurus chirurgus" ; Times: 3
+	Query: "catalognumber:79563 collectioncode:ncsm" ; Times: 2
+	Query: "catalognumber:79883 collectioncode:ncsm" ; Times: 1
+	Query: "Acanthurus bahianus" ; Times: 1
+	Query: "Acanthurus triostegus triostegus" ; Times: 1
+	Query: "sand viper" ; Times: 5
+	Query: "75244" ; Times: 1
+	Query: "catalognumber:77883 collectioncode:ncsm" ; Times: 2
+	Query: "Acanthurus coeruleus" ; Times: 1
+	Query: "acipenseriformes" ; Times: 3
+	Query: "catalognumber:7780" ; Times: 1
+	Query: "specificepithet:holbrookii county:&#34;Franklin&#34;" ; Times: 1
+	Query: "Sicydium adelum mappable:1" ; Times: 1
+	Query: "catalognumber:10378" ; Times: 1
+	Query: "dasyatis sabina" ; Times: 5
+	Query: "Heptranchias perlo" ; Times: 1
+	Query: "catalognumber:23926" ; Times: 1
+	Query: "oarfish" ; Times: 1
+	Query: "atlantic sturgeon hudson" ; Times: 1
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1892 download events in this period)
+Total number of records downloaded: 2245
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 10
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 2
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-22 ; Times: 2
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-28 ; Times: 2
+	Date: 2018-02-18 ; Times: 1
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-02 ; Times: 1
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pylodictis olivaris" ; Times: 1
+	Query: "buren" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "atlantic sturgeon" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "Fish Tennessee" ; Times: 1
+	Query: "stateprovince:&#34;arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "dasyatis sabina" ; Times: 1
+	Query: "Pontinus" ; Times: 1
+	Query: "order:Gymnotiformes mappable:1" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "michigan" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+
+
+End of report.
