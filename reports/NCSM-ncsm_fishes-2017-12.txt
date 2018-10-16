@@ -1,0 +1,384 @@
+Report for Institution Code NCSM, Resource ncsm_fishes
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 409
+Number of records retrieved in searches: 5846
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 205
+	Country: Mexico ; Times: 60
+	Country: Gambia ; Times: 5
+	Country: Finland ; Times: 1
+	Country: France ; Times: 129
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-17 ; Times: 4
+	Date: 2017-12-14 ; Times: 5
+	Date: 2017-12-15 ; Times: 2
+	Date: 2017-12-12 ; Times: 8
+	Date: 2017-12-13 ; Times: 5
+	Date: 2017-12-11 ; Times: 129
+	Date: 2017-12-18 ; Times: 4
+	Date: 2017-12-19 ; Times: 7
+	Date: 2017-12-29 ; Times: 6
+	Date: 2017-12-28 ; Times: 2
+	Date: 2017-12-27 ; Times: 10
+	Date: 2017-12-26 ; Times: 2
+	Date: 2017-12-25 ; Times: 10
+	Date: 2017-12-24 ; Times: 46
+	Date: 2017-12-23 ; Times: 35
+	Date: 2017-12-22 ; Times: 4
+	Date: 2017-12-21 ; Times: 4
+	Date: 2017-12-20 ; Times: 54
+	Date: 2017-12-05 ; Times: 16
+	Date: 2017-12-04 ; Times: 13
+	Date: 2017-12-07 ; Times: 15
+	Date: 2017-12-06 ; Times: 13
+	Date: 2017-12-01 ; Times: 1
+	Date: 2017-12-03 ; Times: 7
+	Date: 2017-12-02 ; Times: 1
+	Date: 2017-12-08 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Eustomias obscurus mappable:1" ; Times: 1
+	Query: "Sardinella aurita mappable:1" ; Times: 1
+	Query: "Chaetodon curacao mappable:1" ; Times: 1
+	Query: "Fundulus euryzonus" ; Times: 2
+	Query: "Belonesox belizanus" ; Times: 1
+	Query: "distance(location,geopoint(39.0779691205001,-79.388352509))&lt;12951" ; Times: 1
+	Query: "Scomber colias mappable:1" ; Times: 1
+	Query: "Coregonus artedi mappable:1" ; Times: 1
+	Query: "Abudefduf troschelii mappable:1" ; Times: 1
+	Query: "Aetomylaeus maculatus" ; Times: 3
+	Query: "Rhamdia guatemalensis" ; Times: 1
+	Query: "distance(location,geopoint(41.433974414,-71.480081389))&lt;5770" ; Times: 1
+	Query: "Pollachius virens mappable:1" ; Times: 1
+	Query: "locality:Hudson River" ; Times: 1
+	Query: "Harengula jaguana" ; Times: 1
+	Query: "Abudefduf troschelii" ; Times: 1
+	Query: "Clupea harengus mappable:1" ; Times: 1
+	Query: "county:&#34;Wilkes&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "sunfish" ; Times: 1
+	Query: "Melanogrammus aeglefinus mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(40.011223703,-74.0983581835))&lt;6222" ; Times: 4
+	Query: "Seriola dumerili mappable:1" ; Times: 1
+	Query: "notropis bifrenatus" ; Times: 1
+	Query: "Scatophagus argus" ; Times: 1
+	Query: "Nannobrachium atrum mappable:1" ; Times: 1
+	Query: "Cyttopsis rosea mappable:1" ; Times: 1
+	Query: "Cirrhigaleus asper" ; Times: 2
+	Query: "Centropomus parallelus" ; Times: 1
+	Query: "Benthosema suborbitale mappable:1" ; Times: 2
+	Query: "Photostomias guernei mappable:1" ; Times: 1
+	Query: "bluegill" ; Times: 2
+	Query: "19403" ; Times: 1
+	Query: "Poecilia velifera" ; Times: 1
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(39.1966014139285,-74.7902138655))&lt;3667" ; Times: 1
+	Query: "Conodon nobilis" ; Times: 1
+	Query: "Lepidocybium flavobrunneum mappable:1" ; Times: 1
+	Query: "Torpedo nobiliana mappable:1" ; Times: 1
+	Query: "catalognumber:47641" ; Times: 2
+	Query: "Squalus mitsukurii" ; Times: 1
+	Query: "Black bear" ; Times: 1
+	Query: "Pollachius pollachius mappable:1" ; Times: 1
+	Query: "Eucinostomus gula" ; Times: 1
+	Query: "Rhinobatos" ; Times: 2
+	Query: "Enchelyopus cimbrius mappable:1" ; Times: 1
+	Query: "Oligoplites saurus" ; Times: 1
+	Query: "Chromis sp. 1 mappable:1" ; Times: 1
+	Query: "rhinoptera steindachneri" ; Times: 2
+	Query: "Chaetodipterus faber" ; Times: 1
+	Query: "Chromis cyanea mappable:1" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "h 8289" ; Times: 1
+	Query: "Chromis sp. 4 mappable:1" ; Times: 1
+	Query: "Megalops atlanticus" ; Times: 1
+	Query: "Abudefduf sexfasciatus mappable:1" ; Times: 2
+	Query: "Walleye" ; Times: 2
+	Query: "Chromis insolata mappable:1" ; Times: 1
+	Query: "locality:Hudson River stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "locality:Buck Ridge stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Abudefduf taurus" ; Times: 1
+	Query: "Abudefduf saxatilis" ; Times: 3
+	Query: "distance(location,geopoint(36.6915912240001,-75.9568339719999))&lt;10755" ; Times: 1
+	Query: "Rhinoptera bonasus" ; Times: 1
+	Query: "Eusphyra blochii" ; Times: 3
+	Query: "Parupeneus barberinus" ; Times: 3
+	Query: "Eleotris amblyopsis" ; Times: 1
+	Query: "Prionotus alatus mappable:1" ; Times: 1
+	Query: "noturus placidus" ; Times: 4
+	Query: "dasyatis" ; Times: 1
+	Query: "Chromis sp. 2 mappable:1" ; Times: 2
+	Query: "Eugerres plumieri" ; Times: 1
+	Query: "distance(location,geopoint(41.615272972,-70.515893404))&lt;7939" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "Chromis sp. 3 mappable:1" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "catalognumber:30411" ; Times: 1
+	Query: "catalognumber:30410" ; Times: 1
+	Query: "walleye" ; Times: 6
+	Query: "Helicolenus dactylopterus mappable:1" ; Times: 1
+	Query: "sturgeon" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 1
+	Query: "Glyptocephalus cynoglossus mappable:1" ; Times: 1
+	Query: "77075" ; Times: 1
+	Query: "Microdesmus longipinnis" ; Times: 1
+	Query: "Vinciguerria poweriae mappable:1" ; Times: 1
+	Query: "Abudefduf saxatilis mappable:1" ; Times: 2
+	Query: "Chaetodon curacao" ; Times: 1
+	Query: "distance(location,geopoint(37.9136356015001,-75.9697491285))&lt;15661" ; Times: 1
+	Query: "Limanda limanda mappable:1" ; Times: 1
+	Query: "Evorthodus lyricus" ; Times: 1
+	Query: "locality:Laurel Creek county:&#34;Watauga&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Microphis lineatus" ; Times: 1
+	Query: "Maurolicus muelleri mappable:1" ; Times: 1
+	Query: "Ben East" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "Lampadena chavesi mappable:1" ; Times: 1
+	Query: "Chromis sp." ; Times: 5
+	Query: "Parupeneus barberinus mappable:1" ; Times: 3
+	Query: "Trichiurus lepturus" ; Times: 1
+	Query: "Malacocephalus laevis mappable:1" ; Times: 1
+	Query: "Halieutichthys aculeatus mappable:1" ; Times: 1
+	Query: "Diaphus holti mappable:1" ; Times: 1
+	Query: "Myctophum punctatum mappable:1" ; Times: 1
+	Query: "Chromis limbata mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(44.9631889075001,-67.255953717))&lt;23438" ; Times: 1
+	Query: "Abudefduf sordidus" ; Times: 1
+	Query: "Xiphophorus maculatus" ; Times: 1
+	Query: "catalognumber:30409" ; Times: 1
+	Query: "genus:Neogobius country:&#34;united states&#34;" ; Times: 1
+	Query: "Macroramphosus scolopax mappable:1" ; Times: 1
+	Query: "Abudefduf sp." ; Times: 1
+	Query: "Parupeneus multifasciatus mappable:1" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "Brycon guatemalensis" ; Times: 1
+	Query: "Hemipristis elongata" ; Times: 8
+	Query: "Mustelus mustelus" ; Times: 2
+	Query: "22704" ; Times: 1
+	Query: "Mullus auratus" ; Times: 1
+	Query: "witch" ; Times: 2
+	Query: "locality:Laurel Branch stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "catalognumber:86867" ; Times: 1
+	Query: "Gobionellus oceanicus" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 1
+	Query: "Trinectes maculatus" ; Times: 1
+	Query: "gulf sturgeon" ; Times: 1
+	Query: "Chromis sp. B" ; Times: 1
+	Query: "Dormitator maculatus" ; Times: 1
+	Query: "distance(location,geopoint(38.6376794455001,-77.1774129189999))&lt;3657" ; Times: 1
+	Query: "Abudefduf taurus mappable:1" ; Times: 1
+	Query: "Eucinostomus argenteus" ; Times: 1
+	Query: "lake trout" ; Times: 1
+	Query: "grunniens" ; Times: 1
+	Query: "Thunnus albacares mappable:1" ; Times: 1
+	Query: "lake sturgeon" ; Times: 1
+	Query: "black bear" ; Times: 10
+	Query: "Solea solea mappable:1" ; Times: 1
+	Query: "Pterygoplichthys pardalis" ; Times: 1
+	Query: "mola mola" ; Times: 1
+	Query: "&#34;Trichopodus microlepis&#34; OR &#34;Trichogaster microlepis&#34;" ; Times: 1
+	Query: "Thunnus alalunga mappable:1" ; Times: 1
+	Query: "Mulloidichthys martinicus" ; Times: 1
+	Query: "Citharichthys spilopterus" ; Times: 1
+	Query: "Pseudupeneus maculatus" ; Times: 1
+	Query: "Minnesota Loon" ; Times: 1
+	Query: "Notoscopelus resplendens mappable:1" ; Times: 1
+	Query: "Acipenser fulvescens" ; Times: 1
+	Query: "Myrophis punctatus" ; Times: 1
+	Query: "Upeneus parvus mappable:1" ; Times: 1
+	Query: "Squalus acanthias mappable:1" ; Times: 1
+	Query: "unicorn" ; Times: 4
+	Query: "Pagellus acarne mappable:1" ; Times: 1
+	Query: "Diapterus auratus" ; Times: 1
+	Query: "Chromis sp. C" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 1
+	Query: "pylodictis olivaris" ; Times: 2
+	Query: "Benthosema glaciale mappable:1" ; Times: 2
+	Query: "Vinciguerria attenuata mappable:1" ; Times: 1
+	Query: "Spondyliosoma cantharus mappable:1" ; Times: 1
+	Query: "Heterodontus portusjacksoni" ; Times: 2
+	Query: "17301" ; Times: 1
+	Query: "Chromis sp. B mappable:1" ; Times: 1
+	Query: "royal tern" ; Times: 5
+	Query: "44483" ; Times: 1
+	Query: "Xenodermichthys copei mappable:1" ; Times: 1
+	Query: "Dipturus teevani" ; Times: 2
+	Query: "Strongylura marina" ; Times: 1
+	Query: "Gymnura micrura" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "locality:Hudson River stateprovince:&#34;New York&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "distance(location,geopoint(39.242347413643,-74.768122782))&lt;2590" ; Times: 1
+	Query: "distance(location,geopoint(39.1966014139285,-74.738006069))&lt;3213" ; Times: 1
+	Query: "34420" ; Times: 1
+	Query: "19598" ; Times: 1
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 1
+	Query: "Rajella barnardi" ; Times: 2
+	Query: "Abudefduf abdominalis mappable:1" ; Times: 2
+	Query: "Strongylura notata" ; Times: 1
+	Query: "Gadus morhua mappable:1" ; Times: 1
+	Query: "Aetomylaeus nichofii" ; Times: 3
+	Query: "41234" ; Times: 1
+	Query: "catalognumber:642" ; Times: 1
+	Query: "Phaeoptyx pigmentaria mappable:1" ; Times: 1
+	Query: "Gymnura altavela" ; Times: 2
+	Query: "pumpkinseed" ; Times: 1
+	Query: "Trachinotus carolinus" ; Times: 1
+	Query: "Abudefduf sexfasciatus" ; Times: 2
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "northern pike" ; Times: 1
+	Query: "Brevoortia gunteri" ; Times: 1
+	Query: "Eucinostomus melanopterus" ; Times: 1
+	Query: "Parupeneus multifasciatus" ; Times: 1
+	Query: "Diplodus vulgaris mappable:1" ; Times: 1
+	Query: "Gerres cinereus" ; Times: 1
+	Query: "genus:pontinus" ; Times: 1
+	Query: "Mullus auratus mappable:1" ; Times: 1
+	Query: "genus:Sphyrna" ; Times: 6
+	Query: "Rhinoptera marginata" ; Times: 1
+	Query: "sea lamprey" ; Times: 1
+	Query: "Diapterus rhombeus" ; Times: 1
+	Query: "Gobiesox strumosus" ; Times: 1
+	Query: "Muraena retifera mappable:1" ; Times: 1
+	Query: "44494" ; Times: 1
+	Query: "hellbender" ; Times: 1
+	Query: "distance(location,geopoint(34.582903129,-80.2337584285))&lt;13951" ; Times: 3
+	Query: "catalognumber:17194" ; Times: 1
+	Query: "Mugil curema" ; Times: 1
+	Query: "Centropristis striata mappable:1" ; Times: 1
+	Query: "Opsanus beta" ; Times: 1
+	Query: "Rhinobatos lentiginosus" ; Times: 3
+	Query: "Atherina presbyter mappable:1" ; Times: 2
+	Query: "32745" ; Times: 1
+	Query: "Coris julis mappable:1" ; Times: 1
+	Query: "Echinorhinus brucus" ; Times: 7
+	Query: "Dasyatis americana" ; Times: 1
+	Query: "Chromis sp. 4" ; Times: 1
+	Query: "Chromis cyanea" ; Times: 1
+	Query: "catalognumber:91074" ; Times: 2
+	Query: "Chromis sp. 1" ; Times: 1
+	Query: "rainbow trout" ; Times: 1
+	Query: "Chromis sp. 3" ; Times: 1
+	Query: "Chromis sp. 2" ; Times: 2
+	Query: "Elops saurus" ; Times: 1
+	Query: "Bairdiella ronchus" ; Times: 1
+	Query: "Ictalurus furcatus" ; Times: 1
+	Query: "umbra limi" ; Times: 1
+	Query: "distance(location,geopoint(39.917526642143,-74.1392156043335))&lt;6646" ; Times: 1
+	Query: "Squalus cubensis" ; Times: 1
+	Query: "Scomber scombrus mappable:1" ; Times: 1
+	Query: "Porichthys porosissimus" ; Times: 1
+	Query: "distance(location,geopoint(39.839311967643,-74.1634654098335))&lt;5050" ; Times: 1
+	Query: "Poecilia mexicana" ; Times: 1
+	Query: "Serrivomer beanii mappable:1" ; Times: 1
+	Query: "Etropus crossotus" ; Times: 1
+	Query: "catalognumber:39249" ; Times: 2
+	Query: "catalognumber:66763" ; Times: 1
+	Query: "yellow perch" ; Times: 1
+	Query: "Astyanax aeneus" ; Times: 1
+	Query: "Chromis sp. C mappable:1" ; Times: 1
+	Query: "Pristis zijsron" ; Times: 2
+	Query: "Hippocampus erectus mappable:1" ; Times: 1
+	Query: "16622" ; Times: 1
+	Query: "Pagellus erythrinus mappable:1" ; Times: 1
+	Query: "county:&#34;Watauga&#34; institutioncode:NCSM" ; Times: 1
+	Query: "distance(location,geopoint(43.1386926445001,-71.1485120105))&lt;29323" ; Times: 1
+	Query: "Parachromis managuensis" ; Times: 1
+	Query: "wisconsin DNR" ; Times: 4
+	Query: "Abudefduf abdominalis" ; Times: 2
+	Query: "Micropogonias undulatus" ; Times: 1
+	Query: "Poecilia sphenops" ; Times: 1
+	Query: "Diplodus sargus  mappable:1" ; Times: 1
+	Query: "institutioncode:NCSM" ; Times: 1
+	Query: "Rhododendron mappable:1" ; Times: 1
+	Query: "Chromis sp. mappable:1" ; Times: 5
+	Query: "Torpedo torpedo mappable:1" ; Times: 1
+	Query: "Microphis brachyurus" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "Alosa pseudoharengus mappable:1" ; Times: 2
+	Query: "37061" ; Times: 1
+	Query: "Chromis insolata" ; Times: 1
+	Query: "Abudefduf declivifrons mappable:1" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 1
+	Query: "Merluccius albidus mappable:1" ; Times: 1
+	Query: "22094" ; Times: 1
+	Query: "Scopelarchus analis mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(39.243143278643,-74.7172094745))&lt;4516" ; Times: 1
+	Query: "distance(location,geopoint(35.0813240665001,-80.051390608))&lt;5960" ; Times: 1
+	Query: "32738" ; Times: 1
+	Query: "Abudefduf sordidus mappable:1" ; Times: 1
+	Query: "Upeneus parvus" ; Times: 1
+	Query: "Anthias anthias mappable:1" ; Times: 2
+	Query: "catalognumber:9995" ; Times: 1
+	Query: "Argyropelecus aculeatus mappable:1" ; Times: 1
+	Query: "Aetobatus narinari" ; Times: 2
+	Query: "Agonostomus monticola" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 2
+	Query: "Lobianchia gemellarii mappable:1" ; Times: 1
+	Query: "catalognumber:66653" ; Times: 1
+	Query: "Diaphus rafinesquii mappable:1" ; Times: 1
+	Query: "Sarpa salpa mappable:1" ; Times: 1
+	Query: "thunnus albacares" ; Times: 1
+	Query: "Carcharhinus leucas" ; Times: 1
+	Query: "Argyropelecus olfersii mappable:1" ; Times: 2
+	Query: "Thymallus arcticus" ; Times: 1
+	Query: "Xiphias gladius mappable:1" ; Times: 1
+	Query: "77705" ; Times: 1
+	Query: "distance(location,geopoint(39.844175286643,-74.2119885988335))&lt;3883" ; Times: 1
+	Query: "Xiphophorus hellerii" ; Times: 1
+	Query: "Abudefduf sp. mappable:1" ; Times: 1
+	Query: "Black Bear" ; Times: 5
+	Query: "29809" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 1
+	Query: "Dipturus batis mappable:1" ; Times: 1
+	Query: "specificepithet:hyostoma genus:Macrhybopsis month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Ceratoscopelus maderensis mappable:1" ; Times: 1
+	Query: "Pagrus pagrus mappable:1" ; Times: 1
+	Query: "Abudefduf declivifrons" ; Times: 1
+	Query: "Anguilla marmorata mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 674 download events in this period)
+Total number of records downloaded: 184
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Australia ; Times: 2
+	Country: India ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-29 ; Times: 1
+	Date: 2017-12-26 ; Times: 1
+	Date: 2017-12-24 ; Times: 1
+	Date: 2017-12-04 ; Times: 1
+	Date: 2017-12-14 ; Times: 2
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-09 ; Times: 2
+	Date: 2017-12-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhinobatos lentiginosus" ; Times: 1
+	Query: "Rockingham Bay vntype:specimen" ; Times: 2
+	Query: "Thymallus arcticus" ; Times: 1
+	Query: "notropis bifrenatus" ; Times: 1
+	Query: "pylodictis olivaris" ; Times: 1
+	Query: "Rhinobatos" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "&#34;Trichopodus microlepis&#34; OR &#34;Trichogaster microlepis&#34;" ; Times: 1
+	Query: "nicaragua vntype:specimen" ; Times: 1
+
+
+End of report.
