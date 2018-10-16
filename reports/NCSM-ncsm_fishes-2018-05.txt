@@ -1,0 +1,279 @@
+Report for Institution Code NCSM, Resource ncsm_fishes
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 265
+Number of records retrieved in searches: 1735
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 3
+	Country: Indonesia ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Austria ; Times: 1
+	Country: China ; Times: 15
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 5
+	Country: United States ; Times: 221
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 2
+	Date: 2018-05-29 ; Times: 13
+	Date: 2018-05-20 ; Times: 5
+	Date: 2018-05-21 ; Times: 11
+	Date: 2018-05-22 ; Times: 8
+	Date: 2018-05-23 ; Times: 8
+	Date: 2018-05-24 ; Times: 13
+	Date: 2018-05-25 ; Times: 9
+	Date: 2018-05-26 ; Times: 3
+	Date: 2018-05-27 ; Times: 3
+	Date: 2018-05-07 ; Times: 15
+	Date: 2018-05-04 ; Times: 8
+	Date: 2018-05-05 ; Times: 4
+	Date: 2018-05-02 ; Times: 8
+	Date: 2018-05-03 ; Times: 19
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-08 ; Times: 6
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-31 ; Times: 1
+	Date: 2018-05-30 ; Times: 5
+	Date: 2018-05-15 ; Times: 9
+	Date: 2018-05-14 ; Times: 12
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-16 ; Times: 63
+	Date: 2018-05-11 ; Times: 4
+	Date: 2018-05-10 ; Times: 3
+	Date: 2018-05-13 ; Times: 4
+	Date: 2018-05-12 ; Times: 6
+	Date: 2018-05-19 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "sailfish" ; Times: 1
+	Query: "distance(location,geopoint(42.6495013578174,-85.3872811613869))&lt;14725" ; Times: 2
+	Query: "scientificname:(Etheostoma microperca) country:United States mappable:1" ; Times: 1
+	Query: "NCSM 79381" ; Times: 1
+	Query: "NCSM 31124" ; Times: 1
+	Query: "71073" ; Times: 1
+	Query: "NCSM 77812" ; Times: 1
+	Query: "distance(location,geopoint(44.371166546,-93.6820334855))&lt;19398" ; Times: 2
+	Query: "Striped bass" ; Times: 1
+	Query: "NCSM 77816" ; Times: 1
+	Query: "NCSM 77814" ; Times: 1
+	Query: "NCSM 77815" ; Times: 1
+	Query: "distance(location,geopoint(43.8214476702145,-91.3120372855))&lt;21629" ; Times: 2
+	Query: "NCSM 77818" ; Times: 1
+	Query: "scientificname:(Salvelinus malma) country:United States mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(42.2832807888075,-83.1083580444698))&lt;9603" ; Times: 1
+	Query: "NCSM 22733" ; Times: 1
+	Query: "Dysommina" ; Times: 1
+	Query: "collections invertebrates" ; Times: 1
+	Query: "scientificname:(Elassoma alabamae) country:United States mappable:1" ; Times: 1
+	Query: "NCSM 76827" ; Times: 1
+	Query: "Etheostoma douglasi" ; Times: 2
+	Query: "vntype:specimen (marshalltown)" ; Times: 1
+	Query: "Cottus bairdii" ; Times: 3
+	Query: "NCSM 25545" ; Times: 2
+	Query: "NCSM 6003" ; Times: 2
+	Query: "distance(location,geopoint(44.6973286135,-93.6564851374999))&lt;7735" ; Times: 2
+	Query: "typhlichthys" ; Times: 1
+	Query: "specificepithet:bovinus genus:Cyprinodon" ; Times: 3
+	Query: "scientificname:(Acipenser fulvescens) country:United States mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(38.9879603599145,-92.7108775948784))&lt;29395" ; Times: 3
+	Query: "NCSM 76354" ; Times: 1
+	Query: "NCSM 76355" ; Times: 1
+	Query: "distance(location,geopoint(45.2821609080001,-95.686562195))&lt;36869" ; Times: 2
+	Query: "CM 9029" ; Times: 1
+	Query: "scientificname:(Notropis amabilis) country:United States mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(41.0082879640365,-89.3925110450531))&lt;13315" ; Times: 1
+	Query: "distance(location,geopoint(38.005845063,-89.9754001465))&lt;46441" ; Times: 2
+	Query: "xiphias" ; Times: 1
+	Query: "distance(location,geopoint(45.50675844225,-95.9057693345))&lt;68126" ; Times: 2
+	Query: "genus:Amphilophus" ; Times: 3
+	Query: "18002" ; Times: 1
+	Query: "NCSM 79547" ; Times: 1
+	Query: "catostomus santaanae" ; Times: 1
+	Query: "NCSM 79543" ; Times: 1
+	Query: "NCSM 79541" ; Times: 1
+	Query: "37184" ; Times: 1
+	Query: "NCSM 16814" ; Times: 1
+	Query: "distance(location,geopoint(38.65875276895,-91.2511227055))&lt;55931" ; Times: 4
+	Query: "Carcharhinus limbatus" ; Times: 2
+	Query: "Tyrrell" ; Times: 1
+	Query: "invertebrates" ; Times: 1
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "scientificname:(Noturus albater) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:myrnae genus:Archocentrus" ; Times: 1
+	Query: "10048" ; Times: 1
+	Query: "noturus placidus" ; Times: 6
+	Query: "NCSM 76346" ; Times: 1
+	Query: "NCSM 76341" ; Times: 1
+	Query: "snakes" ; Times: 2
+	Query: "Morone americana " ; Times: 1
+	Query: "distance(location,geopoint(44.89221551525,-95.84415616))&lt;61793" ; Times: 2
+	Query: "genus:Symphysodon" ; Times: 1
+	Query: "distance(location,geopoint(45.0386038400001,-96.221293923))&lt;30445" ; Times: 2
+	Query: "Citing" ; Times: 1
+	Query: "NCSM 22734" ; Times: 1
+	Query: "Microdesmus longipinnis" ; Times: 1
+	Query: "distance(location,geopoint(40.32824132246,-90.012530480135))&lt;15087" ; Times: 1
+	Query: "scientificname:(Salvelinus fontinalis) country:United States mappable:1" ; Times: 2
+	Query: "franklin north carolina" ; Times: 2
+	Query: "NCSM 79550" ; Times: 1
+	Query: "36458" ; Times: 1
+	Query: "distance(location,geopoint(37.2278846305001,-89.1481192859999))&lt;20185" ; Times: 1
+	Query: "distance(location,geopoint(40.4417059145379,-90.00673221017))&lt;13766" ; Times: 1
+	Query: "marshalltown" ; Times: 2
+	Query: "locality:McKay" ; Times: 1
+	Query: "county:&#34;Montgomery&#34; stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "rainbow darter" ; Times: 2
+	Query: "NCSM 79907" ; Times: 1
+	Query: "NCSM 79902" ; Times: 1
+	Query: "xiphophorus hellerii" ; Times: 3
+	Query: "NCSM 79375" ; Times: 1
+	Query: "NCSM 79377" ; Times: 1
+	Query: "witch" ; Times: 8
+	Query: "CM 9041" ; Times: 1
+	Query: "goldfish" ; Times: 1
+	Query: "NCSM 79378" ; Times: 1
+	Query: "40447" ; Times: 2
+	Query: "hellbender" ; Times: 1
+	Query: "37232" ; Times: 1
+	Query: "genus:Archocentrus" ; Times: 1
+	Query: "gulf of california class:chondrichthyes year &lt;= 1960" ; Times: 1
+	Query: "distance(location,geopoint(38.91491613655,-92.5239536137407))&lt;5501" ; Times: 4
+	Query: "NCSM 12737" ; Times: 1
+	Query: "distance(location,geopoint(38.905901129478,-92.5678721072175))&lt;18581" ; Times: 3
+	Query: "NCSM 77459" ; Times: 1
+	Query: "distance(location,geopoint(40.3259350065001,-90.098832204))&lt;4130" ; Times: 2
+	Query: "distance(location,geopoint(42.0647316641425,-83.1883640004999))&lt;5490" ; Times: 2
+	Query: "distance(location,geopoint(45.3941139210832,-96.4433876691735))&lt;48705" ; Times: 1
+	Query: "AL 3054" ; Times: 1
+	Query: "NCSM 78166" ; Times: 1
+	Query: "distance(location,geopoint(38.577664207733,-91.2675336119972))&lt;64555" ; Times: 2
+	Query: "distance(location,geopoint(45.5861773815354,-95.991834180909))&lt;41308" ; Times: 1
+	Query: "distance(location,geopoint(40.3761206225001,-89.9958485345))&lt;5309" ; Times: 2
+	Query: "distance(location,geopoint(45.586172872,-95.9919551615))&lt;27154" ; Times: 2
+	Query: "royal tern" ; Times: 1
+	Query: "NCSM 11052" ; Times: 1
+	Query: "distance(location,geopoint(39.881129919,-90.5451142735))&lt;6477" ; Times: 2
+	Query: "catalognumber:66465" ; Times: 1
+	Query: "NCSM 11051" ; Times: 1
+	Query: "NCSM 81300" ; Times: 1
+	Query: "distance(location,geopoint(37.0321005105,-94.028136968))&lt;35289" ; Times: 1
+	Query: "Chlopsis" ; Times: 1
+	Query: "NCSM 77669" ; Times: 1
+	Query: "collections crabs" ; Times: 1
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "Carcharias taurus" ; Times: 1
+	Query: "distance(location,geopoint(38.823841899042,-90.7090116510005))&lt;58590" ; Times: 2
+	Query: "Labeo chrysophekadion" ; Times: 2
+	Query: "27634" ; Times: 1
+	Query: "31227" ; Times: 2
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;Kentucky, Tennessee&#34; catalognumber:48099" ; Times: 1
+	Query: "stateprovince:&#34;Kentucky, Tennessee&#34;" ; Times: 1
+	Query: "scientificname:(Scaphirhynchus platorynchus) country:United States mappable:1" ; Times: 1
+	Query: "NCSM 80880" ; Times: 1
+	Query: "family:Percidae county:&#34;Pittsburg&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "44963" ; Times: 1
+	Query: "NCSM 77662" ; Times: 2
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "NCSM 11047" ; Times: 1
+	Query: "distance(location,geopoint(44.824335823,-93.2719965115))&lt;6844" ; Times: 2
+	Query: "specificepithet:severus family:Cichlidae" ; Times: 1
+	Query: "June sucker" ; Times: 1
+	Query: "distance(location,geopoint(40.3259339471276,-90.0988653032703))&lt;18259" ; Times: 1
+	Query: "distance(location,geopoint(42.186861331453,-83.1081271922452))&lt;9629" ; Times: 1
+	Query: "mucus" ; Times: 1
+	Query: "NCSM 14726" ; Times: 1
+	Query: "specificepithet:guttatus genus:epinephelus" ; Times: 2
+	Query: "scientificname:(Moxostoma carinatum) country:United States mappable:1" ; Times: 1
+	Query: "NCSM 76136" ; Times: 1
+	Query: "NCSM 80877" ; Times: 1
+	Query: "mola" ; Times: 1
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "NCSM 80878" ; Times: 1
+	Query: "NCSM 80879" ; Times: 1
+	Query: "NCSM 81297" ; Times: 1
+	Query: "NCSM 76353" ; Times: 1
+	Query: "blue shark" ; Times: 2
+	Query: "catalognumber:47562" ; Times: 1
+	Query: "56785" ; Times: 1
+	Query: "&#34;Kentucky&#34; catalognumber:48099" ; Times: 1
+	Query: "NCSM 77462" ; Times: 1
+	Query: "coho salmon" ; Times: 2
+	Query: "NCSM 15321" ; Times: 1
+	Query: "distance(location,geopoint(45.1848948054053,-95.9776427090496))&lt;8093" ; Times: 2
+	Query: "distance(location,geopoint(39.070019590351,-93.3608964360506))&lt;77242" ; Times: 3
+	Query: "35076" ; Times: 1
+	Query: "distance(location,geopoint(38.8259859740737,-92.504553279826))&lt;12653" ; Times: 2
+	Query: "NCSM 76168" ; Times: 1
+	Query: "Sphyrna tiburo" ; Times: 2
+	Query: "24432" ; Times: 1
+	Query: "NCSM 76167" ; Times: 1
+	Query: "NCSM 76160" ; Times: 2
+	Query: "NCSM 77379" ; Times: 1
+	Query: "NCSM 77378" ; Times: 1
+	Query: "NCSM 85030" ; Times: 1
+	Query: "genus:Parachromis" ; Times: 1
+	Query: "echinorhinus" ; Times: 1
+	Query: "NCSM 85034" ; Times: 1
+	Query: "Dysomma" ; Times: 1
+	Query: "unicorn" ; Times: 5
+	Query: "NCSM 7432" ; Times: 1
+	Query: "NCSM 77458" ; Times: 1
+	Query: "stateprovince:&#34;Tennessee&#34; catalognumber:48099" ; Times: 1
+	Query: "NCSM 6096" ; Times: 1
+	Query: "62245" ; Times: 1
+	Query: "knotweed" ; Times: 2
+	Query: "39454" ; Times: 1
+	Query: "&#34;Tennessee&#34; catalognumber:48099" ; Times: 1
+	Query: "distance(location,geopoint(42.212541833,-83.139158085))&lt;3263" ; Times: 2
+	Query: "NCSM 79380" ; Times: 1
+	Query: "50785" ; Times: 2
+	Query: "Skipjack Herring" ; Times: 1
+	Query: "NCSM 80881" ; Times: 1
+	Query: "collections n. w. gulf of mexico" ; Times: 1
+	Query: "distance(location,geopoint(42.0904418740985,-83.2832567278143))&lt;8407" ; Times: 1
+	Query: "NCSM 77461" ; Times: 1
+	Query: "NCSM 80261" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1178 download events in this period)
+Total number of records downloaded: 2465
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-14 ; Times: 3
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-25 ; Times: 2
+	Date: 2018-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "percina" ; Times: 1
+	Query: "coho salmon" ; Times: 1
+	Query: "gulf of california class:chondrichthyes year &lt;= 1960" ; Times: 1
+	Query: "morone americana" ; Times: 1
+	Query: "Chlopsis" ; Times: 1
+	Query: "marshalltown" ; Times: 1
+	Query: "xiphias" ; Times: 1
+	Query: "Dysomma" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Oklahoma&#34; year &gt;= 1960 year &lt;= 2018" ; Times: 2
+
+
+End of report.
