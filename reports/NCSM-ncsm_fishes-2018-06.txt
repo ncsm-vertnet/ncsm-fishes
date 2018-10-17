@@ -1,0 +1,287 @@
+Report for Institution Code NCSM, Resource ncsm_fishes
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 305
+Number of records retrieved in searches: 2430
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 7
+	Country: Finland ; Times: 1
+	Country: France ; Times: 5
+	Country: United States ; Times: 253
+	Country: China ; Times: 16
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 13
+	Date: 2018-06-06 ; Times: 31
+	Date: 2018-06-05 ; Times: 18
+	Date: 2018-06-04 ; Times: 16
+	Date: 2018-06-29 ; Times: 12
+	Date: 2018-06-02 ; Times: 3
+	Date: 2018-06-01 ; Times: 6
+	Date: 2018-06-25 ; Times: 5
+	Date: 2018-06-24 ; Times: 2
+	Date: 2018-06-27 ; Times: 4
+	Date: 2018-06-26 ; Times: 6
+	Date: 2018-06-21 ; Times: 45
+	Date: 2018-06-20 ; Times: 22
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-08 ; Times: 7
+	Date: 2018-06-22 ; Times: 1
+	Date: 2018-06-11 ; Times: 23
+	Date: 2018-06-12 ; Times: 26
+	Date: 2018-06-13 ; Times: 27
+	Date: 2018-06-15 ; Times: 1
+	Date: 2018-06-17 ; Times: 7
+	Date: 2018-06-18 ; Times: 11
+	Date: 2018-06-19 ; Times: 8
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-28 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "NCSM 79381" ; Times: 1
+	Query: "catalognumber:66171" ; Times: 1
+	Query: "65362" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "NCSM 77816" ; Times: 1
+	Query: "distance(location,geopoint(45.1848948054053,-95.9776427090496))&lt;8093" ; Times: 1
+	Query: "NCSM 77814" ; Times: 1
+	Query: "NCSM 77815" ; Times: 1
+	Query: "Paracanthurus hepatus" ; Times: 2
+	Query: "NCSM 22734" ; Times: 1
+	Query: "Fundulus grandis" ; Times: 1
+	Query: "South toe north carolina" ; Times: 2
+	Query: "Acanthurus sp. mappable:1" ; Times: 1
+	Query: "catalognumber:33306" ; Times: 1
+	Query: "Etheostoma douglasi" ; Times: 6
+	Query: "sphoeroides parvus vntype:specimen" ; Times: 1
+	Query: "Acanthurus lineatus" ; Times: 3
+	Query: "distance(location,geopoint(39.8811126354848,-90.5450667498278))&lt;20513" ; Times: 1
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "NCSM 76168" ; Times: 1
+	Query: "NCSM 76355" ; Times: 2
+	Query: "NCSM 76353" ; Times: 1
+	Query: "gettys" ; Times: 1
+	Query: "Mountain Beaver" ; Times: 3
+	Query: "genus:chrosomus stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "49503" ; Times: 1
+	Query: "Black bear" ; Times: 1
+	Query: "gray whale" ; Times: 1
+	Query: "16262" ; Times: 1
+	Query: "distance(location,geopoint(44.8059502237725,-93.184175766894))&lt;11834" ; Times: 1
+	Query: "JAGUAR" ; Times: 1
+	Query: "52549" ; Times: 1
+	Query: "NCSM 22545" ; Times: 1
+	Query: "39043" ; Times: 3
+	Query: "NCSM 79547" ; Times: 1
+	Query: "puppy" ; Times: 1
+	Query: "Acanthurus triostegus mappable:1" ; Times: 2
+	Query: "NCSM 79543" ; Times: 1
+	Query: "South toe Actinopterygii north carolina" ; Times: 1
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 3
+	Query: "Sphyraena barracuda mappable:1" ; Times: 1
+	Query: "Siphateles bicolor" ; Times: 6
+	Query: "NCSM 77378" ; Times: 1
+	Query: "county:&#34;Davie&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "florida worm" ; Times: 3
+	Query: "noturus placidus" ; Times: 1
+	Query: "Rhododendron" ; Times: 1
+	Query: "eno river" ; Times: 2
+	Query: "NCSM 76341" ; Times: 1
+	Query: "snakes" ; Times: 2
+	Query: "county:&#34;columbia&#34; stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "distance(location,geopoint(38.852323899402,-85.8038361228021))&lt;13425" ; Times: 1
+	Query: "largemouth bass" ; Times: 1
+	Query: "Acanthurus achilles" ; Times: 3
+	Query: "distance(location,geopoint(36.9940289363794,-90.1823658933356))&lt;23608" ; Times: 1
+	Query: "Naso lituratus" ; Times: 3
+	Query: "NCSM 79550" ; Times: 1
+	Query: "Aulostomus chinensis" ; Times: 1
+	Query: "distance(location,geopoint(37.9940788312488,-89.8514679239135))&lt;13019" ; Times: 1
+	Query: "NCSM 77461" ; Times: 1
+	Query: "Acanthurus nigricans mappable:1" ; Times: 9
+	Query: "hippocampus erectus" ; Times: 5
+	Query: "59971" ; Times: 1
+	Query: "genus:astyanax stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "ogcocephalus" ; Times: 1
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "NCSM 79907" ; Times: 1
+	Query: "NCSM 79902" ; Times: 1
+	Query: "Zebrasoma flavescens" ; Times: 3
+	Query: "70092" ; Times: 1
+	Query: "Zebrasoma flavescens mappable:1" ; Times: 3
+	Query: "morpho" ; Times: 2
+	Query: "fieldnumber:2027" ; Times: 1
+	Query: "NCSM 79377" ; Times: 2
+	Query: "witch" ; Times: 14
+	Query: "NCSM 88359" ; Times: 2
+	Query: "Naso lituratus mappable:1" ; Times: 3
+	Query: "smallmouth bass" ; Times: 3
+	Query: "catalognumber:29294" ; Times: 2
+	Query: "NCSM 79378" ; Times: 1
+	Query: "NCSM 79375" ; Times: 1
+	Query: "distance(location,geopoint(44.954125234549,-93.1744568655617))&lt;12380" ; Times: 1
+	Query: "NCSM 80318" ; Times: 1
+	Query: "seahorse" ; Times: 1
+	Query: "68899" ; Times: 1
+	Query: "black bear" ; Times: 6
+	Query: "lethenteron" ; Times: 1
+	Query: "21294" ; Times: 1
+	Query: "36384`1" ; Times: 1
+	Query: "lamprey" ; Times: 1
+	Query: "Ctenochaetus binotatus" ; Times: 3
+	Query: "unicorn" ; Times: 3
+	Query: "19696" ; Times: 1
+	Query: "Acanthurus triostegus" ; Times: 2
+	Query: "Acanthurus nigrofuscus" ; Times: 2
+	Query: "NCSM 76167" ; Times: 2
+	Query: "genus:chrosomus stateprovince:&#34;virginia&#34; AND (NOT &#34;oreas&#34;)" ; Times: 1
+	Query: "thermophilus" ; Times: 1
+	Query: "chinook salmon" ; Times: 2
+	Query: "Ictalurus furcatus" ; Times: 1
+	Query: "Acanthurus sp." ; Times: 1
+	Query: "16088 vntype:specimen" ; Times: 1
+	Query: "county:&#34;columbia&#34; stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "NCSM 11051" ; Times: 1
+	Query: "Cutthroat Trout" ; Times: 1
+	Query: "distance(location,geopoint(44.6577752129955,-93.6644673554555))&lt;12850" ; Times: 1
+	Query: "64939" ; Times: 1
+	Query: "NCSM 81300" ; Times: 1
+	Query: "lingcod" ; Times: 1
+	Query: "White Oak creek" ; Times: 1
+	Query: "NCSM 77669" ; Times: 1
+	Query: "Acanthurus nigrofuscus mappable:1" ; Times: 2
+	Query: "mountain beaver" ; Times: 1
+	Query: "NCSM 77662" ; Times: 1
+	Query: "79409" ; Times: 1
+	Query: "Acanthurus olivaceus" ; Times: 3
+	Query: "blue jay" ; Times: 3
+	Query: "country:&#34;honduras&#34; year &gt;= 1965 year &lt;= 1965" ; Times: 2
+	Query: "Rhinichthys obtusus" ; Times: 1
+	Query: "corniger" ; Times: 1
+	Query: "osprey" ; Times: 1
+	Query: "NCSM 80880" ; Times: 1
+	Query: "59215" ; Times: 1
+	Query: "distance(location,geopoint(38.005810180428,-90.100144786432))&lt;13769" ; Times: 1
+	Query: "Ictalurus sp." ; Times: 1
+	Query: "Acanthurus bahianus mappable:1" ; Times: 3
+	Query: "distance(location,geopoint(44.8059502237725,-93.415851845333))&lt;12831" ; Times: 1
+	Query: "western pond turtle" ; Times: 3
+	Query: "rainbow trout" ; Times: 4
+	Query: "42139-1" ; Times: 1
+	Query: "Acanthurus triostegus triostegus mappable:1" ; Times: 1
+	Query: "NCSM 14726" ; Times: 1
+	Query: "western squirrel" ; Times: 1
+	Query: "NCSM 80877" ; Times: 1
+	Query: "locality:Schultz county:&#34;Bibb&#34;" ; Times: 1
+	Query: "black bears" ; Times: 3
+	Query: "NCSM 80878" ; Times: 1
+	Query: "distance(location,geopoint(45.1023002453255,-93.167236335211))&lt;12793" ; Times: 1
+	Query: "Acanthurus nigricans" ; Times: 9
+	Query: "56785" ; Times: 1
+	Query: "NCSM 77462" ; Times: 1
+	Query: "NCSM 80261" ; Times: 1
+	Query: "NCSM 80260" ; Times: 1
+	Query: "Labeo rohita" ; Times: 1
+	Query: "Gila bicolor" ; Times: 2
+	Query: "28940" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "Menidia extensa" ; Times: 1
+	Query: "locality:homer stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "NCSM 76160" ; Times: 1
+	Query: "39047" ; Times: 1
+	Query: "50623" ; Times: 4
+	Query: "NCSM 85030" ; Times: 1
+	Query: "CM 7715" ; Times: 2
+	Query: "NCSM 85036" ; Times: 1
+	Query: "64465" ; Times: 1
+	Query: "&#34;Paw Paw&#34; vntype:specimen" ; Times: 1
+	Query: "Lethenteron" ; Times: 1
+	Query: "locality:Cave stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Acanthurus chirurgus" ; Times: 6
+	Query: "88765" ; Times: 1
+	Query: "Hepatus hepatus" ; Times: 3
+	Query: "Acanthurus bahianus" ; Times: 3
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "NCSM 6096" ; Times: 1
+	Query: "Acanthurus triostegus triostegus" ; Times: 1
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "Acanthurus coeruleus" ; Times: 3
+	Query: "Cyprinodon macularius" ; Times: 1
+	Query: "catalognumber:50355" ; Times: 1
+	Query: "dinosaur north carolina" ; Times: 1
+	Query: "70533" ; Times: 1
+	Query: "50785" ; Times: 1
+	Query: "Black Bear" ; Times: 1
+	Query: "golden trout" ; Times: 1
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 6
+	Query: "distance(location,geopoint(46.1655080625069,-93.5879536581953))&lt;18477" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 1169 download events in this period)
+Total number of records downloaded: 2588
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+	Country: United Kingdom ; Times: 1
+	Country: Panama ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-01 ; Times: 3
+	Date: 2018-06-06 ; Times: 8
+	Date: 2018-06-07 ; Times: 4
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-05 ; Times: 7
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-08 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "eno river" ; Times: 1
+	Query: "county:&#34;pierce&#34; stateprovince:&#34;washington&#34; continent:North America" ; Times: 1
+	Query: "grey fox" ; Times: 1
+	Query: "locality:Schultz county:&#34;Bibb&#34;" ; Times: 1
+	Query: "golden trout" ; Times: 1
+	Query: "Mycteroperca rosacea" ; Times: 1
+	Query: "sphoeroides parvus vntype:specimen" ; Times: 1
+	Query: "Labeo rohita" ; Times: 1
+	Query: "Cutthroat Trout" ; Times: 2
+	Query: "Pterygoplichthys" ; Times: 2
+	Query: "lingcod" ; Times: 1
+	Query: "Mountain Beaver" ; Times: 1
+	Query: "oregon" ; Times: 1
+	Query: "blue jay" ; Times: 2
+	Query: "American Beaver" ; Times: 4
+	Query: "locality:Cave stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "smallmouth bass" ; Times: 1
+	Query: "chinook salmon" ; Times: 2
+	Query: "pterois volitans" ; Times: 1
+	Query: "pond turtle" ; Times: 1
+	Query: "beavers" ; Times: 1
+	Query: "hasmass:1" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "western pond turtle" ; Times: 3
+	Query: "rainbow trout" ; Times: 2
+
+
+End of report.
