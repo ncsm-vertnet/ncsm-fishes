@@ -1,0 +1,205 @@
+Report for Institution Code NCSM, Resource ncsm_fishes
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 193
+Number of records retrieved in searches: 2931
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 14
+	Country: Mexico ; Times: 18
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 2
+	Country: Russia ; Times: 3
+	Country: United States ; Times: 123
+	Country: Sweden ; Times: 2
+	Country: China ; Times: 10
+	Country: Germany ; Times: 11
+	Country: Argentina ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-02 ; Times: 1
+	Date: 2018-09-25 ; Times: 5
+	Date: 2018-09-26 ; Times: 12
+	Date: 2018-09-01 ; Times: 4
+	Date: 2018-09-06 ; Times: 4
+	Date: 2018-09-21 ; Times: 12
+	Date: 2018-09-04 ; Times: 8
+	Date: 2018-09-05 ; Times: 5
+	Date: 2018-09-28 ; Times: 5
+	Date: 2018-09-29 ; Times: 2
+	Date: 2018-09-30 ; Times: 4
+	Date: 2018-09-11 ; Times: 5
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-13 ; Times: 57
+	Date: 2018-09-12 ; Times: 4
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-17 ; Times: 4
+	Date: 2018-09-16 ; Times: 11
+	Date: 2018-09-19 ; Times: 19
+	Date: 2018-09-18 ; Times: 3
+	Date: 2018-09-24 ; Times: 3
+	Date: 2018-09-27 ; Times: 10
+	Date: 2018-09-20 ; Times: 7
+	Date: 2018-09-07 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:(Cyprinodon variegatus) country:United States mappable:1" ; Times: 5
+	Query: "scientificname:(Lepisosteus platostomus) country:United States mappable:1" ; Times: 1
+	Query: "Gambusia holbrooki" ; Times: 3
+	Query: "Topsmelt" ; Times: 1
+	Query: "skeleton vntype:specimen genus:Alosa" ; Times: 1
+	Query: "43401" ; Times: 1
+	Query: "scientificname:(Novumbra hubbsi) country:United States mappable:1" ; Times: 1
+	Query: "alewife" ; Times: 1
+	Query: "scientificname:(Lucania parva) country:United States mappable:1" ; Times: 3
+	Query: "22579" ; Times: 1
+	Query: "16678" ; Times: 1
+	Query: "14840" ; Times: 1
+	Query: "sample data for presence" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "Gymnothorax miliaris" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "freshwater turtle" ; Times: 2
+	Query: "dolly varden" ; Times: 2
+	Query: "jaguar" ; Times: 1
+	Query: "lipogenys" ; Times: 1
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "scientificname:(Etheostoma exile) country:United States mappable:1" ; Times: 1
+	Query: "torrent sculpin" ; Times: 1
+	Query: "scientificname:(Semotilus corporalis) country:United States mappable:1" ; Times: 2
+	Query: "specificepithet:miurus genus:Noturus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Etheostoma osburni" ; Times: 2
+	Query: "dasyatis" ; Times: 1
+	Query: "snakes" ; Times: 3
+	Query: "34893-1" ; Times: 1
+	Query: "scientificname:(Lucania goodei) country:United States mappable:1" ; Times: 1
+	Query: "house crow" ; Times: 1
+	Query: "Fundulus heteroclitus" ; Times: 2
+	Query: "Lepidopus" ; Times: 1
+	Query: "49597" ; Times: 1
+	Query: "salvelinus malma" ; Times: 1
+	Query: "scientificname:(Notropis heterolepis) country:United States mappable:1" ; Times: 1
+	Query: "Bay Blenny" ; Times: 1
+	Query: "lucania goodei" ; Times: 1
+	Query: "Aulostomus maculatus" ; Times: 1
+	Query: "scientificname:(Ictiobus cyprinellus) country:United States mappable:1" ; Times: 1
+	Query: "Polyodon spathula" ; Times: 2
+	Query: "OSU" ; Times: 1
+	Query: "Salmo salar" ; Times: 2
+	Query: "scientificname:(Oncorhynchus nerka) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Couesius plumbeus) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:41858" ; Times: 1
+	Query: "Acipenser transmontanus" ; Times: 1
+	Query: "scientificname:(Moxostoma lachneri OR Scartomyzon lachneri) country:United States mappable:1" ; Times: 1
+	Query: "14042" ; Times: 1
+	Query: "Yarrella blackfordi" ; Times: 2
+	Query: "scientificname:(Ictiobus bubalus) country:United States mappable:1" ; Times: 3
+	Query: "scientificname:(Fundulus seminolis) country:United States mappable:1" ; Times: 1
+	Query: "genus:astyanax stateprovince:&#34;tamaulipas&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "16088" ; Times: 1
+	Query: "witch" ; Times: 10
+	Query: "eastern hellbender" ; Times: 1
+	Query: "&#34;Lucania goodei&#34;" ; Times: 2
+	Query: "hellbender" ; Times: 2
+	Query: "notropis chiliticus" ; Times: 1
+	Query: "scientificname:(Salvelinus namaycush) country:United States mappable:1" ; Times: 1
+	Query: "27792" ; Times: 1
+	Query: "Chlorophthalmus agassizi" ; Times: 1
+	Query: "scientificname:(Catostomus santaanae) country:United States mappable:1" ; Times: 1
+	Query: "Gadella imberbis" ; Times: 1
+	Query: "lake erie" ; Times: 1
+	Query: "noturus placidus" ; Times: 4
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Stomias longibarbatus" ; Times: 1
+	Query: "osprey" ; Times: 1
+	Query: "scientificname:(Hiodon alosoides) country:United States mappable:1" ; Times: 1
+	Query: "South Toe Moxostoma" ; Times: 1
+	Query: "Leptostomias bilobatus" ; Times: 1
+	Query: "scientificname:(Hypentelium roanokense) country:United States mappable:1" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "California Clingfish" ; Times: 1
+	Query: "church rock" ; Times: 3
+	Query: "specificepithet:lowei" ; Times: 1
+	Query: "scientificname:(Nocomis micropogon) country:United States mappable:1" ; Times: 5
+	Query: "Anarchias similis" ; Times: 1
+	Query: "barathronus" ; Times: 1
+	Query: "catalognumber:10678" ; Times: 1
+	Query: "trait" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "Sardinella aurita" ; Times: 2
+	Query: "prairie dog" ; Times: 2
+	Query: "Calico Sculpin" ; Times: 1
+	Query: "monopterus" ; Times: 1
+	Query: "scientificname:(Pogonichthys macrolepidotus) country:United States mappable:1" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 1
+	Query: "scientificname:(Exoglossum maxillingua) country:United States mappable:1" ; Times: 2
+	Query: "locality:plymouth year &gt;= 1942 year &lt;= 1942" ; Times: 1
+	Query: "scientificname:(Poecilia latipinna) country:United States mappable:1" ; Times: 4
+	Query: "Wieczorek 1913" ; Times: 2
+	Query: "white shark" ; Times: 13
+	Query: "24094" ; Times: 1
+	Query: "Channa maculata" ; Times: 1
+	Query: "scientificname:(Platygobio gracilis) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:(Oncorhynchus tshawytscha) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Apeltes quadracus) country:United States mappable:1" ; Times: 1
+	Query: "genus:astyanax country:&#34;mexico&#34;" ; Times: 1
+	Query: "scientificname:(Acipenser transmontanus) country:United States mappable:1" ; Times: 1
+	Query: "33513" ; Times: 1
+	Query: "scientificname:(Clinostomus elongatus) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:1732 institutioncode:NCSM" ; Times: 1
+	Query: "93278" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 2
+	Query: "43935" ; Times: 1
+	Query: "polar" ; Times: 1
+	Query: "scientificname:(Lepisosteus osseus) country:United States mappable:1" ; Times: 4
+	Query: "notropis allegheny North Carolina" ; Times: 1
+	Query: "Clupea harengus" ; Times: 2
+	Query: "scientificname:(Moxostoma anisurum) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:59437" ; Times: 1
+	Query: "scientificname:(Lepisosteus platyrhincus) country:United States mappable:1" ; Times: 1
+	Query: "Liparis mucosus" ; Times: 1
+	Query: "unicorn" ; Times: 4
+	Query: "R 15654" ; Times: 1
+	Query: "scientificname:(Percopsis omiscomaycus) country:United States mappable:1" ; Times: 1
+	Query: "oarfish" ; Times: 1
+	Query: "33106" ; Times: 1
+	Query: "Crevice Kelpfish" ; Times: 1
+	Query: "Scyliorhinus retifer" ; Times: 2
+	Query: "sphoeroides nephelus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 846 download events in this period)
+Total number of records downloaded: 1473
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-25 ; Times: 2
+	Date: 2018-09-01 ; Times: 1
+	Date: 2018-09-06 ; Times: 3
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Etheostoma osburni" ; Times: 1
+	Query: "gambusia holbrooki" ; Times: 1
+	Query: "&#34;Salvelinus alpinus&#34;" ; Times: 1
+	Query: "hasmass:1" ; Times: 1
+	Query: "Gambusia nobilis" ; Times: 2
+	Query: "Wieczorek 1913" ; Times: 1
+	Query: "river otter" ; Times: 1
+
+
+End of report.
