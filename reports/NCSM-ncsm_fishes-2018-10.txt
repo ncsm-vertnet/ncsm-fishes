@@ -1,0 +1,327 @@
+Report for Institution Code NCSM, Resource ncsm_fishes
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 303
+Number of records retrieved in searches: 2134
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United Kingdom ; Times: 9
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Portugal ; Times: 4
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 234
+	Country: Sweden ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: China ; Times: 3
+	Country: France ; Times: 2
+	Country: Venezuela ; Times: 31
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 1
+	Date: 2018-10-04 ; Times: 12
+	Date: 2018-10-23 ; Times: 44
+	Date: 2018-10-01 ; Times: 7
+	Date: 2018-10-02 ; Times: 4
+	Date: 2018-10-03 ; Times: 7
+	Date: 2018-10-30 ; Times: 7
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-05 ; Times: 11
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-07 ; Times: 6
+	Date: 2018-10-26 ; Times: 2
+	Date: 2018-10-27 ; Times: 7
+	Date: 2018-10-24 ; Times: 12
+	Date: 2018-10-25 ; Times: 1
+	Date: 2018-10-28 ; Times: 1
+	Date: 2018-10-29 ; Times: 3
+	Date: 2018-10-08 ; Times: 4
+	Date: 2018-10-09 ; Times: 9
+	Date: 2018-10-19 ; Times: 3
+	Date: 2018-10-18 ; Times: 17
+	Date: 2018-10-13 ; Times: 4
+	Date: 2018-10-12 ; Times: 4
+	Date: 2018-10-11 ; Times: 5
+	Date: 2018-10-10 ; Times: 26
+	Date: 2018-10-17 ; Times: 4
+	Date: 2018-10-16 ; Times: 18
+	Date: 2018-10-15 ; Times: 80
+	Date: 2018-10-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Acipenser brevirostrum" ; Times: 1
+	Query: "Gambusia holbrooki" ; Times: 1
+	Query: "specificepithet:chrysops genus:Stenotomus" ; Times: 1
+	Query: "Melichthys vidua mappable:1" ; Times: 1
+	Query: "northern raccoon year &gt;= 1971" ; Times: 1
+	Query: "tangerine darter" ; Times: 1
+	Query: "54116" ; Times: 1
+	Query: "Acanthogobius flavimanus" ; Times: 2
+	Query: "Corythoichthys intestinalis mappable:1" ; Times: 2
+	Query: "Sicklefin redhorse" ; Times: 2
+	Query: "Rhinecanthus rectangulus" ; Times: 1
+	Query: "issues" ; Times: 1
+	Query: "Syngnathus fuscus mappable:1" ; Times: 1
+	Query: "Synchiropus monacanthus mappable:1" ; Times: 1
+	Query: "Acanthostracion polygonius" ; Times: 1
+	Query: "Antennarius multiocellatus" ; Times: 1
+	Query: "Balistes polylepis mappable:1" ; Times: 1
+	Query: "Lactoria fornasini mappable:1" ; Times: 1
+	Query: "Bryx dunckeri mappable:1" ; Times: 1
+	Query: "Syngnathus floridae mappable:1" ; Times: 1
+	Query: "Leucoraja garmani" ; Times: 2
+	Query: "(grunniens)" ; Times: 1
+	Query: "pond turtles" ; Times: 1
+	Query: "75546" ; Times: 1
+	Query: "Hippocampus hippocampus mappable:1" ; Times: 1
+	Query: "Foetorepus agassizii mappable:1" ; Times: 1
+	Query: "catalognumber:84348 institutioncode:NCSM" ; Times: 1
+	Query: "catalognumber:84372 institutioncode:NCSM" ; Times: 1
+	Query: "Melichthys niger" ; Times: 1
+	Query: "Corythoichthys intestinalis" ; Times: 2
+	Query: "Hippocampus sp. 3" ; Times: 1
+	Query: "23926" ; Times: 1
+	Query: "Hippocampus zosterae mappable:1" ; Times: 1
+	Query: "17713" ; Times: 1
+	Query: "Syngnathus pelagicus mappable:1" ; Times: 3
+	Query: "Cosmocampus albirostris mappable:1" ; Times: 1
+	Query: "Alosa aestivalis Chesapeake Bay" ; Times: 2
+	Query: "catalognumber:22652 institutioncode:NCSM" ; Times: 1
+	Query: "calicut" ; Times: 1
+	Query: "Balistes vetula mappable:1" ; Times: 1
+	Query: "Diplogrammus pauciradiatus" ; Times: 1
+	Query: "Balistes sufflamen mappable:1" ; Times: 1
+	Query: "Balistapus undulatus" ; Times: 1
+	Query: "Syngnathus louisianae" ; Times: 1
+	Query: "noturus placidus" ; Times: 12
+	Query: "Microphis brachyurus brachyurus" ; Times: 1
+	Query: "Canthidermis sufflamen mappable:1" ; Times: 1
+	Query: "specificepithet:macularius genus:cyprinodon stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "kozhikode" ; Times: 1
+	Query: "Syngnathus louisianae mappable:1" ; Times: 1
+	Query: "Acanthostracion quadricornis mappable:1" ; Times: 1
+	Query: "pristipomoides" ; Times: 2
+	Query: "Callionymus hindsii" ; Times: 1
+	Query: "Lactophrys triqueter" ; Times: 1
+	Query: "Melichthys vidua" ; Times: 1
+	Query: "atlantic cod" ; Times: 1
+	Query: "Syngnathus leptorhynchus mappable:1" ; Times: 1
+	Query: "Microphis lineatus" ; Times: 1
+	Query: "Aulostomus maculatus" ; Times: 3
+	Query: "Hippocampus sp. 3 mappable:1" ; Times: 1
+	Query: "Lactophrys trigonus" ; Times: 1
+	Query: "Aulostomus chinensis" ; Times: 2
+	Query: "12394" ; Times: 1
+	Query: "nezumia atlantica" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 2
+	Query: "Rhinecanthus aculeatus aculeatus" ; Times: 1
+	Query: "northern raccoon" ; Times: 1
+	Query: "Puget Sound museum" ; Times: 2
+	Query: "Balistes verres mappable:1" ; Times: 1
+	Query: "Cosmocampus albirostris" ; Times: 1
+	Query: "catalognumber:26454" ; Times: 1
+	Query: "Hippocampus sp. 2" ; Times: 1
+	Query: "Hippocampus sp. 1" ; Times: 1
+	Query: "Chaetodon ocellatus" ; Times: 1
+	Query: "Alosa pseudoharengus Chesapeake Bay" ; Times: 3
+	Query: "Ostracion meleagris meleagris" ; Times: 1
+	Query: "coral snake" ; Times: 1
+	Query: "Balistes vetula" ; Times: 1
+	Query: "Anarhichas lupus" ; Times: 1
+	Query: "Syngnathus randalli mappable:1" ; Times: 1
+	Query: "Narcine bancroftii" ; Times: 2
+	Query: "Erythrogaster Ohio" ; Times: 1
+	Query: "Eusphyra blochii" ; Times: 1
+	Query: "altavela" ; Times: 2
+	Query: "Syngnathus fuscus" ; Times: 1
+	Query: "Bryx randalli mappable:1" ; Times: 1
+	Query: "witch" ; Times: 5
+	Query: "eastern hellbender" ; Times: 1
+	Query: "Syngnathus dunckeri mappable:1" ; Times: 1
+	Query: "Pacific lamprey mappable:1" ; Times: 1
+	Query: "Diplogrammus pauciradiatus mappable:1" ; Times: 1
+	Query: "Syngnathus dunckeri" ; Times: 1
+	Query: "63225" ; Times: 1
+	Query: "Xanthichthys ringens mappable:1" ; Times: 2
+	Query: "vntype:specimen catalognumber:43620" ; Times: 1
+	Query: "catalognumber:74911" ; Times: 1
+	Query: "Etmopterus hillianus" ; Times: 1
+	Query: "Ostracion meleagris" ; Times: 1
+	Query: "Xanthichthys ringens" ; Times: 2
+	Query: "Acanthostracion polygonius mappable:1" ; Times: 1
+	Query: "catalognumber:87573" ; Times: 1
+	Query: "Bryx dunckeri" ; Times: 1
+	Query: "mola mola" ; Times: 3
+	Query: "Rhizoprionodon terraenovae" ; Times: 1
+	Query: "Anarchopterus criniger" ; Times: 1
+	Query: "white sturgeon mappable:1" ; Times: 1
+	Query: "Balistapus undulatus mappable:1" ; Times: 1
+	Query: "tilapia" ; Times: 3
+	Query: "locality:New York City stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "chondrichthyes photo" ; Times: 1
+	Query: "Lactophrys trigonus mappable:1" ; Times: 1
+	Query: "Corythoichthys intestinalis intestinalis mappable:1" ; Times: 1
+	Query: "Foetorepus agassizii" ; Times: 1
+	Query: "Hinds" ; Times: 1
+	Query: "Canthidermis maculata mappable:1" ; Times: 1
+	Query: "Opsanus tau Chesapeake Bay" ; Times: 1
+	Query: "Morone saxatilis Chesapeake Bay" ; Times: 1
+	Query: "24128" ; Times: 2
+	Query: "Aulostomus maculatus mappable:1" ; Times: 3
+	Query: "Microphis lineatus mappable:1" ; Times: 1
+	Query: "Squalus acanthias" ; Times: 2
+	Query: "Microphis brachyurus brachyurus mappable:1" ; Times: 1
+	Query: "20614" ; Times: 2
+	Query: "Bryx randalli" ; Times: 1
+	Query: "Carcharhinus isodon" ; Times: 1
+	Query: "NCSM 80367" ; Times: 2
+	Query: "Hippocampus reidi" ; Times: 1
+	Query: "Squatina dumeril" ; Times: 2
+	Query: "Lactoria fornasini" ; Times: 1
+	Query: "Paradiplogrammus bairdi mappable:1" ; Times: 2
+	Query: "Galeus arae" ; Times: 1
+	Query: "32087" ; Times: 1
+	Query: "Squalus cubensis" ; Times: 2
+	Query: "Syngnathus randalli" ; Times: 1
+	Query: "catalognumber:90913" ; Times: 1
+	Query: "Narcine brasiliensis" ; Times: 3
+	Query: "Sufflamen bursa mappable:1" ; Times: 1
+	Query: "77807" ; Times: 1
+	Query: "specificepithet:guttatus genus:epinephelus" ; Times: 1
+	Query: "Dolphins" ; Times: 1
+	Query: "Gymnura altavela" ; Times: 1
+	Query: "Syngnathus springeri mappable:1" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "NCSM 80119" ; Times: 2
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "Hypleurochilus geminatus" ; Times: 1
+	Query: "Lactophrys bicaudalis" ; Times: 1
+	Query: "15546" ; Times: 1
+	Query: "Syngnathus floridae" ; Times: 1
+	Query: "catalognumber:76826 institutioncode:NCSM" ; Times: 1
+	Query: "Sufflamen verres mappable:1" ; Times: 1
+	Query: "Hippocampus hippocampus" ; Times: 1
+	Query: "Syngnathus springeri" ; Times: 1
+	Query: "Lactophrys bicaudalis mappable:1" ; Times: 1
+	Query: "Hippocampus reidi mappable:1" ; Times: 1
+	Query: "Balistes polylepis" ; Times: 1
+	Query: "Rhinecanthus aculeatus" ; Times: 1
+	Query: "53793" ; Times: 1
+	Query: "52230" ; Times: 1
+	Query: "Etmopterus virens" ; Times: 1
+	Query: "hybrid striped bass" ; Times: 1
+	Query: "Dasyatis americana" ; Times: 2
+	Query: "Paradiplogrammus bairdi" ; Times: 2
+	Query: "Syngnathus pelagicus" ; Times: 3
+	Query: "catalognumber:24693 institutioncode:NCSM" ; Times: 1
+	Query: "Fundulus majalis Chesapeake Bay" ; Times: 1
+	Query: "Sufflamen bursa" ; Times: 1
+	Query: "Acipenser transmontanus mappable:1" ; Times: 1
+	Query: "Balistes verres" ; Times: 1
+	Query: "Corythoichthys intestinalis intestinalis" ; Times: 1
+	Query: "Squalus mitsukurii" ; Times: 1
+	Query: "18237" ; Times: 1
+	Query: "22350" ; Times: 1
+	Query: "fish photographs" ; Times: 1
+	Query: "(38429)" ; Times: 1
+	Query: "Canthidermis maculata" ; Times: 1
+	Query: "Aulostomus chinensis mappable:1" ; Times: 2
+	Query: "Synchiropus monacanthus" ; Times: 1
+	Query: "Anchoa mitchilli Chesapeake Bay" ; Times: 2
+	Query: "catalognumber:4115" ; Times: 1
+	Query: "Torpedo nobiliana" ; Times: 2
+	Query: "Florida Panther" ; Times: 1
+	Query: "Etheostoma mariae" ; Times: 1
+	Query: "CM 9263" ; Times: 3
+	Query: "Anarchopterus criniger mappable:1" ; Times: 1
+	Query: "Hippocampus erectus mappable:1" ; Times: 1
+	Query: "Rhinecanthus aculeatus aculeatus mappable:1" ; Times: 1
+	Query: "catalognumber:26827" ; Times: 1
+	Query: "Sufflamen verres" ; Times: 1
+	Query: "Lactophrys triqueter mappable:1" ; Times: 1
+	Query: "Callionymus hindsii mappable:1" ; Times: 1
+	Query: "gadus morhua" ; Times: 1
+	Query: "NCSM 84984" ; Times: 2
+	Query: "Odonus niger" ; Times: 1
+	Query: "Canthidermis sufflamen" ; Times: 1
+	Query: "Hippocampus sp. 1 mappable:1" ; Times: 1
+	Query: "Dasyatis centroura" ; Times: 1
+	Query: "Hippocampus zosterae" ; Times: 1
+	Query: "Dentex canariensis" ; Times: 1
+	Query: "17776" ; Times: 1
+	Query: "locality:Isla Santa Margarita stateprovince:&#34;Baja California Sur&#34;" ; Times: 1
+	Query: "Balistes sufflamen" ; Times: 1
+	Query: "Hemichromis Florida" ; Times: 2
+	Query: "Pomatomus saltatrix Chesapeake Bay" ; Times: 2
+	Query: "Hippocampus sp. 2 mappable:1" ; Times: 1
+	Query: "22061" ; Times: 1
+	Query: "Fundulus heteroclitus Chesapeake Bay" ; Times: 2
+	Query: "Melichthys niger mappable:1" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "sicklefin redhorse" ; Times: 1
+	Query: "catalognumber:4470" ; Times: 1
+	Query: "Balistes carolinensis mappable:1" ; Times: 2
+	Query: "Microphis brachyurus mappable:1" ; Times: 3
+	Query: "blue jay" ; Times: 2
+	Query: "Rhinecanthus aculeatus mappable:1" ; Times: 1
+	Query: "sicydium punctatum" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "Narcine" ; Times: 1
+	Query: "Balistoides conspicillum" ; Times: 1
+	Query: "brachyistius frenatus" ; Times: 1
+	Query: "black redhorse" ; Times: 3
+	Query: "Rhinecanthus rectangulus mappable:1" ; Times: 1
+	Query: "Microphis brachyurus" ; Times: 3
+	Query: "Syngnathus leptorhynchus" ; Times: 1
+	Query: "Scyliorhinus retifer" ; Times: 2
+	Query: "53280" ; Times: 2
+	Query: "Balistes carolinensis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1300 download events in this period)
+Total number of records downloaded: 240
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Venezuela ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 1
+	Date: 2018-10-31 ; Times: 1
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-24 ; Times: 2
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-18 ; Times: 2
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-15 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 1
+	Query: "specificepithet:onitis genus:Tautoga" ; Times: 1
+	Query: "specificepithet:chrysops genus:Stenotomus" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:guttatus genus:epinephelus" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34;" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "brachyistius frenatus" ; Times: 1
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "Acanthogobius flavimanus" ; Times: 1
+	Query: "country:&#34;COLOMBIA&#34;" ; Times: 1
+	Query: "Florida Panther" ; Times: 1
+	Query: "Etheostoma mariae" ; Times: 1
+	Query: "specificepithet:saltatrix genus:Pomatomus" ; Times: 1
+
+
+End of report.
