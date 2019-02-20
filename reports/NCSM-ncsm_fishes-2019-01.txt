@@ -1,0 +1,189 @@
+Report for Institution Code NCSM, Resource ncsm_fishes
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 199
+Number of records retrieved in searches: 1258
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 13
+	Country: Netherlands ; Times: 13
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 24
+	Country: France ; Times: 54
+	Country: United States ; Times: 68
+	Country: Belgium ; Times: 10
+	Country: Argentina ; Times: 2
+	Country: Venezuela ; Times: 4
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 23
+	Date: 2019-01-23 ; Times: 29
+	Date: 2019-01-19 ; Times: 3
+	Date: 2019-01-14 ; Times: 8
+	Date: 2019-01-15 ; Times: 2
+	Date: 2019-01-30 ; Times: 38
+	Date: 2019-01-17 ; Times: 3
+	Date: 2019-01-10 ; Times: 2
+	Date: 2019-01-11 ; Times: 3
+	Date: 2019-01-12 ; Times: 1
+	Date: 2019-01-13 ; Times: 4
+	Date: 2019-01-03 ; Times: 4
+	Date: 2019-01-29 ; Times: 12
+	Date: 2019-01-28 ; Times: 7
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-07 ; Times: 4
+	Date: 2019-01-05 ; Times: 2
+	Date: 2019-01-04 ; Times: 11
+	Date: 2019-01-21 ; Times: 2
+	Date: 2019-01-20 ; Times: 8
+	Date: 2019-01-09 ; Times: 3
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-24 ; Times: 7
+	Date: 2019-01-27 ; Times: 5
+	Date: 2019-01-08 ; Times: 7
+	Date: 2019-01-16 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Thunnus thynnus mappable:1" ; Times: 1
+	Query: "84998" ; Times: 1
+	Query: "Hirundichthys rondeletii mappable:1" ; Times: 2
+	Query: "Synodus saurus mappable:1" ; Times: 1
+	Query: "15285" ; Times: 1
+	Query: "specificepithet:perpallidus genus:notropis" ; Times: 1
+	Query: "43627" ; Times: 1
+	Query: "Oblada melanura mappable:1" ; Times: 2
+	Query: "Melanogrammus aeglefinus mappable:1" ; Times: 1
+	Query: "Cetorhinus maximus mappable:1" ; Times: 4
+	Query: "20371" ; Times: 1
+	Query: "(11966)" ; Times: 1
+	Query: "bocaccio" ; Times: 1
+	Query: "specificepithet:auritus genus:lepomis stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "NCSM-79907" ; Times: 1
+	Query: "16464" ; Times: 1
+	Query: "CM 9029" ; Times: 1
+	Query: "16264" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "Clupea harengus mappable:1" ; Times: 1
+	Query: "genus:astyanax stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "93403" ; Times: 1
+	Query: "15059" ; Times: 1
+	Query: "crabs" ; Times: 1
+	Query: "21773" ; Times: 1
+	Query: "rhinobatos rhinobatos" ; Times: 3
+	Query: "81173" ; Times: 1
+	Query: "stuff" ; Times: 1
+	Query: "70516" ; Times: 1
+	Query: "noturus placidus" ; Times: 2
+	Query: "stateprovince:&#34;south carolina&#34; (drayton)" ; Times: 1
+	Query: "Alopias vulpinus mappable:1" ; Times: 4
+	Query: "Salmo salar mappable:1" ; Times: 2
+	Query: "56758" ; Times: 1
+	Query: "42855" ; Times: 1
+	Query: "13917" ; Times: 1
+	Query: "77105" ; Times: 2
+	Query: "48586" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 4
+	Query: "Carcharhinus limbatus" ; Times: 9
+	Query: "speckled bear" ; Times: 1
+	Query: "catalognumber:74991" ; Times: 1
+	Query: "Myoxocephalus scorpius mappable:1" ; Times: 1
+	Query: "Trachinotus ovatus mappable:1" ; Times: 1
+	Query: "18466" ; Times: 1
+	Query: "catalognumber:11956" ; Times: 3
+	Query: "31794" ; Times: 1
+	Query: "Solea solea mappable:1" ; Times: 3
+	Query: "stateprovince:&#34;new york&#34; (manwell)" ; Times: 1
+	Query: "eastern hellbender" ; Times: 1
+	Query: "16408" ; Times: 1
+	Query: "Naucrates ductor mappable:1" ; Times: 2
+	Query: "hellbender" ; Times: 1
+	Query: "35292" ; Times: 1
+	Query: "brook trout" ; Times: 1
+	Query: "Cyclopterus lumpus mappable:1" ; Times: 4
+	Query: "Sardinella brasiliensis" ; Times: 18
+	Query: "Opisthonema oglinum" ; Times: 3
+	Query: "Chum salmon" ; Times: 1
+	Query: "92740" ; Times: 2
+	Query: "catalognumber:79993" ; Times: 2
+	Query: "22239" ; Times: 1
+	Query: "22236" ; Times: 1
+	Query: "22237" ; Times: 1
+	Query: "22235" ; Times: 1
+	Query: "Marshall TN" ; Times: 1
+	Query: "11225" ; Times: 1
+	Query: "pristis" ; Times: 2
+	Query: "snakes" ; Times: 1
+	Query: "pumpkinseed sunfish" ; Times: 1
+	Query: "CM-9029" ; Times: 1
+	Query: "seriola rivoliana" ; Times: 1
+	Query: "genus:etheostoma county:&#34;mccreary&#34; stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "dogfish" ; Times: 1
+	Query: "uwharrie" ; Times: 1
+	Query: "(drayton)" ; Times: 1
+	Query: "myliobatis vntype:specimen" ; Times: 5
+	Query: "county:&#34;clinton&#34; stateprovince:&#34;new york&#34; (manwell)" ; Times: 2
+	Query: "12623" ; Times: 1
+	Query: "anoxypristis" ; Times: 2
+	Query: "26287" ; Times: 1
+	Query: "22121" ; Times: 1
+	Query: "catalognumber:5622" ; Times: 1
+	Query: "Xyrichtys novacula mappable:1" ; Times: 1
+	Query: "Ceratoscopelus maderensis mappable:1" ; Times: 4
+	Query: "89347" ; Times: 1
+	Query: "western pond turtle" ; Times: 1
+	Query: "92210" ; Times: 3
+	Query: "rainbow trout" ; Times: 1
+	Query: "Squatina squatina mappable:1" ; Times: 1
+	Query: "Pholis gunnellus mappable:1" ; Times: 2
+	Query: "&#34;Lamb&#34; AND &#34;Island&#34;" ; Times: 1
+	Query: "35646" ; Times: 1
+	Query: "Polyprion americanus mappable:1" ; Times: 2
+	Query: "NCSM-80260" ; Times: 2
+	Query: "Amblyraja radiata mappable:1" ; Times: 4
+	Query: "Phycis phycis mappable:1" ; Times: 2
+	Query: "66527" ; Times: 1
+	Query: "Diplodus sargus mappable:1" ; Times: 2
+	Query: "Sphyrna mokarran" ; Times: 1
+	Query: "fleming county:&#34;tompkins&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "592-210" ; Times: 1
+	Query: "poeyi" ; Times: 1
+	Query: "Hippoglossoides platessoides mappable:1" ; Times: 3
+	Query: "54461" ; Times: 1
+	Query: "specificepithet:perpallidus" ; Times: 1
+	Query: "22061" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "58523" ; Times: 1
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 4
+	Query: "81094" ; Times: 1
+	Query: "Pristis" ; Times: 6
+	Query: "robust redhorse" ; Times: 1
+	Query: "institutioncode:NCSM hassex:1 haslength:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 962 download events in this period)
+Total number of records downloaded: 11
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-16 ; Times: 2
+	Date: 2019-01-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;uruguay&#34;" ; Times: 1
+	Query: "genus:astyanax stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "carcharodon carcharias" ; Times: 1
+
+
+End of report.
