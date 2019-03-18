@@ -1,0 +1,351 @@
+Report for Institution Code NCSM, Resource ncsm_fishes
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 543
+Number of records retrieved in searches: 5891
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Portugal ; Times: 13
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 1
+	Country: France ; Times: 389
+	Country: United States ; Times: 112
+	Country: Netherlands ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: Argentina ; Times: 5
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-04 ; Times: 12
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-11 ; Times: 4
+	Date: 2019-02-10 ; Times: 2
+	Date: 2019-02-13 ; Times: 16
+	Date: 2019-02-12 ; Times: 4
+	Date: 2019-02-15 ; Times: 2
+	Date: 2019-02-14 ; Times: 15
+	Date: 2019-02-16 ; Times: 3
+	Date: 2019-02-19 ; Times: 6
+	Date: 2019-02-18 ; Times: 5
+	Date: 2019-02-24 ; Times: 5
+	Date: 2019-02-25 ; Times: 8
+	Date: 2019-02-26 ; Times: 9
+	Date: 2019-02-01 ; Times: 17
+	Date: 2019-02-20 ; Times: 3
+	Date: 2019-02-07 ; Times: 7
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-05 ; Times: 12
+	Date: 2019-02-08 ; Times: 4
+	Date: 2019-02-28 ; Times: 141
+	Date: 2019-02-02 ; Times: 5
+	Date: 2019-02-03 ; Times: 2
+	Date: 2019-02-27 ; Times: 249
+	Date: 2019-02-06 ; Times: 8
+	Date: 2019-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Haemulon album mappable:1" ; Times: 3
+	Query: "Masturus lanceolatus" ; Times: 2
+	Query: "79677" ; Times: 1
+	Query: "Dermatolepis inermis mappable:1" ; Times: 1
+	Query: "&#34;FERNOW EXPERIMENTAL FOREST&#34;" ; Times: 1
+	Query: "Lutjanus vivanus mappable:1" ; Times: 1
+	Query: "catalognumber:79029 collectioncode:NCSM" ; Times: 1
+	Query: "Haemulon carbonarium mappable:1" ; Times: 2
+	Query: "Centropyge argi mappable:1" ; Times: 1
+	Query: "Malacoctenus aurolineatus mappable:1" ; Times: 2
+	Query: "Anchoa lamprotaenia mappable:1" ; Times: 5
+	Query: "terns" ; Times: 1
+	Query: "Entomacrodus nigricans mappable:1" ; Times: 7
+	Query: "Euthynnus alletteratus mappable:1" ; Times: 1
+	Query: "Priapichthys" ; Times: 1
+	Query: "14262" ; Times: 1
+	Query: "county:&#34;jones&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Oblada melanura mappable:1" ; Times: 2
+	Query: "Cetorhinus maximus mappable:1" ; Times: 1
+	Query: "Megalops atlanticus mappable:1" ; Times: 3
+	Query: "Tylosurus acus acus mappable:1" ; Times: 2
+	Query: "crappie" ; Times: 1
+	Query: "Myrichthys ocellatus mappable:1" ; Times: 2
+	Query: "specificepithet:canadum genus:Rachycentron stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "punctifer" ; Times: 1
+	Query: "Scartella cristata mappable:1" ; Times: 3
+	Query: "Calamus pennatula mappable:1" ; Times: 2
+	Query: "Cheilopogon melanurus" ; Times: 1
+	Query: "Ophichthus ophis mappable:1" ; Times: 2
+	Query: "Strongylura timucu mappable:1" ; Times: 10
+	Query: "35018" ; Times: 1
+	Query: "Lactophrys bicaudalis mappable:1" ; Times: 1
+	Query: "Holacanthus tricolor mappable:1" ; Times: 1
+	Query: "NCSM-77662" ; Times: 2
+	Query: "85469" ; Times: 1
+	Query: "Atlantic Forest" ; Times: 1
+	Query: "NCSM-76365" ; Times: 1
+	Query: "NCSM-77669" ; Times: 1
+	Query: "Pomacanthus arcuatus mappable:1" ; Times: 1
+	Query: "Parablennius marmoreus mappable:1" ; Times: 5
+	Query: "Nezumia bairdii" ; Times: 1
+	Query: "Astrapogon stellatus mappable:1" ; Times: 2
+	Query: "25217" ; Times: 1
+	Query: "drexel" ; Times: 1
+	Query: "NCSM-77691" ; Times: 1
+	Query: "Archosargus rhomboidalis mappable:1" ; Times: 1
+	Query: "Belonesox" ; Times: 1
+	Query: "Anchoa cayorum mappable:1" ; Times: 16
+	Query: "catalognumber:12233 institutioncode:NCSM" ; Times: 2
+	Query: "Euleptorhamphus velox mappable:1" ; Times: 3
+	Query: "Cheilopogon cyanopterus mappable:1" ; Times: 3
+	Query: "Aluterus scriptus mappable:1" ; Times: 1
+	Query: "stoneroller" ; Times: 1
+	Query: "Anchoa lyolepis mappable:1" ; Times: 6
+	Query: "rhinobatos rhinobatos" ; Times: 1
+	Query: "22840" ; Times: 1
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 2
+	Query: "etheostoma mccreary county kentucky" ; Times: 1
+	Query: "sphoeroides pachygaster" ; Times: 1
+	Query: "gbifdatasetid:2a79f202-3f3a-4d54-88fa-09aa8de1ac73" ; Times: 1
+	Query: "Scorpaena albifimbria mappable:1" ; Times: 1
+	Query: "noturus placidus" ; Times: 2
+	Query: "58978" ; Times: 1
+	Query: "snakes" ; Times: 1
+	Query: "Alopias vulpinus mappable:1" ; Times: 2
+	Query: "Lachnolaimus maximus mappable:1" ; Times: 2
+	Query: "Calamus penna mappable:1" ; Times: 2
+	Query: "44998" ; Times: 1
+	Query: "Kyphosus incisor mappable:1" ; Times: 2
+	Query: "Elops saurus mappable:1" ; Times: 2
+	Query: "NCSM-78574" ; Times: 1
+	Query: "largemouth bass" ; Times: 5
+	Query: "Butterfly" ; Times: 1
+	Query: "Hemiramphus brasiliensis mappable:1" ; Times: 1
+	Query: "Ablennes hians mappable:1" ; Times: 8
+	Query: "Hemiramphus balao mappable:1" ; Times: 2
+	Query: "NCSM 11626" ; Times: 1
+	Query: "Lutjanus jocu mappable:1" ; Times: 1
+	Query: "12010" ; Times: 1
+	Query: "Microspathodon chrysurus mappable:1" ; Times: 1
+	Query: "Trachinotus goodei mappable:1" ; Times: 5
+	Query: "19576" ; Times: 2
+	Query: "Percina gymnocephala" ; Times: 1
+	Query: "18081" ; Times: 1
+	Query: "NCSM-85796" ; Times: 2
+	Query: "Dolicholagus longirostris" ; Times: 1
+	Query: "grass carp" ; Times: 1
+	Query: "trout size" ; Times: 8
+	Query: "Dactyloscopus crossotus mappable:1" ; Times: 5
+	Query: "institutioncode:NCSM lengthtype:total length haslength:1" ; Times: 1
+	Query: "Harengula humeralis mappable:1" ; Times: 9
+	Query: "Pempheris schomburgkii mappable:1" ; Times: 1
+	Query: "Cypselurus comatus mappable:1" ; Times: 3
+	Query: "catalognumber:35437 institutioncode:NCSM" ; Times: 1
+	Query: "Polydactylus virginicus mappable:1" ; Times: 3
+	Query: "Sparisoma aurofrenatum mappable:1" ; Times: 1
+	Query: "Diapterus auratus mappable:1" ; Times: 3
+	Query: "32777" ; Times: 2
+	Query: "Anchoa colonensis mappable:1" ; Times: 3
+	Query: "Anisotremus virginicus mappable:1" ; Times: 2
+	Query: "Hippoglossoides platessoides mappable:1" ; Times: 1
+	Query: "NCSM-81300" ; Times: 1
+	Query: "genus:lates" ; Times: 1
+	Query: "Opisthonema oglinum mappable:1" ; Times: 18
+	Query: "Anchoviella perfasciata mappable:1" ; Times: 4
+	Query: "catalognumber:73448" ; Times: 1
+	Query: "Epinephelus guttatus mappable:1" ; Times: 1
+	Query: "Naucrates ductor mappable:1" ; Times: 1
+	Query: "Equetus lanceolatus mappable:1" ; Times: 1
+	Query: "Mycteroperca bonaci mappable:1" ; Times: 1
+	Query: "Chaetodon striatus mappable:1" ; Times: 2
+	Query: "Xanthichthys ringens mappable:1" ; Times: 2
+	Query: "Centropomus undecimalis mappable:1" ; Times: 4
+	Query: "brook trout" ; Times: 2
+	Query: "Haemulon plumierii mappable:1" ; Times: 2
+	Query: "Rhomboplites aurorubens" ; Times: 3
+	Query: "xiphias gladius" ; Times: 2
+	Query: "Cyclopterus lumpus mappable:1" ; Times: 1
+	Query: "Acanthostracion polygonius mappable:1" ; Times: 1
+	Query: "bears" ; Times: 1
+	Query: "27799" ; Times: 1
+	Query: "Chaetodipterus faber mappable:1" ; Times: 2
+	Query: "Plectorhinchus mediterraneus" ; Times: 1
+	Query: "cyprinodon elegans" ; Times: 1
+	Query: "Chlorophthalmus agassizi" ; Times: 1
+	Query: "Cantherhines macrocerus mappable:1" ; Times: 1
+	Query: "Melichthys niger mappable:1" ; Times: 2
+	Query: "Cheilopogon melanurus mappable:1" ; Times: 3
+	Query: "Belonesox belizanus" ; Times: 1
+	Query: "cm 7715" ; Times: 1
+	Query: "bluegill size" ; Times: 2
+	Query: "NCSM-76312" ; Times: 1
+	Query: "block island stateprovince:&#34;rhode island&#34;" ; Times: 1
+	Query: "NCSM 3027" ; Times: 1
+	Query: "Chromis cyanea mappable:1" ; Times: 1
+	Query: "Gobiomorus dormitor mappable:1" ; Times: 3
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Auxis rochei mappable:1" ; Times: 1
+	Query: "31887" ; Times: 2
+	Query: "Paranthias furcifer mappable:1" ; Times: 3
+	Query: "Aulostomus maculatus mappable:1" ; Times: 3
+	Query: "specificepithet:campechanus genus:Lutjanus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Centropomus parallelus mappable:1" ; Times: 6
+	Query: "Centropomus pectinatus mappable:1" ; Times: 6
+	Query: "Carcharhinus acronotus mappable:1" ; Times: 3
+	Query: "catalognumber:1688" ; Times: 2
+	Query: "Bothus lunatus mappable:1" ; Times: 3
+	Query: "Evorthodus lyricus mappable:1" ; Times: 1
+	Query: "Sparisoma chrysopterum mappable:1" ; Times: 1
+	Query: "bees" ; Times: 1
+	Query: "Cheilopogon exsiliens mappable:1" ; Times: 3
+	Query: "32402" ; Times: 1
+	Query: "Mycteroperca interstitialis mappable:1" ; Times: 1
+	Query: "Cheilopogon furcatus mappable:1" ; Times: 2
+	Query: "Atherinomorus stipes mappable:1" ; Times: 5
+	Query: "NCSM 19691" ; Times: 1
+	Query: "catalognumber:1700" ; Times: 1
+	Query: "Harengula jaguana mappable:1" ; Times: 6
+	Query: "monoceros" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "Chilomycterus antillarum mappable:1" ; Times: 3
+	Query: "Bodianus rufus mappable:1" ; Times: 2
+	Query: "hellbender" ; Times: 2
+	Query: "mottled sculpin" ; Times: 2
+	Query: "Epinephelus itajara mappable:1" ; Times: 1
+	Query: "73020" ; Times: 1
+	Query: "yellow perch" ; Times: 1
+	Query: "Auxis thazard mappable:1" ; Times: 1
+	Query: "Xyrichtys novacula mappable:1" ; Times: 3
+	Query: "Abudefduf taurus mappable:1" ; Times: 1
+	Query: "Ceratoscopelus maderensis mappable:1" ; Times: 1
+	Query: "Hippocampus reidi mappable:1" ; Times: 1
+	Query: "apeltes quadracus" ; Times: 1
+	Query: "Hirundichthys affinis mappable:1" ; Times: 1
+	Query: "Lutjanus mahogoni mappable:1" ; Times: 1
+	Query: "catalognumber:15144" ; Times: 1
+	Query: "seahorse" ; Times: 2
+	Query: "Acanthurus bahianus mappable:1" ; Times: 1
+	Query: "north toe river" ; Times: 1
+	Query: "Jenkinsia majua mappable:1" ; Times: 11
+	Query: "Balistes vetula mappable:1" ; Times: 2
+	Query: "Urobatis jamaicensis mappable:1" ; Times: 1
+	Query: "Neoniphon marianus mappable:1" ; Times: 1
+	Query: "Stegastes adustus mappable:1" ; Times: 1
+	Query: "specificepithet:mola genus:Mola" ; Times: 1
+	Query: "rainbow trout" ; Times: 1
+	Query: "Eucinostomus melanopterus mappable:1" ; Times: 3
+	Query: "catalognumber:30040" ; Times: 2
+	Query: "nautilus" ; Times: 2
+	Query: "Anchovia clupeoides mappable:1" ; Times: 2
+	Query: "Hyporhamphus unifasciatus mappable:1" ; Times: 1
+	Query: "Diapterus rhombeus mappable:1" ; Times: 4
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 1
+	Query: "Lophogobius cyprinoides mappable:1" ; Times: 4
+	Query: "seahorse mexico" ; Times: 2
+	Query: "NCSM 85343" ; Times: 1
+	Query: "NCSM 85342" ; Times: 2
+	Query: "32115" ; Times: 1
+	Query: "Heteroconger longissimus mappable:1" ; Times: 3
+	Query: "Chitala chitala" ; Times: 1
+	Query: "Mugil liza mappable:1" ; Times: 3
+	Query: "mola" ; Times: 1
+	Query: "Gerres cinereus mappable:1" ; Times: 1
+	Query: "NCSM-80260" ; Times: 1
+	Query: "Kyphosus sectatrix mappable:1" ; Times: 2
+	Query: "Hypoplectrus unicolor mappable:1" ; Times: 1
+	Query: "Epinephelus morio mappable:1" ; Times: 1
+	Query: "mushroom" ; Times: 1
+	Query: "Paraclinus fasciatus mappable:1" ; Times: 1
+	Query: "Dormitator maculatus mappable:1" ; Times: 2
+	Query: "Calamopteryx goslinei mappable:1" ; Times: 3
+	Query: "Apogon maculatus mappable:1" ; Times: 1
+	Query: "Amblyraja radiata mappable:1" ; Times: 1
+	Query: "Holacanthus ciliaris mappable:1" ; Times: 1
+	Query: "Sargocentron coruscum mappable:1" ; Times: 1
+	Query: "Lactophrys triqueter mappable:1" ; Times: 1
+	Query: "female skeletons" ; Times: 1
+	Query: "Jenkinsia lamprotaenia mappable:1" ; Times: 11
+	Query: "30254" ; Times: 1
+	Query: "Platybelone argalus argalus mappable:1" ; Times: 8
+	Query: "swift fox" ; Times: 1
+	Query: "Percina gymnocephala stateprovince:&#34;Virginia&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Eucinostomus havana mappable:1" ; Times: 5
+	Query: "Oarfish" ; Times: 1
+	Query: "Haemulon striatum mappable:1" ; Times: 2
+	Query: "Mycteroperca venenosa mappable:1" ; Times: 1
+	Query: "Stegastes diencaeus mappable:1" ; Times: 1
+	Query: "Scopelarchus michaelsarsi" ; Times: 2
+	Query: "Pee Dee" ; Times: 1
+	Query: "fieldnumber:1567" ; Times: 1
+	Query: "speckled dace" ; Times: 1
+	Query: "Ptychocheilus lucius" ; Times: 1
+	Query: "Bodianus pulchellus mappable:1" ; Times: 2
+	Query: "Epinephelus striatus mappable:1" ; Times: 1
+	Query: "Plectrypops retrospinis mappable:1" ; Times: 1
+	Query: "Lactophrys trigonus mappable:1" ; Times: 1
+	Query: "NCSM-16814" ; Times: 2
+	Query: "Exocoetus obtusirostris mappable:1" ; Times: 1
+	Query: "NCSM-76363" ; Times: 1
+	Query: "Microphis brachyurus mappable:1" ; Times: 1
+	Query: "Cirrhinus microlepis" ; Times: 1
+	Query: "Zu cristatus" ; Times: 2
+	Query: "30596" ; Times: 1
+	Query: "crayfish" ; Times: 2
+	Query: "Halichoeres radiatus mappable:1" ; Times: 2
+	Query: "Stegastes planifrons mappable:1" ; Times: 1
+	Query: "Mugil hospes mappable:1" ; Times: 1
+	Query: "90935" ; Times: 1
+	Query: "Lampadena luminosa" ; Times: 1
+	Query: "Anchoa cubana mappable:1" ; Times: 9
+	Query: "13701" ; Times: 1
+	Query: "specificepithet:maculatus genus:Scomberomorus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Lutjanus cyanopterus mappable:1" ; Times: 1
+	Query: "Holocentrus rufus mappable:1" ; Times: 1
+	Query: "Albula vulpes mappable:1" ; Times: 4
+	Query: "pikeminnow" ; Times: 1
+	Query: "Lythrypnus spilus mappable:1" ; Times: 3
+	Query: "Kaupichthys nuchalis mappable:1" ; Times: 3
+	Query: "Eugerres plumieri mappable:1" ; Times: 5
+	Query: "oarfish" ; Times: 1
+	Query: "Cantherhines pullus mappable:1" ; Times: 1
+	Query: "92705" ; Times: 1
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 2
+	Query: "Carcharhinus perezii mappable:1" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1227 download events in this period)
+Total number of records downloaded: 703
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-05 ; Times: 1
+	Date: 2019-02-24 ; Times: 4
+	Date: 2019-02-25 ; Times: 1
+	Date: 2019-02-26 ; Times: 2
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Belonesox belizanus" ; Times: 1
+	Query: "specificepithet:campechanus genus:Lutjanus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Phallichthys" ; Times: 1
+	Query: "Priapichthys" ; Times: 1
+	Query: "specificepithet:canadum genus:Rachycentron stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:maculatus genus:Scomberomorus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "mottled sculpin" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "Percina gymnocephala stateprovince:&#34;Virginia&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Heterandria" ; Times: 1
+	Query: "Pterois volitans" ; Times: 1
+
+
+End of report.
