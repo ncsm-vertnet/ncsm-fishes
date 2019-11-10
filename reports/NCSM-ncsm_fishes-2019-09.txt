@@ -1,0 +1,258 @@
+Report for Institution Code NCSM, Resource ncsm_fishes
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 236
+Number of records retrieved in searches: 1881
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 119
+	Country: Honduras ; Times: 4
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Kuwait ; Times: 1
+	Country: Cuba ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 84
+	Country: United Kingdom ; Times: 5
+	Country: Austria ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Ecuador ; Times: 1
+	Country: Greece ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 4
+	Date: 2019-09-15 ; Times: 3
+	Date: 2019-09-16 ; Times: 5
+	Date: 2019-09-17 ; Times: 9
+	Date: 2019-09-10 ; Times: 60
+	Date: 2019-09-11 ; Times: 10
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-13 ; Times: 7
+	Date: 2019-09-18 ; Times: 5
+	Date: 2019-09-19 ; Times: 12
+	Date: 2019-09-30 ; Times: 7
+	Date: 2019-09-09 ; Times: 3
+	Date: 2019-09-08 ; Times: 4
+	Date: 2019-09-03 ; Times: 22
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-01 ; Times: 2
+	Date: 2019-09-07 ; Times: 6
+	Date: 2019-09-06 ; Times: 5
+	Date: 2019-09-05 ; Times: 7
+	Date: 2019-09-04 ; Times: 3
+	Date: 2019-09-20 ; Times: 3
+	Date: 2019-09-23 ; Times: 5
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-25 ; Times: 3
+	Date: 2019-09-24 ; Times: 5
+	Date: 2019-09-27 ; Times: 37
+	Date: 2019-09-26 ; Times: 3
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Acipenser brevirostrum" ; Times: 1
+	Query: "Nealotus tripes mappable:1" ; Times: 1
+	Query: "27957" ; Times: 1
+	Query: "catalognumber:77336 institutioncode:NCSM" ; Times: 2
+	Query: "Sphoeroides spengleri mappable:1" ; Times: 1
+	Query: "Hitchcock creek" ; Times: 1
+	Query: "genus:Umbra family:Umbridae stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:88985" ; Times: 1
+	Query: "Nicholsina usta usta mappable:1" ; Times: 1
+	Query: "Microspathodon chrysurus mappable:1" ; Times: 1
+	Query: "carcharhinus leucas" ; Times: 5
+	Query: "specificepithet:carolinus genus:prionotus" ; Times: 2
+	Query: "Hemilepidotus spinosus mappable:1" ; Times: 1
+	Query: "CM 76138" ; Times: 3
+	Query: "vitreus Sander" ; Times: 4
+	Query: "CM 76135" ; Times: 2
+	Query: "CM 76137" ; Times: 2
+	Query: "CM 76136" ; Times: 2
+	Query: "catalognumber:67286" ; Times: 1
+	Query: "piranha" ; Times: 1
+	Query: "Uraspis secunda mappable:1" ; Times: 1
+	Query: "Urophycis earlli mappable:1" ; Times: 1
+	Query: "Odontaspis" ; Times: 1
+	Query: "41149" ; Times: 1
+	Query: "69308" ; Times: 1
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 5
+	Query: "Zalieutes mcgintyi" ; Times: 4
+	Query: "Rypticus saponaceus mappable:1" ; Times: 1
+	Query: "Antennarius multiocellatus mappable:1" ; Times: 1
+	Query: "Sphyrna mokarran mappable:1" ; Times: 1
+	Query: "43180" ; Times: 1
+	Query: "Stephanolepis setifer mappable:1" ; Times: 1
+	Query: "Astroscopus y-graecum mappable:1" ; Times: 1
+	Query: "32980" ; Times: 1
+	Query: "Ocyurus chrysurus mappable:1" ; Times: 1
+	Query: "Pterois volitans mappable:1" ; Times: 1
+	Query: "Syngnathus pelagicus mappable:1" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "Malacanthus plumieri mappable:1" ; Times: 1
+	Query: "black swift" ; Times: 1
+	Query: "45335" ; Times: 1
+	Query: "Malacocephalus laevis mappable:1" ; Times: 1
+	Query: "Polyprion americanus" ; Times: 2
+	Query: "CM 76142" ; Times: 2
+	Query: "CM 76144" ; Times: 2
+	Query: "CM 76145" ; Times: 2
+	Query: "CM 76147" ; Times: 2
+	Query: "Sharks" ; Times: 2
+	Query: "Serranus notospilus mappable:1" ; Times: 1
+	Query: "snakes" ; Times: 1
+	Query: "Grammicolepis brachiusculus" ; Times: 1
+	Query: "genus:gasterosteus county:&#34;monterey&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Calamus penna mappable:1" ; Times: 1
+	Query: "72764" ; Times: 1
+	Query: "10430" ; Times: 1
+	Query: "Tautogolabrus adspersus mappable:1" ; Times: 1
+	Query: "Hemiramphus brasiliensis mappable:1" ; Times: 1
+	Query: "16994." ; Times: 1
+	Query: "42180" ; Times: 1
+	Query: "Aspidophoroides monopterygius mappable:1" ; Times: 1
+	Query: "&#34;Thalassobathia&#34;" ; Times: 2
+	Query: "Hoplunnis macrura mappable:1" ; Times: 1
+	Query: "Torpedo nobiliana mappable:1" ; Times: 1
+	Query: "84733" ; Times: 1
+	Query: "Hypsoblennius hentz mappable:1" ; Times: 1
+	Query: "Decapterus tabl mappable:1" ; Times: 1
+	Query: "Prionotus punctatus mappable:1" ; Times: 1
+	Query: "catalognumber:79751 institutioncode:NCSM" ; Times: 2
+	Query: "gasterosteus washington" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34;" ; Times: 3
+	Query: "variegate darter" ; Times: 1
+	Query: "Pontinus rathbuni mappable:1" ; Times: 1
+	Query: "24204" ; Times: 1
+	Query: "45583" ; Times: 1
+	Query: "Notropis melanostomus" ; Times: 3
+	Query: "genus:gasterosteus stateprovince:&#34;oregon&#34;" ; Times: 2
+	Query: "catalognumber:5481" ; Times: 1
+	Query: "hellbender" ; Times: 2
+	Query: "specificepithet:ribeiroi genus:bellator" ; Times: 1
+	Query: "Hemanthias aureorubens mappable:1" ; Times: 1
+	Query: "47798" ; Times: 1
+	Query: "32960" ; Times: 1
+	Query: "Thunnus alalunga mappable:1" ; Times: 1
+	Query: "Scat" ; Times: 3
+	Query: "Polydactylus octonemus mappable:1" ; Times: 1
+	Query: "Prionotus longispinosus mappable:1" ; Times: 1
+	Query: "15722" ; Times: 1
+	Query: "Smallmouth bass" ; Times: 3
+	Query: "Dan river North Carolina" ; Times: 1
+	Query: "Upeneus parvus mappable:1" ; Times: 5
+	Query: "specificepithet:camurum genus:etheostoma stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "awaous banana" ; Times: 2
+	Query: "Canthidermis maculata mappable:1" ; Times: 1
+	Query: "CM 76133" ; Times: 2
+	Query: "CM 76132" ; Times: 2
+	Query: "catalognumber:84886" ; Times: 1
+	Query: "burti burti" ; Times: 1
+	Query: "Synodus intermedius mappable:1" ; Times: 1
+	Query: "Sebastes marinus mappable:1" ; Times: 1
+	Query: "Sparisoma chrysopterum mappable:1" ; Times: 1
+	Query: "41235" ; Times: 1
+	Query: "Gempylus serpens mappable:1" ; Times: 1
+	Query: "specificepithet:beanii genus:prionotus" ; Times: 1
+	Query: "Syngnathus springeri mappable:1" ; Times: 1
+	Query: "67424" ; Times: 1
+	Query: "Clupea harengus" ; Times: 1
+	Query: "Citharichthys gymnorhinus mappable:1" ; Times: 1
+	Query: "stickleback washington" ; Times: 1
+	Query: "Mullus auratus mappable:1" ; Times: 5
+	Query: "osprey" ; Times: 1
+	Query: "CM 76149" ; Times: 2
+	Query: "Stomias longibarbatus mappable:1" ; Times: 1
+	Query: "Scorpaena dispar mappable:1" ; Times: 1
+	Query: "Prionotus paralatus mappable:1" ; Times: 1
+	Query: "western pond turtle vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ROM Fishes" ; Times: 1
+	Query: "western pond turtle" ; Times: 1
+	Query: "Myoxocephalus octodecemspinosus mappable:1" ; Times: 1
+	Query: "specificepithet:punctatus genus:prionotus" ; Times: 1
+	Query: "catalognumber:90926" ; Times: 1
+	Query: "Paraliparis calidus mappable:1" ; Times: 1
+	Query: "Carcharhinus signatus mappable:1" ; Times: 1
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 5
+	Query: "black bear" ; Times: 1
+	Query: "specificepithet:miurus genus:Noturus stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "Paraclinus marmoratus mappable:1" ; Times: 1
+	Query: "75277" ; Times: 1
+	Query: "Chromis viridis" ; Times: 2
+	Query: "americanus fairfax" ; Times: 1
+	Query: "Scorpaena inermis mappable:1" ; Times: 1
+	Query: "Hemitripterus americanus mappable:1" ; Times: 1
+	Query: "Pontinus longispinis mappable:1" ; Times: 1
+	Query: "Entosphenus tridentatus mappable:1" ; Times: 1
+	Query: "Chinook salmon" ; Times: 1
+	Query: "butterfly" ; Times: 1
+	Query: "Cichla ocellaris mappable:1" ; Times: 3
+	Query: "21870" ; Times: 1
+	Query: "Synagrops spinosus mappable:1" ; Times: 1
+	Query: "&#34;maple creek road&#34;" ; Times: 1
+	Query: "Mycteroperca venenosa mappable:1" ; Times: 1
+	Query: "70455" ; Times: 1
+	Query: "Symphurus urospilus mappable:1" ; Times: 1
+	Query: "CM 76131" ; Times: 2
+	Query: "Plectrypops retrospinis mappable:1" ; Times: 1
+	Query: "Lactophrys trigonus mappable:1" ; Times: 1
+	Query: "Hitchcock creek north Carolina" ; Times: 4
+	Query: "Beta fish" ; Times: 1
+	Query: "52606" ; Times: 1
+	Query: "catalognumber:20459" ; Times: 1
+	Query: "45812" ; Times: 1
+	Query: "gray whale" ; Times: 1
+	Query: "CM 76128" ; Times: 2
+	Query: "CM 76129" ; Times: 2
+	Query: "sicydium plumieri" ; Times: 2
+	Query: "CM 76126" ; Times: 2
+	Query: "CM 76127" ; Times: 2
+	Query: "CM 76124" ; Times: 2
+	Query: "Mola mola" ; Times: 1
+	Query: "Corniger spinosus mappable:1" ; Times: 1
+	Query: "37768" ; Times: 2
+	Query: "raja eglanteria" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34; year &gt;= 1800 year &lt;= 1990" ; Times: 1
+	Query: "Sebastes paucispinis mappable:1" ; Times: 1
+	Query: "specificepithet:variatum genus:etheostoma stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "Clupea pallasii pallasii mappable:1" ; Times: 1
+	Query: "67501" ; Times: 1
+	Query: "Auxis thazard thazard mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1073 download events in this period)
+Total number of records downloaded: 70
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Brazil ; Times: 2
+	Country: Germany ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Honduras ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-19 ; Times: 1
+	Date: 2019-09-26 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "family:(Geotriidae OR Mordaciidae OR Hexanchidae OR Chlamydoselachidae) mappable:1" ; Times: 1
+	Query: "pelecanoides" ; Times: 1
+	Query: "sicydium plumieri" ; Times: 1
+	Query: "genus:Umbra family:Umbridae stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "continent:Africa (Cypriniformes)" ; Times: 1
+	Query: "carcharhinus leucas" ; Times: 2
+	Query: "family:(Geotriidae OR Hexanchidae OR Chlamydoselachidae) mappable:1" ; Times: 2
+
+
+End of report.
