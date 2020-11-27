@@ -1,0 +1,190 @@
+Report for Institution Code NCSM, Resource ncsm_fishes
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 141
+Number of records retrieved in searches: 781
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 118
+	Country: United Kingdom ; Times: 1
+	Country: Ireland ; Times: 11
+	Country: Belgium ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 16
+	Date: 2020-05-27 ; Times: 4
+	Date: 2020-05-26 ; Times: 2
+	Date: 2020-05-21 ; Times: 2
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-31 ; Times: 1
+	Date: 2020-05-22 ; Times: 3
+	Date: 2020-05-29 ; Times: 1
+	Date: 2020-05-28 ; Times: 3
+	Date: 2020-05-02 ; Times: 3
+	Date: 2020-05-18 ; Times: 7
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-06 ; Times: 24
+	Date: 2020-05-07 ; Times: 8
+	Date: 2020-05-08 ; Times: 9
+	Date: 2020-05-10 ; Times: 11
+	Date: 2020-05-11 ; Times: 8
+	Date: 2020-05-04 ; Times: 6
+	Date: 2020-05-15 ; Times: 12
+	Date: 2020-05-01 ; Times: 2
+	Date: 2020-05-17 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:(Fundulus majalis) country:United States mappable:1" ; Times: 2
+	Query: "64668" ; Times: 1
+	Query: "36580" ; Times: 1
+	Query: "67565" ; Times: 1
+	Query: "66672" ; Times: 1
+	Query: "64666" ; Times: 1
+	Query: "Presque Isle" ; Times: 1
+	Query: "Loggerhead" ; Times: 1
+	Query: "47128" ; Times: 1
+	Query: "Melichthys vidua mappable:1" ; Times: 1
+	Query: "57822" ; Times: 1
+	Query: "squatina squatina" ; Times: 1
+	Query: "scientificname:(Etheostoma tetrazonum) country:United States mappable:1" ; Times: 1
+	Query: "64733" ; Times: 1
+	Query: "NCSM 23934" ; Times: 1
+	Query: "34415" ; Times: 1
+	Query: "Balistes polylepis mappable:1" ; Times: 1
+	Query: "28960" ; Times: 1
+	Query: "36803" ; Times: 1
+	Query: "48344" ; Times: 1
+	Query: "34410" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "gonioplectrus hispanus" ; Times: 1
+	Query: "catalognumber:31824" ; Times: 1
+	Query: "65493" ; Times: 1
+	Query: "64968" ; Times: 1
+	Query: "60453" ; Times: 1
+	Query: "Balistes vetula mappable:1" ; Times: 1
+	Query: "51940" ; Times: 1
+	Query: "Rhinecanthus rectangulus mappable:1" ; Times: 1
+	Query: "64705" ; Times: 1
+	Query: "44752" ; Times: 2
+	Query: "24183" ; Times: 1
+	Query: "45761" ; Times: 1
+	Query: "46888" ; Times: 1
+	Query: "snakes" ; Times: 1
+	Query: "Canthidermis sufflamen mappable:1" ; Times: 1
+	Query: "55084" ; Times: 1
+	Query: "joe mitchell" ; Times: 1
+	Query: "50345" ; Times: 1
+	Query: "NCSM 23924" ; Times: 2
+	Query: "63237" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "79557" ; Times: 1
+	Query: "79125" ; Times: 1
+	Query: "locality:riggs county:&#34;cape may&#34; stateprovince:&#34;new jersey&#34;" ; Times: 1
+	Query: "167134" ; Times: 1
+	Query: "79663" ; Times: 2
+	Query: "witch" ; Times: 1
+	Query: "(platt)" ; Times: 1
+	Query: "Gymnothorax meleagris" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "47956" ; Times: 1
+	Query: "Xanthichthys ringens mappable:1" ; Times: 1
+	Query: "37232" ; Times: 2
+	Query: "locality:accotink" ; Times: 1
+	Query: "scientificname:(Erimystax harryi) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:28784" ; Times: 2
+	Query: "Balistapus undulatus mappable:1" ; Times: 1
+	Query: "16883" ; Times: 1
+	Query: "16881" ; Times: 1
+	Query: "noturus placidus" ; Times: 1
+	Query: "scientificname:(Notropis sabinae) country:United States mappable:1" ; Times: 2
+	Query: "Canthidermis maculata mappable:1" ; Times: 1
+	Query: "haemulon plumieri" ; Times: 4
+	Query: "43990" ; Times: 1
+	Query: "lepidocybium" ; Times: 2
+	Query: "16804" ; Times: 1
+	Query: "Gymnothorax eurostus" ; Times: 1
+	Query: "Sufflamen bursa mappable:1" ; Times: 1
+	Query: "catalognumber:45779" ; Times: 1
+	Query: "79405" ; Times: 1
+	Query: "79403" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "58664" ; Times: 1
+	Query: "gymnothorax eurostus" ; Times: 2
+	Query: "Sufflamen verres mappable:1" ; Times: 1
+	Query: "osprey" ; Times: 1
+	Query: "scientificname:(Fundulus euryzonus) country:United States mappable:1" ; Times: 1
+	Query: "20009" ; Times: 1
+	Query: "39437" ; Times: 1
+	Query: "75267" ; Times: 2
+	Query: "center creek county:&#34;towns&#34; stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "scientificname:(Syngnathus louisianae) country:United States mappable:1" ; Times: 2
+	Query: "33042" ; Times: 1
+	Query: "64748" ; Times: 1
+	Query: "whale" ; Times: 1
+	Query: "mugil liza" ; Times: 1
+	Query: "51803" ; Times: 1
+	Query: "48626" ; Times: 1
+	Query: "38633" ; Times: 1
+	Query: "12549" ; Times: 1
+	Query: "73832" ; Times: 1
+	Query: "38568" ; Times: 1
+	Query: "2003–062" ; Times: 2
+	Query: "38592" ; Times: 1
+	Query: "(19565)" ; Times: 1
+	Query: "institutioncode:NCSM" ; Times: 1
+	Query: "46562" ; Times: 1
+	Query: "33761" ; Times: 1
+	Query: "65127" ; Times: 1
+	Query: "scientificname:(Noturus phaeus) country:United States mappable:1" ; Times: 1
+	Query: "marinus texas" ; Times: 1
+	Query: "49138" ; Times: 1
+	Query: "Melichthys niger mappable:1" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "38185" ; Times: 1
+	Query: "catalognumber:26392 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:26392" ; Times: 1
+	Query: "Rhinecanthus aculeatus mappable:1" ; Times: 1
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "Biltmore estate" ; Times: 5
+	Query: "scientificname:(Noturus hildebrandi) country:United States mappable:1" ; Times: 1
+	Query: "esomus metallicus" ; Times: 1
+	Query: "37765" ; Times: 1
+	Query: "scientificname:(Etheostoma rubrum) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma euzonum) country:United States mappable:1" ; Times: 1
+	Query: "80301" ; Times: 1
+	Query: "DUMERILI" ; Times: 1
+	Query: "30246" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1106 download events in this period)
+Total number of records downloaded: 1062
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-08 ; Times: 4
+	Date: 2020-05-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cyprinodon variegatus in Texas" ; Times: 2
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "Catostomus" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 1
+	Query: "Biltmore estate" ; Times: 1
+
+
+End of report.
