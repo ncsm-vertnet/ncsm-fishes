@@ -1,0 +1,223 @@
+Report for Institution Code NCSM, Resource ncsm_fishes
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 767
+Number of records retrieved in searches: 6967
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 47
+	Country: Ireland ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 685
+	Country: Peru ; Times: 6
+	Country: Argentina ; Times: 1
+	Country: France ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-05 ; Times: 6
+	Date: 2020-06-19 ; Times: 11
+	Date: 2020-06-18 ; Times: 7
+	Date: 2020-06-08 ; Times: 4
+	Date: 2020-06-09 ; Times: 12
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-07 ; Times: 4
+	Date: 2020-06-04 ; Times: 7
+	Date: 2020-06-16 ; Times: 1
+	Date: 2020-06-02 ; Times: 7
+	Date: 2020-06-03 ; Times: 4
+	Date: 2020-06-01 ; Times: 2
+	Date: 2020-06-15 ; Times: 118
+	Date: 2020-06-10 ; Times: 229
+	Date: 2020-06-29 ; Times: 3
+	Date: 2020-06-26 ; Times: 7
+	Date: 2020-06-11 ; Times: 231
+	Date: 2020-06-12 ; Times: 2
+	Date: 2020-06-17 ; Times: 110
+	Date: 2020-06-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Salmo salar" ; Times: 9
+	Query: "scientificname:(Sicydium buscki) country:United States mappable:1" ; Times: 2
+	Query: "Salmo trutta" ; Times: 9
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "scientificname:(Agonostomus monticola) country:United States mappable:1" ; Times: 2
+	Query: "Etheostoma vulneratum" ; Times: 1
+	Query: "Escualosa thoracata" ; Times: 6
+	Query: "Esox lucius" ; Times: 8
+	Query: "Cottus carolinae" ; Times: 5
+	Query: "37841" ; Times: 1
+	Query: "Sarotherodon melanotheron" ; Times: 12
+	Query: "Hemibagrus nemurus" ; Times: 6
+	Query: "Cyclocheilichthys enoplos" ; Times: 12
+	Query: "Cottus aleuticus" ; Times: 6
+	Query: "Pampus chinensis" ; Times: 6
+	Query: "Cottus bairdii" ; Times: 4
+	Query: "82441" ; Times: 1
+	Query: "Alburnus alburnus" ; Times: 9
+	Query: "paranthias furcifer" ; Times: 1
+	Query: "scientificname:(Awaous banana) country:United States mappable:1" ; Times: 2
+	Query: "Glossogobius aureus" ; Times: 6
+	Query: "59011" ; Times: 1
+	Query: "Pungitius pungitius" ; Times: 9
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "Trypauchen vagina" ; Times: 6
+	Query: "catalognumber:41469" ; Times: 1
+	Query: "catalognumber:55845" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 6
+	Query: "catalognumber:55841" ; Times: 1
+	Query: "snyderidia canina" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 12
+	Query: "Arius venosus" ; Times: 6
+	Query: "Abramis brama" ; Times: 6
+	Query: "Ictalurus lupus" ; Times: 6
+	Query: "scientificname:(Notropis oxyrhynchus) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:70280" ; Times: 1
+	Query: "Clarias batrachus" ; Times: 6
+	Query: "Gobiopterus chuno" ; Times: 6
+	Query: "noturus placidus" ; Times: 3
+	Query: "Decapterus russelli" ; Times: 6
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "Cheilopogon exsiliens" ; Times: 6
+	Query: "Western Pond Turtle" ; Times: 1
+	Query: "largemouth bass" ; Times: 1
+	Query: "Scomber australasicus" ; Times: 9
+	Query: "(10058)" ; Times: 1
+	Query: "Gambusia holbrooki" ; Times: 6
+	Query: "Decapterus tabl" ; Times: 6
+	Query: "Scomberomorus maculatus" ; Times: 6
+	Query: "virgin islands" ; Times: 1
+	Query: "Etheostoma kanawhae" ; Times: 1
+	Query: "UCONN" ; Times: 2
+	Query: "catalognumber:57338" ; Times: 1
+	Query: "county:&#34;Gates&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "scientificname:(Sicydium punctatum) country:United States mappable:1" ; Times: 2
+	Query: "Archocentrus nigrofasciatus" ; Times: 1
+	Query: "Clupeoides borneensis" ; Times: 12
+	Query: "Barbonymus gonionotus" ; Times: 12
+	Query: "Oreochromis mossambicus" ; Times: 6
+	Query: "Channa striata" ; Times: 12
+	Query: "Mugil cephalus" ; Times: 11
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "Arius arius" ; Times: 12
+	Query: "Labeo chrysophekadion" ; Times: 12
+	Query: "Cottus cognatus" ; Times: 6
+	Query: "Chitala ornata" ; Times: 12
+	Query: "Osteogeneiosus militaris" ; Times: 3
+	Query: "Arius oetik" ; Times: 6
+	Query: "black bear" ; Times: 1
+	Query: "Sardinella albella" ; Times: 6
+	Query: "RT 287" ; Times: 1
+	Query: "Decapterus macarellus" ; Times: 6
+	Query: "Scomber colias" ; Times: 6
+	Query: "Scomber japonicus" ; Times: 6
+	Query: "Scatophagus argus" ; Times: 6
+	Query: "Hilsa kelee" ; Times: 12
+	Query: "Cichla ocellaris" ; Times: 1
+	Query: "Kryptopterus geminus" ; Times: 12
+	Query: "scientificname:(Eleotris perniger) country:United States mappable:1" ; Times: 2
+	Query: "Hirundichthys rondeletii" ; Times: 6
+	Query: "pterois miles" ; Times: 1
+	Query: "Mastacembelus armatus" ; Times: 6
+	Query: "Barbonymus schwanenfeldii" ; Times: 6
+	Query: "Ctenopharyngodon idella" ; Times: 9
+	Query: "Ameiurus catus" ; Times: 6
+	Query: "Siganus canaliculatus" ; Times: 6
+	Query: "Cyprinus carpio" ; Times: 5
+	Query: "catalognumber:53419" ; Times: 1
+	Query: "Trichopsis vittata" ; Times: 12
+	Query: "Cheilopogon cyanopterus" ; Times: 6
+	Query: "Gasterosteus aculeatus" ; Times: 11
+	Query: "Hypophthalmichthys nobilis" ; Times: 6
+	Query: "Eleutheronema tetradactylum" ; Times: 9
+	Query: "Neoopisthopterus tropicus" ; Times: 1
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "catalognumber: 49140" ; Times: 1
+	Query: "Carassius auratus" ; Times: 6
+	Query: "prairie dog" ; Times: 1
+	Query: "Esomus metallicus" ; Times: 6
+	Query: "Channa micropeltes" ; Times: 12
+	Query: "stellifer stellifer" ; Times: 1
+	Query: "catalognumber:61239" ; Times: 1
+	Query: "melanogrammus aeglefinus" ; Times: 1
+	Query: "93108" ; Times: 1
+	Query: "scientificname:(Sicydium plumieri) country:United States mappable:1" ; Times: 2
+	Query: "Tylosurus crocodilus" ; Times: 6
+	Query: "Lates calcarifer" ; Times: 6
+	Query: "Priacanthus macracanthus" ; Times: 9
+	Query: "etheostoma vulneratum" ; Times: 2
+	Query: "county:&#34;brunswick&#34; (motsu)" ; Times: 1
+	Query: "Clarias macrocephalus" ; Times: 12
+	Query: "Cottus perplexus" ; Times: 6
+	Query: "Sillago sihama" ; Times: 6
+	Query: "Ictalurus punctatus" ; Times: 6
+	Query: "Cheilopogon heterurus" ; Times: 6
+	Query: "oblada melanura" ; Times: 1
+	Query: "Pangasius larnaudii" ; Times: 18
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "Piaractus brachypomus" ; Times: 6
+	Query: "Ambassis miops" ; Times: 6
+	Query: "Sardinella fimbriata" ; Times: 6
+	Query: "Labeo rohita" ; Times: 6
+	Query: "Cichlasoma bimaculatum" ; Times: 1
+	Query: "catalognumber:53248" ; Times: 1
+	Query: "Selar crumenophthalmus" ; Times: 6
+	Query: "Oreochromis niloticus" ; Times: 12
+	Query: "locality:celo county:&#34;Yancey&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Butis butis" ; Times: 6
+	Query: "Cottus asper" ; Times: 6
+	Query: "RT 318" ; Times: 1
+	Query: "Clupea harengus" ; Times: 15
+	Query: "Macrognathus siamensis" ; Times: 6
+	Query: "Hypophthalmichthys molitrix" ; Times: 12
+	Query: "Ictalurus furcatus" ; Times: 6
+	Query: "Dendrophysa russelii" ; Times: 6
+	Query: "21719" ; Times: 2
+	Query: "Cirrhinus microlepis" ; Times: 12
+	Query: "Gyrinocheilus aymonieri" ; Times: 9
+	Query: "catalognumber: 61436" ; Times: 1
+	Query: "Carassius carassius" ; Times: 6
+	Query: "Salvelinus malma" ; Times: 6
+	Query: "Coregonus zenithicus" ; Times: 6
+	Query: "scientificname:(Lutjanus apodus) country:United States mappable:1" ; Times: 2
+	Query: "Scomber scombrus" ; Times: 1
+	Query: "Pangasius pangasius" ; Times: 6
+	Query: "scientificname:(Lutjanus griseus) country:United States mappable:1" ; Times: 2
+	Query: "oarfish" ; Times: 1
+	Query: "Dermogenys siamensis" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 474 download events in this period)
+Total number of records downloaded: 2466
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-04 ; Times: 5
+	Date: 2020-06-05 ; Times: 3
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-03 ; Times: 1
+	Date: 2020-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:kentucky" ; Times: 1
+	Query: "county:&#34;brunswick&#34; (motsu)" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "Florida" ; Times: 1
+	Query: "american alligator" ; Times: 2
+	Query: "Gambusia nobilis" ; Times: 1
+	Query: "Etheostoma kanawhae" ; Times: 1
+	Query: "american beaver" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "largemouth bass" ; Times: 1
+
+
+End of report.
